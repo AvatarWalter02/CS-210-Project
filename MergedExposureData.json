@@ -1,0 +1,4342 @@
+{
+    "low_exposure": [
+        {
+            "date": "2019-09-23",
+            "exposure": 76.998025,
+            "step count": 2488,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-09-25",
+            "exposure": 75.987455,
+            "step count": 11299,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-09-26",
+            "exposure": 55.2615,
+            "step count": 25163,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-09-28",
+            "exposure": 77.551,
+            "step count": 32576,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-09-30",
+            "exposure": 54.857033333333334,
+            "step count": 12639,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-01",
+            "exposure": 73.10071666666666,
+            "step count": 1806,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-02",
+            "exposure": 68.94049,
+            "step count": 2928,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-03",
+            "exposure": 74.4837,
+            "step count": 1657,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-04",
+            "exposure": 76.74692682926829,
+            "step count": 5979,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-05",
+            "exposure": 67.73801470588236,
+            "step count": 12718,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-06",
+            "exposure": 79.306121875,
+            "step count": 9407,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-07",
+            "exposure": 63.3419,
+            "step count": 2571,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-08",
+            "exposure": 62.34847894736843,
+            "step count": 1542,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-09",
+            "exposure": 73.24963846153847,
+            "step count": 1101,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-10",
+            "exposure": 77.26140909090908,
+            "step count": 1209,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-12",
+            "exposure": 70.68077272727272,
+            "step count": 1515,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-13",
+            "exposure": 78.27960571428571,
+            "step count": 11828,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-14",
+            "exposure": 64.6985,
+            "step count": 2594,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-15",
+            "exposure": 78.49485294117646,
+            "step count": 1377,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-16",
+            "exposure": 67.33812,
+            "step count": 1141,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-17",
+            "exposure": 72.58246538461539,
+            "step count": 1244,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-18",
+            "exposure": 79.12459642857142,
+            "step count": 13207,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-19",
+            "exposure": 70.15025,
+            "step count": 6119,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-20",
+            "exposure": 77.26460769230769,
+            "step count": 12208,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-21",
+            "exposure": 72.08409999999999,
+            "step count": 1444,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-22",
+            "exposure": 69.61772222222221,
+            "step count": 1344,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-23",
+            "exposure": 73.7341888888889,
+            "step count": 1432,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-24",
+            "exposure": 76.264815,
+            "step count": 1758,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-25",
+            "exposure": 73.21374054054054,
+            "step count": 3211,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-26",
+            "exposure": 71.86384000000001,
+            "step count": 14877,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-28",
+            "exposure": 76.20291666666667,
+            "step count": 2412,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-29",
+            "exposure": 74.10216999999999,
+            "step count": 11907,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-30",
+            "exposure": 74.369875,
+            "step count": 2091,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-10-31",
+            "exposure": 76.66609090909091,
+            "step count": 1913,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-01",
+            "exposure": 72.394859375,
+            "step count": 11401,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-02",
+            "exposure": 59.34939090909091,
+            "step count": 6012,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-03",
+            "exposure": 77.16657058823529,
+            "step count": 8085,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-04",
+            "exposure": 45.21559166666666,
+            "step count": 3839,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-05",
+            "exposure": 70.36635217391304,
+            "step count": 1392,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-06",
+            "exposure": 72.63072222222223,
+            "step count": 7286,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-07",
+            "exposure": 70.5825875,
+            "step count": 1491,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-08",
+            "exposure": 73.03092105263158,
+            "step count": 9234,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-10",
+            "exposure": 53.387675,
+            "step count": 1566,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-11",
+            "exposure": 67.428525,
+            "step count": 1573,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-12",
+            "exposure": 71.25195263157894,
+            "step count": 2586,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-13",
+            "exposure": 72.21786666666667,
+            "step count": 3270,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-14",
+            "exposure": 75.3586090909091,
+            "step count": 1244,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-15",
+            "exposure": 71.00702608695651,
+            "step count": 8206,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-16",
+            "exposure": 59.02156666666667,
+            "step count": 2955,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-17",
+            "exposure": 69.77159310344827,
+            "step count": 9898,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-18",
+            "exposure": 72.22749999999999,
+            "step count": 1054,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-19",
+            "exposure": 70.77945625,
+            "step count": 2492,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-20",
+            "exposure": 72.36637777777777,
+            "step count": 1395,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-21",
+            "exposure": 71.76161904761905,
+            "step count": 2601,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-11-24",
+            "exposure": 70.12816666666667,
+            "step count": 4988,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-12-11",
+            "exposure": 68.0771,
+            "step count": 1166,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-12-13",
+            "exposure": 76.49780000000001,
+            "step count": 7510,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-12-21",
+            "exposure": 66.471,
+            "step count": 6042,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2019-12-24",
+            "exposure": 69.887,
+            "step count": 1168,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2020-07-01",
+            "exposure": 62.331402499999996,
+            "step count": 11635,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2133927376712625
+        },
+        {
+            "date": "2021-02-01",
+            "exposure": 62.84375,
+            "step count": 5211,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.636666666666667
+        },
+        {
+            "date": "2021-02-02",
+            "exposure": 55.792100000000005,
+            "step count": 5698,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.699103879849812
+        },
+        {
+            "date": "2021-02-03",
+            "exposure": 72.19381000000001,
+            "step count": 5235,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.767434730538922
+        },
+        {
+            "date": "2021-02-04",
+            "exposure": 69.22203333333333,
+            "step count": 5225,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.5992862190812716
+        },
+        {
+            "date": "2021-02-05",
+            "exposure": 75.21215333333333,
+            "step count": 4407,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.258900398406375
+        },
+        {
+            "date": "2021-02-08",
+            "exposure": 71.40061,
+            "step count": 5398,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.362806722689076
+        },
+        {
+            "date": "2021-02-20",
+            "exposure": 76.252,
+            "step count": 3845,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 2.8834285714285715
+        },
+        {
+            "date": "2021-06-10",
+            "exposure": 65.848125,
+            "step count": 6432,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.0351891891891896
+        },
+        {
+            "date": "2021-06-14",
+            "exposure": 76.92763461538462,
+            "step count": 9323,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.67269387755102
+        },
+        {
+            "date": "2021-06-26",
+            "exposure": 69.43017307692308,
+            "step count": 5623,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.3254719999999995
+        },
+        {
+            "date": "2021-07-01",
+            "exposure": 71.29082,
+            "step count": 10147,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.692994475138121
+        },
+        {
+            "date": "2021-07-16",
+            "exposure": 66.06132857142858,
+            "step count": 4344,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.184821192052979
+        },
+        {
+            "date": "2021-07-21",
+            "exposure": 75.718275,
+            "step count": 5868,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.155764705882353
+        },
+        {
+            "date": "2021-07-28",
+            "exposure": 76.759085,
+            "step count": 6178,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.6980999999999997
+        },
+        {
+            "date": "2021-08-16",
+            "exposure": 79.29059285714285,
+            "step count": 3137,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.055563636363636
+        },
+        {
+            "date": "2021-08-19",
+            "exposure": 49.56661666666667,
+            "step count": 8509,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.809686006825939
+        },
+        {
+            "date": "2021-08-21",
+            "exposure": 73.54159999999999,
+            "step count": 4736,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.31315337423313
+        },
+        {
+            "date": "2021-09-12",
+            "exposure": 77.79203333333334,
+            "step count": 2500,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.646588235294118
+        },
+        {
+            "date": "2021-10-14",
+            "exposure": 32.79895,
+            "step count": 13317,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.599625070581592
+        },
+        {
+            "date": "2021-10-29",
+            "exposure": 62.84477777777777,
+            "step count": 11088,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.383652514696277
+        },
+        {
+            "date": "2021-11-01",
+            "exposure": 76.0219,
+            "step count": 18135,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.340923365362081
+        },
+        {
+            "date": "2021-11-21",
+            "exposure": 77.49014285714286,
+            "step count": 12406,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.459404682274248
+        },
+        {
+            "date": "2021-11-22",
+            "exposure": 69.48782,
+            "step count": 15739,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.5676855415063224
+        },
+        {
+            "date": "2021-11-27",
+            "exposure": 77.3133,
+            "step count": 19897,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.63188899707887
+        },
+        {
+            "date": "2021-12-01",
+            "exposure": 74.76040571428571,
+            "step count": 8251,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.513646293888166
+        },
+        {
+            "date": "2021-12-04",
+            "exposure": 78.9011111111111,
+            "step count": 10691,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.655382232346241
+        },
+        {
+            "date": "2021-12-06",
+            "exposure": 72.74627741935484,
+            "step count": 6652,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.317196581196581
+        },
+        {
+            "date": "2021-12-16",
+            "exposure": 62.221540000000005,
+            "step count": 5984,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.359283516483516
+        },
+        {
+            "date": "2021-12-23",
+            "exposure": 77.50792040816327,
+            "step count": 12342,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.618771764705882
+        },
+        {
+            "date": "2021-12-25",
+            "exposure": 71.78668333333333,
+            "step count": 12942,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.6902489577129245
+        },
+        {
+            "date": "2022-01-02",
+            "exposure": 78.32116363636364,
+            "step count": 3621,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.644415704387991
+        },
+        {
+            "date": "2022-01-20",
+            "exposure": 73.13044545454545,
+            "step count": 4227,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.755841191066998
+        },
+        {
+            "date": "2022-01-23",
+            "exposure": 67.74147,
+            "step count": 5140,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.156897959183674
+        },
+        {
+            "date": "2022-02-26",
+            "exposure": 67.74176666666666,
+            "step count": 3976,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.610759581881533
+        },
+        {
+            "date": "2022-03-16",
+            "exposure": 76.1687,
+            "step count": 11054,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.656826213189548
+        },
+        {
+            "date": "2022-03-21",
+            "exposure": 76.4769,
+            "step count": 14337,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.652229439055251
+        },
+        {
+            "date": "2022-04-01",
+            "exposure": 0.0,
+            "step count": 16251,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.871461174881836
+        },
+        {
+            "date": "2022-04-03",
+            "exposure": 79.33216666666667,
+            "step count": 14560,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.590462179042332
+        },
+        {
+            "date": "2022-04-11",
+            "exposure": 78.5619,
+            "step count": 11844,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.697801782905087
+        },
+        {
+            "date": "2022-04-13",
+            "exposure": 79.54745,
+            "step count": 13485,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.381043478260869
+        },
+        {
+            "date": "2022-04-20",
+            "exposure": 67.08585,
+            "step count": 14414,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.946992700729927
+        },
+        {
+            "date": "2022-05-12",
+            "exposure": 0.0,
+            "step count": 17260,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.950438596491228
+        },
+        {
+            "date": "2022-05-18",
+            "exposure": 65.7891,
+            "step count": 9842,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.784077945084145
+        },
+        {
+            "date": "2022-05-21",
+            "exposure": 73.83420000000001,
+            "step count": 18759,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.331472718493481
+        },
+        {
+            "date": "2022-05-22",
+            "exposure": 67.02395,
+            "step count": 20858,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.203245283018868
+        },
+        {
+            "date": "2022-05-28",
+            "exposure": 62.682680000000005,
+            "step count": 15216,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.299614850588591
+        },
+        {
+            "date": "2022-06-12",
+            "exposure": 75.33253333333333,
+            "step count": 12548,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.4315837104072395
+        },
+        {
+            "date": "2022-07-03",
+            "exposure": 75.75174444444445,
+            "step count": 7454,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.5261605839416057
+        },
+        {
+            "date": "2022-07-08",
+            "exposure": 58.24219333333334,
+            "step count": 7034,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.48320848056537
+        },
+        {
+            "date": "2022-07-12",
+            "exposure": 72.49841333333333,
+            "step count": 3157,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.0905
+        },
+        {
+            "date": "2022-07-16",
+            "exposure": 75.42955714285713,
+            "step count": 1871,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.2479999999999998
+        },
+        {
+            "date": "2022-07-18",
+            "exposure": 65.71866666666666,
+            "step count": 5066,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.440946153846154
+        },
+        {
+            "date": "2022-07-19",
+            "exposure": 76.6577,
+            "step count": 7851,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.4679585062240665
+        },
+        {
+            "date": "2022-07-20",
+            "exposure": 66.785625,
+            "step count": 4523,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.136678571428571
+        },
+        {
+            "date": "2022-07-21",
+            "exposure": 49.63956666666667,
+            "step count": 4064,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.492630588235294
+        },
+        {
+            "date": "2022-07-22",
+            "exposure": 65.49770000000001,
+            "step count": 3650,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.0906666666666665
+        },
+        {
+            "date": "2022-07-25",
+            "exposure": 58.2262,
+            "step count": 4003,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.57536
+        },
+        {
+            "date": "2022-07-26",
+            "exposure": 60.21916363636364,
+            "step count": 5833,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.76849708737864
+        },
+        {
+            "date": "2022-07-27",
+            "exposure": 56.78434054054053,
+            "step count": 7056,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.033948717948718
+        },
+        {
+            "date": "2022-07-28",
+            "exposure": 51.11015384615385,
+            "step count": 3602,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.150404624277456
+        },
+        {
+            "date": "2022-07-29",
+            "exposure": 72.144,
+            "step count": 2733,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.7299655172413795
+        },
+        {
+            "date": "2022-08-01",
+            "exposure": 66.21632857142858,
+            "step count": 3730,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.585787234042553
+        },
+        {
+            "date": "2022-08-02",
+            "exposure": 65.81673913043478,
+            "step count": 8296,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.41704347826087
+        },
+        {
+            "date": "2022-08-03",
+            "exposure": 58.6926395652174,
+            "step count": 3964,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.701084112149533
+        },
+        {
+            "date": "2022-08-04",
+            "exposure": 62.72184444444445,
+            "step count": 6322,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.487225806451613
+        },
+        {
+            "date": "2022-08-05",
+            "exposure": 67.77577777777778,
+            "step count": 8174,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.719384615384615
+        },
+        {
+            "date": "2022-08-08",
+            "exposure": 69.49612499999999,
+            "step count": 3903,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.230853273137698
+        },
+        {
+            "date": "2022-08-09",
+            "exposure": 74.00967999999999,
+            "step count": 5869,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.408229140722291
+        },
+        {
+            "date": "2022-08-10",
+            "exposure": 56.8348375,
+            "step count": 5291,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.4122452431289645
+        },
+        {
+            "date": "2022-08-11",
+            "exposure": 68.63551538461539,
+            "step count": 5974,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.166322580645161
+        },
+        {
+            "date": "2022-08-12",
+            "exposure": 70.78838823529412,
+            "step count": 4513,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.209882352941176
+        },
+        {
+            "date": "2022-08-25",
+            "exposure": 78.6999,
+            "step count": 6111,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.243384615384615
+        },
+        {
+            "date": "2022-09-30",
+            "exposure": 58.18314,
+            "step count": 17340,
+            "active energy burned": 497.85900000000004,
+            "basal energy burned": 717.0239675,
+            "walking speed": 4.173427354472314
+        },
+        {
+            "date": "2022-11-06",
+            "exposure": 79.79718,
+            "step count": 10459,
+            "active energy burned": 283.198,
+            "basal energy burned": 730.6261925,
+            "walking speed": 4.253503692762186
+        },
+        {
+            "date": "2022-11-11",
+            "exposure": 79.1311,
+            "step count": 14648,
+            "active energy burned": 398.553,
+            "basal energy burned": 644.5650466666667,
+            "walking speed": 4.350698952879581
+        },
+        {
+            "date": "2022-11-19",
+            "exposure": 68.87597500000001,
+            "step count": 9671,
+            "active energy burned": 233.503,
+            "basal energy burned": 781.8649016666667,
+            "walking speed": 4.2083625557206545
+        },
+        {
+            "date": "2023-01-03",
+            "exposure": 76.92240000000001,
+            "step count": 8540,
+            "active energy burned": 223.517,
+            "basal energy burned": 853.3155772222223,
+            "walking speed": 4.288332446808511
+        },
+        {
+            "date": "2023-01-06",
+            "exposure": 76.60144375,
+            "step count": 10157,
+            "active energy burned": 315.198,
+            "basal energy burned": 599.9360675,
+            "walking speed": 4.682803738317757
+        },
+        {
+            "date": "2023-02-11",
+            "exposure": 79.0744,
+            "step count": 9649,
+            "active energy burned": 284.438,
+            "basal energy burned": 933.2429138888889,
+            "walking speed": 4.117911949685535
+        },
+        {
+            "date": "2023-04-13",
+            "exposure": 78.91746,
+            "step count": 13851,
+            "active energy burned": 346.545,
+            "basal energy burned": 965.7288852777777,
+            "walking speed": 4.218176576576576
+        },
+        {
+            "date": "2023-07-28",
+            "exposure": 69.0716,
+            "step count": 4234,
+            "active energy burned": 95.46900000000001,
+            "basal energy burned": 951.4378688888889,
+            "walking speed": 4.257714285714285
+        },
+        {
+            "date": "2023-08-07",
+            "exposure": 33.420766666666665,
+            "step count": 5999,
+            "active energy burned": 140.412,
+            "basal energy burned": 1004.7662141666667,
+            "walking speed": 4.2470608695652174
+        },
+        {
+            "date": "2023-08-08",
+            "exposure": 60.87706666666667,
+            "step count": 6060,
+            "active energy burned": 141.034,
+            "basal energy burned": 1051.4943236111112,
+            "walking speed": 4.452176020408163
+        },
+        {
+            "date": "2023-08-18",
+            "exposure": 61.914663636363635,
+            "step count": 7290,
+            "active energy burned": 175.195,
+            "basal energy burned": 1058.7037230555557,
+            "walking speed": 4.1017146311970984
+        },
+        {
+            "date": "2023-08-24",
+            "exposure": 69.12786666666666,
+            "step count": 9040,
+            "active energy burned": 256.35,
+            "basal energy burned": 950.9730666666667,
+            "walking speed": 3.7229341408024226
+        },
+        {
+            "date": "2023-08-25",
+            "exposure": 53.12733333333333,
+            "step count": 12863,
+            "active energy burned": 309.449,
+            "basal energy burned": 952.2446430555556,
+            "walking speed": 3.4393595447490948
+        },
+        {
+            "date": "2023-08-27",
+            "exposure": 77.356609375,
+            "step count": 6582,
+            "active energy burned": 132.544,
+            "basal energy burned": 976.0073338888889,
+            "walking speed": 3.921393865030675
+        },
+        {
+            "date": "2023-08-29",
+            "exposure": 54.7396,
+            "step count": 7531,
+            "active energy burned": 165.296,
+            "basal energy burned": 1087.5856280555556,
+            "walking speed": 2.586
+        },
+        {
+            "date": "2023-09-21",
+            "exposure": 79.88521111111112,
+            "step count": 11229,
+            "active energy burned": 267.754,
+            "basal energy burned": 920.7125719444444,
+            "walking speed": 4.083178743961352
+        },
+        {
+            "date": "2023-10-03",
+            "exposure": 75.32082,
+            "step count": 18957,
+            "active energy burned": 570.919,
+            "basal energy burned": 850.1685813888889,
+            "walking speed": 4.456536443148688
+        },
+        {
+            "date": "2023-10-04",
+            "exposure": 59.650133333333336,
+            "step count": 14734,
+            "active energy burned": 364.552,
+            "basal energy burned": 937.5385666666667,
+            "walking speed": 4.380870292887029
+        },
+        {
+            "date": "2023-10-09",
+            "exposure": 68.19099999999999,
+            "step count": 12181,
+            "active energy burned": 346.817,
+            "basal energy burned": 963.2802519444444,
+            "walking speed": 4.456720295202952
+        },
+        {
+            "date": "2023-10-17",
+            "exposure": 75.87915,
+            "step count": 17279,
+            "active energy burned": 524.594,
+            "basal energy burned": 763.5542094444445,
+            "walking speed": 4.244148872820077
+        },
+        {
+            "date": "2023-10-19",
+            "exposure": 73.57724999999999,
+            "step count": 8715,
+            "active energy burned": 254.85,
+            "basal energy burned": 975.9522280555556,
+            "walking speed": 4.33791725406068
+        },
+        {
+            "date": "2023-11-01",
+            "exposure": 69.54025,
+            "step count": 10500,
+            "active energy burned": 326.608,
+            "basal energy burned": 1017.5482305555556,
+            "walking speed": 4.511369007114136
+        },
+        {
+            "date": "2023-11-12",
+            "exposure": 73.30175555555554,
+            "step count": 15988,
+            "active energy burned": 433.526,
+            "basal energy burned": 831.0996391666666,
+            "walking speed": 4.262166458741757
+        },
+        {
+            "date": "2023-11-26",
+            "exposure": 58.553599999999996,
+            "step count": 7093,
+            "active energy burned": 191.243,
+            "basal energy burned": 1093.6066402777778,
+            "walking speed": 4.618138248847926
+        },
+        {
+            "date": "2024-01-03",
+            "exposure": 62.549366666666664,
+            "step count": 20093,
+            "active energy burned": 584.308,
+            "basal energy burned": 791.9426316666667,
+            "walking speed": 4.442244988864143
+        },
+        {
+            "date": "2024-01-05",
+            "exposure": 77.67084285714286,
+            "step count": 22791,
+            "active energy burned": 662.52,
+            "basal energy burned": 1000.8999827777778,
+            "walking speed": 4.394089285714285
+        },
+        {
+            "date": "2024-01-06",
+            "exposure": 64.5879,
+            "step count": 16901,
+            "active energy burned": 473.37,
+            "basal energy burned": 975.0862669444444,
+            "walking speed": 4.378777934936351
+        },
+        {
+            "date": "2024-01-09",
+            "exposure": 72.8263,
+            "step count": 12863,
+            "active energy burned": 387.633,
+            "basal energy burned": 952.6571002777778,
+            "walking speed": 4.435326657645467
+        },
+        {
+            "date": "2024-01-12",
+            "exposure": 66.0198,
+            "step count": 19114,
+            "active energy burned": 524.81,
+            "basal energy burned": 771.6876119444445,
+            "walking speed": 4.1179422246220305
+        },
+        {
+            "date": "2024-02-13",
+            "exposure": 76.91506595744681,
+            "step count": 9299,
+            "active energy burned": 580.4703,
+            "basal energy burned": 879.3097619444445,
+            "walking speed": 4.455634218289085
+        },
+        {
+            "date": "2024-02-15",
+            "exposure": 65.94181666666667,
+            "step count": 9851,
+            "active energy burned": 296.075,
+            "basal energy burned": 1033.077936388889,
+            "walking speed": 4.696815703380589
+        },
+        {
+            "date": "2024-02-22",
+            "exposure": 78.23965555555554,
+            "step count": 9909,
+            "active energy burned": 274.135,
+            "basal energy burned": 999.5958791666667,
+            "walking speed": 4.629804656788631
+        },
+        {
+            "date": "2024-02-27",
+            "exposure": 72.2192870967742,
+            "step count": 10049,
+            "active energy burned": 570.24387,
+            "basal energy burned": 1228.1735172222222,
+            "walking speed": 4.323796484736356
+        },
+        {
+            "date": "2024-02-28",
+            "exposure": 78.240665625,
+            "step count": 14315,
+            "active energy burned": 755.5148,
+            "basal energy burned": 1135.6129041666668,
+            "walking speed": 4.38293359223301
+        },
+        {
+            "date": "2024-03-01",
+            "exposure": 64.3329,
+            "step count": 14483,
+            "active energy burned": 432.058,
+            "basal energy burned": 1005.3253016666666,
+            "walking speed": 4.351942102406369
+        },
+        {
+            "date": "2024-03-03",
+            "exposure": 59.78446,
+            "step count": 7043,
+            "active energy burned": 351.75446,
+            "basal energy burned": 1171.3572544444444,
+            "walking speed": 4.2578882681564245
+        },
+        {
+            "date": "2024-03-04",
+            "exposure": 73.04171111111111,
+            "step count": 9972,
+            "active energy burned": 574.3664600000001,
+            "basal energy burned": 1235.3480591666666,
+            "walking speed": 4.596184426229509
+        },
+        {
+            "date": "2024-03-08",
+            "exposure": 58.0355,
+            "step count": 12761,
+            "active energy burned": 340.569,
+            "basal energy burned": 1107.1936916666666,
+            "walking speed": 4.372082274092905
+        },
+        {
+            "date": "2024-03-13",
+            "exposure": 75.51117619047619,
+            "step count": 14227,
+            "active energy burned": 442.019,
+            "basal energy burned": 1155.3945805555556,
+            "walking speed": 4.648584415584415
+        },
+        {
+            "date": "2024-03-22",
+            "exposure": 79.30795454545455,
+            "step count": 7410,
+            "active energy burned": 206.582,
+            "basal energy burned": 1202.539053888889,
+            "walking speed": 4.596651428571429
+        },
+        {
+            "date": "2024-03-24",
+            "exposure": 75.86670000000001,
+            "step count": 10091,
+            "active energy burned": 518.8393,
+            "basal energy burned": 1198.8763736111111,
+            "walking speed": 4.379897102306328
+        },
+        {
+            "date": "2024-03-26",
+            "exposure": 60.586800000000004,
+            "step count": 6240,
+            "active energy burned": 157.517,
+            "basal energy burned": 1302.716561111111,
+            "walking speed": 4.092837506659563
+        },
+        {
+            "date": "2024-03-30",
+            "exposure": 70.3385,
+            "step count": 10124,
+            "active energy burned": 330.455,
+            "basal energy burned": 1225.1267866666667,
+            "walking speed": 4.225218504509747
+        },
+        {
+            "date": "2024-04-02",
+            "exposure": 66.24379375,
+            "step count": 12929,
+            "active energy burned": 394.2,
+            "basal energy burned": 1197.4464330555556,
+            "walking speed": 4.103929036073329
+        },
+        {
+            "date": "2024-04-16",
+            "exposure": 77.3143,
+            "step count": 13345,
+            "active energy burned": 415.63800000000003,
+            "basal energy burned": 1061.938571111111,
+            "walking speed": 4.416666809147253
+        },
+        {
+            "date": "2024-05-11",
+            "exposure": 75.05815294117646,
+            "step count": 10145,
+            "active energy burned": 300.851,
+            "basal energy burned": 1178.7118369444445,
+            "walking speed": 4.379519114157659
+        },
+        {
+            "date": "2024-05-18",
+            "exposure": 67.3945,
+            "step count": 21594,
+            "active energy burned": 654.277,
+            "basal energy burned": 916.0840947222223,
+            "walking speed": 4.591660412757974
+        },
+        {
+            "date": "2024-06-05",
+            "exposure": 57.8688,
+            "step count": 15623,
+            "active energy burned": 474.318,
+            "basal energy burned": 925.7698244444445,
+            "walking speed": 4.562035359116022
+        },
+        {
+            "date": "2024-07-04",
+            "exposure": 72.50493043478261,
+            "step count": 13227,
+            "active energy burned": 377.243,
+            "basal energy burned": 1081.0727277777778,
+            "walking speed": 4.730467289719626
+        },
+        {
+            "date": "2024-07-05",
+            "exposure": 64.3729,
+            "step count": 7243,
+            "active energy burned": 171.692,
+            "basal energy burned": 1129.7193816666668,
+            "walking speed": 4.173702127659574
+        },
+        {
+            "date": "2024-07-06",
+            "exposure": 74.20423076923076,
+            "step count": 7570,
+            "active energy burned": 218.406,
+            "basal energy burned": 1105.3389602777777,
+            "walking speed": 4.4641783944499505
+        },
+        {
+            "date": "2024-07-13",
+            "exposure": 69.75569107142857,
+            "step count": 6919,
+            "active energy burned": 179.14600000000002,
+            "basal energy burned": 876.8531472222222,
+            "walking speed": 4.117976470588236
+        },
+        {
+            "date": "2024-07-15",
+            "exposure": 69.45084130434782,
+            "step count": 12200,
+            "active energy burned": 348.798,
+            "basal energy burned": 953.5486555555556,
+            "walking speed": 4.450363415621206
+        },
+        {
+            "date": "2024-07-21",
+            "exposure": 70.25658571428572,
+            "step count": 8191,
+            "active energy burned": 217.367,
+            "basal energy burned": 1243.2803188888888,
+            "walking speed": 4.386196328810854
+        },
+        {
+            "date": "2024-07-23",
+            "exposure": 78.88824358974358,
+            "step count": 8638,
+            "active energy burned": 203.289,
+            "basal energy burned": 850.9851872222223,
+            "walking speed": 4.494597873178416
+        },
+        {
+            "date": "2024-07-24",
+            "exposure": 76.25758035714286,
+            "step count": 7279,
+            "active energy burned": 177.932,
+            "basal energy burned": 1179.4611608333335,
+            "walking speed": 3.7176351791530946
+        },
+        {
+            "date": "2024-07-27",
+            "exposure": 74.3928894736842,
+            "step count": 24580,
+            "active energy burned": 586.329,
+            "basal energy burned": 762.7149108333333,
+            "walking speed": 4.613990501319261
+        },
+        {
+            "date": "2024-07-29",
+            "exposure": 62.60776666666667,
+            "step count": 28638,
+            "active energy burned": 720.37,
+            "basal energy burned": 1020.1568408333333,
+            "walking speed": 4.330919388522262
+        },
+        {
+            "date": "2024-07-30",
+            "exposure": 59.911833333333334,
+            "step count": 9863,
+            "active energy burned": 266.784,
+            "basal energy burned": 1088.0331011111111,
+            "walking speed": 4.447584839650146
+        },
+        {
+            "date": "2024-08-02",
+            "exposure": 77.62939333333334,
+            "step count": 5414,
+            "active energy burned": 128.147,
+            "basal energy burned": 1243.9627794444445,
+            "walking speed": 4.325168674698794
+        },
+        {
+            "date": "2024-08-17",
+            "exposure": 77.62932916666666,
+            "step count": 5904,
+            "active energy burned": 179.149,
+            "basal energy burned": 1072.6541916666667,
+            "walking speed": 3.7364734982332157
+        },
+        {
+            "date": "2024-08-22",
+            "exposure": 63.41505,
+            "step count": 3895,
+            "active energy burned": 82.042,
+            "basal energy burned": 1223.1063725000001,
+            "walking speed": 4.246392857142857
+        },
+        {
+            "date": "2024-08-23",
+            "exposure": 65.3675,
+            "step count": 10029,
+            "active energy burned": 302.621,
+            "basal energy burned": 1100.8203030555555,
+            "walking speed": 4.275157030448169
+        },
+        {
+            "date": "2024-08-24",
+            "exposure": 75.8612,
+            "step count": 4014,
+            "active energy burned": 83.208,
+            "basal energy burned": 1240.5562386111112,
+            "walking speed": 4.064106261859583
+        },
+        {
+            "date": "2024-08-25",
+            "exposure": 78.23587777777777,
+            "step count": 3643,
+            "active energy burned": 83.938,
+            "basal energy burned": 1241.0858180555556,
+            "walking speed": 3.889587301587302
+        },
+        {
+            "date": "2024-08-26",
+            "exposure": 77.0683,
+            "step count": 6933,
+            "active energy burned": 181.72,
+            "basal energy burned": 1142.9464375,
+            "walking speed": 3.9212611764705882
+        },
+        {
+            "date": "2024-09-07",
+            "exposure": 77.89734811320754,
+            "step count": 20858,
+            "active energy burned": 551.299,
+            "basal energy burned": 1035.3761491666667,
+            "walking speed": 4.513798810703666
+        },
+        {
+            "date": "2024-09-08",
+            "exposure": 69.66154736842104,
+            "step count": 19387,
+            "active energy burned": 513.92,
+            "basal energy burned": 1010.751338888889,
+            "walking speed": 4.462317891373802
+        },
+        {
+            "date": "2024-09-09",
+            "exposure": 59.91065,
+            "step count": 20266,
+            "active energy burned": 605.625,
+            "basal energy burned": 1195.7707125000002,
+            "walking speed": 4.720405042477392
+        },
+        {
+            "date": "2024-09-12",
+            "exposure": 79.25122222222222,
+            "step count": 17834,
+            "active energy burned": 486.79200000000003,
+            "basal energy burned": 904.2321102777778,
+            "walking speed": 4.357660017346054
+        },
+        {
+            "date": "2024-09-13",
+            "exposure": 52.54514999999999,
+            "step count": 11325,
+            "active energy burned": 248.233,
+            "basal energy burned": 1042.2464166666666,
+            "walking speed": 4.037508700102355
+        },
+        {
+            "date": "2024-09-15",
+            "exposure": 77.44530999999999,
+            "step count": 24403,
+            "active energy burned": 680.544,
+            "basal energy burned": 1157.4325805555557,
+            "walking speed": 4.630024812955773
+        },
+        {
+            "date": "2024-09-16",
+            "exposure": 74.07116933061224,
+            "step count": 14657,
+            "active energy burned": 409.022,
+            "basal energy burned": 1204.4548247222224,
+            "walking speed": 4.481665950380934
+        },
+        {
+            "date": "2024-09-23",
+            "exposure": 72.53506666666667,
+            "step count": 13076,
+            "active energy burned": 379.097,
+            "basal energy burned": 1125.5496866666667,
+            "walking speed": 4.1409284164859
+        },
+        {
+            "date": "2024-09-27",
+            "exposure": 62.62748260869565,
+            "step count": 10780,
+            "active energy burned": 251.221,
+            "basal energy burned": 871.9718288888889,
+            "walking speed": 4.140047368421053
+        },
+        {
+            "date": "2024-09-29",
+            "exposure": 52.910333333333334,
+            "step count": 8560,
+            "active energy burned": 217.746,
+            "basal energy burned": 1130.25709,
+            "walking speed": 4.006685375067458
+        },
+        {
+            "date": "2024-10-04",
+            "exposure": 66.67664285714285,
+            "step count": 21084,
+            "active energy burned": 508.489,
+            "basal energy burned": 962.3316269444445,
+            "walking speed": 4.279612756264237
+        },
+        {
+            "date": "2024-10-08",
+            "exposure": 68.99605,
+            "step count": 15701,
+            "active energy burned": 481.80400000000003,
+            "basal energy burned": 1107.1143202777778,
+            "walking speed": 4.177590491141512
+        },
+        {
+            "date": "2024-10-09",
+            "exposure": 64.63240869565217,
+            "step count": 15086,
+            "active energy burned": 455.579,
+            "basal energy burned": 1089.918108888889,
+            "walking speed": 4.166329289428076
+        },
+        {
+            "date": "2024-10-18",
+            "exposure": 75.3919875,
+            "step count": 11460,
+            "active energy burned": 354.347,
+            "basal energy burned": 1244.838653611111,
+            "walking speed": 4.49891387313048
+        },
+        {
+            "date": "2024-10-19",
+            "exposure": 76.65068666666666,
+            "step count": 5826,
+            "active energy burned": 182.47,
+            "basal energy burned": 1280.8082516666668,
+            "walking speed": 4.734147634069401
+        },
+        {
+            "date": "2024-10-29",
+            "exposure": 68.62699166666667,
+            "step count": 15489,
+            "active energy burned": 468.09000000000003,
+            "basal energy burned": 1200.3802227777778,
+            "walking speed": 4.143958441558442
+        },
+        {
+            "date": "2024-11-02",
+            "exposure": 48.274699999999996,
+            "step count": 19203,
+            "active energy burned": 650.604,
+            "basal energy burned": 1027.1455427777778,
+            "walking speed": 4.297155446756426
+        },
+        {
+            "date": "2024-11-03",
+            "exposure": 70.262325,
+            "step count": 18570,
+            "active energy burned": 565.222,
+            "basal energy burned": 905.0657644444445,
+            "walking speed": 4.303321752862219
+        },
+        {
+            "date": "2024-11-12",
+            "exposure": 65.8912,
+            "step count": 9189,
+            "active energy burned": 329.101,
+            "basal energy burned": 1196.1996883333334,
+            "walking speed": 4.397828791279256
+        },
+        {
+            "date": "2024-11-13",
+            "exposure": 70.0732,
+            "step count": 13858,
+            "active energy burned": 428.83500000000004,
+            "basal energy burned": 1115.0181169444445,
+            "walking speed": 4.28352611784371
+        },
+        {
+            "date": "2024-11-17",
+            "exposure": 70.25393636363637,
+            "step count": 8405,
+            "active energy burned": 272.521,
+            "basal energy burned": 1299.355941388889,
+            "walking speed": 4.270910115878484
+        },
+        {
+            "date": "2024-11-21",
+            "exposure": 67.68358,
+            "step count": 12082,
+            "active energy burned": 358.385,
+            "basal energy burned": 1099.677101388889,
+            "walking speed": 4.387423805913571
+        },
+        {
+            "date": "2024-11-22",
+            "exposure": 75.87625625,
+            "step count": 12863,
+            "active energy burned": 411.853,
+            "basal energy burned": 1135.043156111111,
+            "walking speed": 4.0831357436674605
+        },
+        {
+            "date": "2024-11-24",
+            "exposure": 67.63523333333333,
+            "step count": 8624,
+            "active energy burned": 228.69299999999998,
+            "basal energy burned": 1061.2550458333335,
+            "walking speed": 4.2318224066390036
+        },
+        {
+            "date": "2024-11-25",
+            "exposure": 61.5976625,
+            "step count": 12110,
+            "active energy burned": 382.91,
+            "basal energy burned": 1157.778862777778,
+            "walking speed": 4.511827563683867
+        },
+        {
+            "date": "2024-11-28",
+            "exposure": 74.0513875,
+            "step count": 14406,
+            "active energy burned": 453.103,
+            "basal energy burned": 1245.848015,
+            "walking speed": 4.17479207920792
+        },
+        {
+            "date": "2024-11-30",
+            "exposure": 73.98913870967742,
+            "step count": 5808,
+            "active energy burned": 173.749,
+            "basal energy burned": 1318.4114858333335,
+            "walking speed": 4.558294117647058
+        },
+        {
+            "date": "2024-12-01",
+            "exposure": 77.4551875,
+            "step count": 10981,
+            "active energy burned": 314.43600000000004,
+            "basal energy burned": 1119.8551805555555,
+            "walking speed": 4.284598890942698
+        },
+        {
+            "date": "2024-12-06",
+            "exposure": 65.25304736842105,
+            "step count": 16781,
+            "active energy burned": 524.927,
+            "basal energy burned": 1066.9449475000001,
+            "walking speed": 4.522548773531089
+        },
+        {
+            "date": "2024-12-10",
+            "exposure": 67.58348571428571,
+            "step count": 10960,
+            "active energy burned": 303.171,
+            "basal energy burned": 1168.6684552777779,
+            "walking speed": 4.701455531453362
+        },
+        {
+            "date": "2024-12-11",
+            "exposure": 75.75253636363637,
+            "step count": 10442,
+            "active energy burned": 336.161,
+            "basal energy burned": 1219.3760772222224,
+            "walking speed": 4.304167409948541
+        },
+        {
+            "date": "2024-12-12",
+            "exposure": 73.3109,
+            "step count": 16558,
+            "active energy burned": 536.431,
+            "basal energy burned": 1242.1960747222222,
+            "walking speed": 4.142995227489659
+        },
+        {
+            "date": "2024-12-13",
+            "exposure": 69.15910000000001,
+            "step count": 10540,
+            "active energy burned": 292.492,
+            "basal energy burned": 1095.1244986111112,
+            "walking speed": 4.3703615743829225
+        },
+        {
+            "date": "2024-12-14",
+            "exposure": 68.54384285714285,
+            "step count": 6599,
+            "active energy burned": 205.796,
+            "basal energy burned": 1247.1354858333334,
+            "walking speed": 4.42256603773585
+        },
+        {
+            "date": "2024-12-19",
+            "exposure": 55.39451818181818,
+            "step count": 9065,
+            "active energy burned": 274.159,
+            "basal energy burned": 1241.6073075000002,
+            "walking speed": 4.380484251968504
+        },
+        {
+            "date": "2024-12-20",
+            "exposure": 66.18008333333334,
+            "step count": 10200,
+            "active energy burned": 329.08,
+            "basal energy burned": 1133.2096352777778,
+            "walking speed": 4.244104358138156
+        },
+        {
+            "date": "2024-12-23",
+            "exposure": 78.90875,
+            "step count": 10251,
+            "active energy burned": 316.43399999999997,
+            "basal energy burned": 1120.1249869444446,
+            "walking speed": 4.217120593692022
+        },
+        {
+            "date": "2024-12-26",
+            "exposure": 73.92556666666667,
+            "step count": 17347,
+            "active energy burned": 509.021,
+            "basal energy burned": 1193.503025,
+            "walking speed": 4.274935913821436
+        },
+        {
+            "date": "2024-12-29",
+            "exposure": 71.61725454545454,
+            "step count": 12449,
+            "active energy burned": 395.327,
+            "basal energy burned": 1240.4255427777778,
+            "walking speed": 4.38122302771855
+        },
+        {
+            "date": "2025-01-01",
+            "exposure": 79.77713846153847,
+            "step count": 10117,
+            "active energy burned": 295.349,
+            "basal energy burned": 1173.3045216666667,
+            "walking speed": 4.492113000864802
+        },
+        {
+            "date": "2025-01-03",
+            "exposure": 70.36484242424243,
+            "step count": 7072,
+            "active energy burned": 193.85999999999999,
+            "basal energy burned": 1333.0304719444446,
+            "walking speed": 4.008878048780488
+        },
+        {
+            "date": "2025-01-07",
+            "exposure": 59.38384193548387,
+            "step count": 8705,
+            "active energy burned": 260.005,
+            "basal energy burned": 1078.516358888889,
+            "walking speed": 4.314104663581346
+        },
+        {
+            "date": "2025-01-08",
+            "exposure": 56.02547142857143,
+            "step count": 10340,
+            "active energy burned": 301.252,
+            "basal energy burned": 960.9015275,
+            "walking speed": 4.453731207289294
+        }
+    ],
+    "high_exposure": [
+        {
+            "date": "2021-03-24",
+            "exposure": 92.65015,
+            "step count": 4118,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.178215384615385
+        },
+        {
+            "date": "2021-03-29",
+            "exposure": 90.67535,
+            "step count": 6480,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.6443265306122448
+        },
+        {
+            "date": "2021-04-02",
+            "exposure": 91.24248,
+            "step count": 4248,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.0070853658536585
+        },
+        {
+            "date": "2021-04-05",
+            "exposure": 92.46098490566038,
+            "step count": 3265,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.079400000000001
+        },
+        {
+            "date": "2021-04-08",
+            "exposure": 91.87785,
+            "step count": 2830,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.213636363636365
+        },
+        {
+            "date": "2021-04-12",
+            "exposure": 92.54997499999999,
+            "step count": 3146,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.943230769230769
+        },
+        {
+            "date": "2021-04-14",
+            "exposure": 90.79668,
+            "step count": 3333,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.456
+        },
+        {
+            "date": "2021-04-16",
+            "exposure": 93.22325000000001,
+            "step count": 2766,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.937348314606741
+        },
+        {
+            "date": "2021-04-18",
+            "exposure": 88.85705,
+            "step count": 5809,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.07740909090909
+        },
+        {
+            "date": "2021-04-19",
+            "exposure": 85.41120681818182,
+            "step count": 4533,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.661024630541872
+        },
+        {
+            "date": "2021-04-21",
+            "exposure": 92.37976176470588,
+            "step count": 5147,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.350380487804879
+        },
+        {
+            "date": "2021-05-17",
+            "exposure": 87.42036666666667,
+            "step count": 3500,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.4459999999999997
+        },
+        {
+            "date": "2021-05-20",
+            "exposure": 92.876725,
+            "step count": 5288,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.31269306930693
+        },
+        {
+            "date": "2021-05-21",
+            "exposure": 87.28096666666666,
+            "step count": 2769,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.8323636363636364
+        },
+        {
+            "date": "2021-05-22",
+            "exposure": 93.81984285714286,
+            "step count": 7056,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.699186440677966
+        },
+        {
+            "date": "2021-05-24",
+            "exposure": 93.0423,
+            "step count": 3128,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.5119999999999996
+        },
+        {
+            "date": "2021-05-25",
+            "exposure": 91.47032469135803,
+            "step count": 2805,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.7765026178010475
+        },
+        {
+            "date": "2021-05-27",
+            "exposure": 91.64147777777777,
+            "step count": 2883,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.1119200000000005
+        },
+        {
+            "date": "2021-05-28",
+            "exposure": 93.6465,
+            "step count": 2693,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.991335180055402
+        },
+        {
+            "date": "2021-06-02",
+            "exposure": 90.77317777777778,
+            "step count": 2031,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.768
+        },
+        {
+            "date": "2021-06-04",
+            "exposure": 93.26313333333333,
+            "step count": 3580,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.8055789473684216
+        },
+        {
+            "date": "2021-06-07",
+            "exposure": 93.23552631578947,
+            "step count": 9054,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.938067149440421
+        },
+        {
+            "date": "2021-06-11",
+            "exposure": 91.20208727272728,
+            "step count": 3556,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.878068965517241
+        },
+        {
+            "date": "2021-06-12",
+            "exposure": 93.47787234042553,
+            "step count": 4463,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.298258823529412
+        },
+        {
+            "date": "2021-06-15",
+            "exposure": 90.22889428571429,
+            "step count": 4222,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.640695652173913
+        },
+        {
+            "date": "2021-06-16",
+            "exposure": 80.53940454545454,
+            "step count": 3190,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.309894736842106
+        },
+        {
+            "date": "2021-06-17",
+            "exposure": 92.6252,
+            "step count": 8216,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.876685714285714
+        },
+        {
+            "date": "2021-06-18",
+            "exposure": 85.66812499999999,
+            "step count": 5435,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.213747572815534
+        },
+        {
+            "date": "2021-06-19",
+            "exposure": 87.8405294117647,
+            "step count": 5389,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.7352571428571433
+        },
+        {
+            "date": "2021-06-21",
+            "exposure": 88.279165,
+            "step count": 6138,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.800322147651007
+        },
+        {
+            "date": "2021-06-22",
+            "exposure": 93.04473478260869,
+            "step count": 8386,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 5.002783974862529
+        },
+        {
+            "date": "2021-06-23",
+            "exposure": 88.42727466666668,
+            "step count": 9821,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.752396793587174
+        },
+        {
+            "date": "2021-06-24",
+            "exposure": 90.59313821138211,
+            "step count": 9533,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.951386814932486
+        },
+        {
+            "date": "2021-06-25",
+            "exposure": 93.3232,
+            "step count": 4394,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.662458923512748
+        },
+        {
+            "date": "2021-06-27",
+            "exposure": 94.00935,
+            "step count": 10104,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.3115924528301885
+        },
+        {
+            "date": "2021-06-28",
+            "exposure": 91.17943636363636,
+            "step count": 5508,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.5168
+        },
+        {
+            "date": "2021-06-29",
+            "exposure": 87.08773902439025,
+            "step count": 5625,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.8513808353808354
+        },
+        {
+            "date": "2021-07-05",
+            "exposure": 81.84325238095238,
+            "step count": 9491,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.427624674196351
+        },
+        {
+            "date": "2021-07-06",
+            "exposure": 86.92445714285714,
+            "step count": 5328,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.106330935251799
+        },
+        {
+            "date": "2021-07-08",
+            "exposure": 90.26417931034483,
+            "step count": 6113,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.9393152
+        },
+        {
+            "date": "2021-07-10",
+            "exposure": 93.75568181818181,
+            "step count": 4424,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.838605263157895
+        },
+        {
+            "date": "2021-07-11",
+            "exposure": 88.5545347826087,
+            "step count": 7115,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.858472324723247
+        },
+        {
+            "date": "2021-07-13",
+            "exposure": 90.42215416666666,
+            "step count": 4328,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.7410247933884295
+        },
+        {
+            "date": "2021-07-14",
+            "exposure": 91.65435434782609,
+            "step count": 5872,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.4520800000000005
+        },
+        {
+            "date": "2021-07-17",
+            "exposure": 93.64081355932204,
+            "step count": 7847,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.77475
+        },
+        {
+            "date": "2021-07-18",
+            "exposure": 86.6674,
+            "step count": 9351,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.559389830508474
+        },
+        {
+            "date": "2021-07-19",
+            "exposure": 88.2743125,
+            "step count": 15118,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.5667663043478255
+        },
+        {
+            "date": "2021-07-20",
+            "exposure": 89.01004489795918,
+            "step count": 5892,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.8126938775510206
+        },
+        {
+            "date": "2021-07-24",
+            "exposure": 92.37599999999999,
+            "step count": 3649,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.1616
+        },
+        {
+            "date": "2021-07-27",
+            "exposure": 92.5609,
+            "step count": 7803,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.361443413729129
+        },
+        {
+            "date": "2021-07-31",
+            "exposure": 90.4181,
+            "step count": 5321,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.060629921259843
+        },
+        {
+            "date": "2021-08-14",
+            "exposure": 92.35551428571429,
+            "step count": 4051,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.199657142857143
+        },
+        {
+            "date": "2021-08-15",
+            "exposure": 92.03104545454546,
+            "step count": 3063,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.126235294117647
+        },
+        {
+            "date": "2021-08-17",
+            "exposure": 91.03747419354839,
+            "step count": 7098,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.418390143737166
+        },
+        {
+            "date": "2021-09-22",
+            "exposure": 81.7471,
+            "step count": 5436,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.7613476394849785
+        },
+        {
+            "date": "2021-09-25",
+            "exposure": 90.3574,
+            "step count": 6535,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.498666666666667
+        },
+        {
+            "date": "2021-10-17",
+            "exposure": 88.3857,
+            "step count": 6055,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.4376
+        },
+        {
+            "date": "2021-10-18",
+            "exposure": 95.99096666666667,
+            "step count": 11624,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.691370491803279
+        },
+        {
+            "date": "2021-10-21",
+            "exposure": 93.0697,
+            "step count": 12242,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.734829319371728
+        },
+        {
+            "date": "2021-10-28",
+            "exposure": 81.62378,
+            "step count": 5666,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 5.43063829787234
+        },
+        {
+            "date": "2021-11-23",
+            "exposure": 83.51961428571428,
+            "step count": 13273,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.401363636363636
+        },
+        {
+            "date": "2021-11-25",
+            "exposure": 87.94143333333334,
+            "step count": 13450,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.516645563051375
+        },
+        {
+            "date": "2021-11-26",
+            "exposure": 81.7655,
+            "step count": 7411,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.402331506849316
+        },
+        {
+            "date": "2021-11-28",
+            "exposure": 91.8346,
+            "step count": 10464,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.671300175541252
+        },
+        {
+            "date": "2021-11-29",
+            "exposure": 83.55388723404256,
+            "step count": 17517,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.488372
+        },
+        {
+            "date": "2021-11-30",
+            "exposure": 87.6788875,
+            "step count": 15304,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.84237701396348
+        },
+        {
+            "date": "2021-12-02",
+            "exposure": 86.88841489361702,
+            "step count": 22088,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.823266592392169
+        },
+        {
+            "date": "2021-12-03",
+            "exposure": 89.38040909090908,
+            "step count": 13290,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.3217123670956905
+        },
+        {
+            "date": "2021-12-05",
+            "exposure": 88.6623,
+            "step count": 5596,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.327910313901345
+        },
+        {
+            "date": "2021-12-07",
+            "exposure": 81.02096363636363,
+            "step count": 4940,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.8488791208791207
+        },
+        {
+            "date": "2021-12-09",
+            "exposure": 88.63559607843138,
+            "step count": 22441,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.459680539932509
+        },
+        {
+            "date": "2021-12-10",
+            "exposure": 86.011575,
+            "step count": 12005,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.742129909365559
+        },
+        {
+            "date": "2021-12-11",
+            "exposure": 87.70604318181819,
+            "step count": 15649,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.320167053364269
+        },
+        {
+            "date": "2021-12-12",
+            "exposure": 87.67011525423729,
+            "step count": 22120,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.515878887070376
+        },
+        {
+            "date": "2021-12-13",
+            "exposure": 92.21094545454545,
+            "step count": 11770,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.55866847090663
+        },
+        {
+            "date": "2021-12-14",
+            "exposure": 86.58003,
+            "step count": 13224,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.836857142857143
+        },
+        {
+            "date": "2021-12-15",
+            "exposure": 96.4243,
+            "step count": 10459,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.4559531665779675
+        },
+        {
+            "date": "2021-12-19",
+            "exposure": 85.97592790697674,
+            "step count": 7444,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.231964601769912
+        },
+        {
+            "date": "2021-12-20",
+            "exposure": 86.28283333333333,
+            "step count": 11461,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.204252922422954
+        },
+        {
+            "date": "2021-12-21",
+            "exposure": 81.21025833333333,
+            "step count": 10678,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.726406676783005
+        },
+        {
+            "date": "2021-12-22",
+            "exposure": 89.57830833333333,
+            "step count": 9686,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.398369895916733
+        },
+        {
+            "date": "2021-12-26",
+            "exposure": 82.63179166666667,
+            "step count": 14744,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.432248704663213
+        },
+        {
+            "date": "2021-12-27",
+            "exposure": 87.97465476190476,
+            "step count": 19174,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.627293929712461
+        },
+        {
+            "date": "2021-12-28",
+            "exposure": 86.54958518518518,
+            "step count": 11371,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.551909268674228
+        },
+        {
+            "date": "2021-12-29",
+            "exposure": 84.91948,
+            "step count": 8863,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.328540455616653
+        },
+        {
+            "date": "2021-12-30",
+            "exposure": 88.76955,
+            "step count": 6628,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.806769230769231
+        },
+        {
+            "date": "2022-01-05",
+            "exposure": 86.58836666666667,
+            "step count": 2909,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 2.8512
+        },
+        {
+            "date": "2022-01-06",
+            "exposure": 91.72598500000001,
+            "step count": 8073,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.6525108695652175
+        },
+        {
+            "date": "2022-01-15",
+            "exposure": 81.5531375,
+            "step count": 4329,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.63007869742198
+        },
+        {
+            "date": "2022-01-19",
+            "exposure": 89.93784000000001,
+            "step count": 6579,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.46363590391909
+        },
+        {
+            "date": "2022-01-22",
+            "exposure": 92.034925,
+            "step count": 6175,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.3958054968287525
+        },
+        {
+            "date": "2022-01-24",
+            "exposure": 92.86771739130435,
+            "step count": 1952,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.7705263157894744
+        },
+        {
+            "date": "2022-01-26",
+            "exposure": 90.8464,
+            "step count": 3741,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.130618181818181
+        },
+        {
+            "date": "2022-01-28",
+            "exposure": 94.40982222222222,
+            "step count": 10010,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.5279466097170324
+        },
+        {
+            "date": "2022-01-29",
+            "exposure": 90.7767125,
+            "step count": 3251,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.545041860465116
+        },
+        {
+            "date": "2022-02-01",
+            "exposure": 82.81355490476192,
+            "step count": 5175,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2111
+        },
+        {
+            "date": "2022-02-02",
+            "exposure": 90.18434772727272,
+            "step count": 2274,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.596218181818182
+        },
+        {
+            "date": "2022-02-03",
+            "exposure": 91.80258928571428,
+            "step count": 9084,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.919083557951482
+        },
+        {
+            "date": "2022-02-04",
+            "exposure": 93.80298260869566,
+            "step count": 8402,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.5852962607861936
+        },
+        {
+            "date": "2022-02-05",
+            "exposure": 88.51265714285714,
+            "step count": 17097,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.8644291609353507
+        },
+        {
+            "date": "2022-02-06",
+            "exposure": 88.69424634146341,
+            "step count": 4899,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.037632653061224
+        },
+        {
+            "date": "2022-02-07",
+            "exposure": 92.71153333333332,
+            "step count": 3973,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.284
+        },
+        {
+            "date": "2022-02-09",
+            "exposure": 86.76358181818182,
+            "step count": 7152,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.419886214442013
+        },
+        {
+            "date": "2022-02-11",
+            "exposure": 84.30573018867925,
+            "step count": 9282,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.875291262135923
+        },
+        {
+            "date": "2022-02-12",
+            "exposure": 91.07032857142858,
+            "step count": 3815,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.730666666666666
+        },
+        {
+            "date": "2022-02-13",
+            "exposure": 91.16901874999999,
+            "step count": 2427,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.4545882352941177
+        },
+        {
+            "date": "2022-02-14",
+            "exposure": 93.5109,
+            "step count": 2357,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.174686131386862
+        },
+        {
+            "date": "2022-02-16",
+            "exposure": 93.42525,
+            "step count": 7243,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.6569320388349515
+        },
+        {
+            "date": "2022-02-18",
+            "exposure": 92.62738125,
+            "step count": 6036,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.37025
+        },
+        {
+            "date": "2022-02-19",
+            "exposure": 87.11214285714286,
+            "step count": 6577,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.449654545454545
+        },
+        {
+            "date": "2022-02-20",
+            "exposure": 89.89292222222223,
+            "step count": 12030,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.252192522561238
+        },
+        {
+            "date": "2022-02-24",
+            "exposure": 88.49878783783784,
+            "step count": 4122,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.504631578947369
+        },
+        {
+            "date": "2022-02-25",
+            "exposure": 91.18778999999999,
+            "step count": 2627,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.4637142857142855
+        },
+        {
+            "date": "2022-02-27",
+            "exposure": 90.0156,
+            "step count": 17782,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.583259183673469
+        },
+        {
+            "date": "2022-03-01",
+            "exposure": 87.61476363636363,
+            "step count": 15172,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.769929350196249
+        },
+        {
+            "date": "2022-03-03",
+            "exposure": 87.29027777777777,
+            "step count": 12324,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.443077851538926
+        },
+        {
+            "date": "2022-03-04",
+            "exposure": 84.90258333333333,
+            "step count": 15324,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.818955503512881
+        },
+        {
+            "date": "2022-03-05",
+            "exposure": 81.89515,
+            "step count": 3260,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.0716
+        },
+        {
+            "date": "2022-03-06",
+            "exposure": 94.036425,
+            "step count": 4778,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.798279792746114
+        },
+        {
+            "date": "2022-03-08",
+            "exposure": 84.27147142857143,
+            "step count": 14324,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.427080188679246
+        },
+        {
+            "date": "2022-03-09",
+            "exposure": 88.3637,
+            "step count": 13834,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.680201037096131
+        },
+        {
+            "date": "2022-03-10",
+            "exposure": 85.89154444444445,
+            "step count": 14338,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.270697582634435
+        },
+        {
+            "date": "2022-03-11",
+            "exposure": 80.64705384615385,
+            "step count": 19108,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.304997547015535
+        },
+        {
+            "date": "2022-03-12",
+            "exposure": 83.9387846153846,
+            "step count": 15232,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.335181946403385
+        },
+        {
+            "date": "2022-03-13",
+            "exposure": 87.26206111111111,
+            "step count": 24372,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.546253975789224
+        },
+        {
+            "date": "2022-03-14",
+            "exposure": 83.80208965517241,
+            "step count": 17003,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.254036090225564
+        },
+        {
+            "date": "2022-03-15",
+            "exposure": 87.3936,
+            "step count": 14607,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.716891579526693
+        },
+        {
+            "date": "2022-03-20",
+            "exposure": 81.29867142857142,
+            "step count": 13946,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.619893723527147
+        },
+        {
+            "date": "2022-03-22",
+            "exposure": 92.84270000000001,
+            "step count": 10901,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.62460264519839
+        },
+        {
+            "date": "2022-03-23",
+            "exposure": 86.47684285714286,
+            "step count": 16241,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.716819112627986
+        },
+        {
+            "date": "2022-03-24",
+            "exposure": 89.07943333333333,
+            "step count": 16112,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.6756502732240435
+        },
+        {
+            "date": "2022-03-25",
+            "exposure": 89.57949666666667,
+            "step count": 11403,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.792316114109483
+        },
+        {
+            "date": "2022-03-26",
+            "exposure": 84.237336,
+            "step count": 2753,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.366948905109489
+        },
+        {
+            "date": "2022-03-27",
+            "exposure": 91.30702,
+            "step count": 5111,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.148967509025272
+        },
+        {
+            "date": "2022-03-28",
+            "exposure": 90.33012857142857,
+            "step count": 18403,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.831271375464684
+        },
+        {
+            "date": "2022-03-29",
+            "exposure": 84.47377222222222,
+            "step count": 23133,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.581149928605425
+        },
+        {
+            "date": "2022-03-30",
+            "exposure": 91.73087272727274,
+            "step count": 17554,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.970214860388074
+        },
+        {
+            "date": "2022-03-31",
+            "exposure": 84.7153,
+            "step count": 18551,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.797040642247867
+        },
+        {
+            "date": "2022-04-04",
+            "exposure": 83.76555,
+            "step count": 19008,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.593618291521118
+        },
+        {
+            "date": "2022-04-07",
+            "exposure": 92.04271999999999,
+            "step count": 20495,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.676829230769231
+        },
+        {
+            "date": "2022-04-08",
+            "exposure": 95.39122499999999,
+            "step count": 12693,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.2648
+        },
+        {
+            "date": "2022-04-09",
+            "exposure": 92.8959,
+            "step count": 1869,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.031560975609756
+        },
+        {
+            "date": "2022-04-10",
+            "exposure": 94.11085,
+            "step count": 10925,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.055187620889749
+        },
+        {
+            "date": "2022-04-12",
+            "exposure": 83.08283333333334,
+            "step count": 14906,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.771665414817344
+        },
+        {
+            "date": "2022-04-16",
+            "exposure": 90.9794625,
+            "step count": 16216,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.595082683307332
+        },
+        {
+            "date": "2022-04-17",
+            "exposure": 86.10797,
+            "step count": 11282,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.238948571428572
+        },
+        {
+            "date": "2022-04-26",
+            "exposure": 94.29576666666667,
+            "step count": 13202,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.543373776908024
+        },
+        {
+            "date": "2022-04-27",
+            "exposure": 88.14957142857143,
+            "step count": 10782,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.6574709677419355
+        },
+        {
+            "date": "2022-04-30",
+            "exposure": 91.10839999999999,
+            "step count": 4385,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.698315789473684
+        },
+        {
+            "date": "2022-05-01",
+            "exposure": 92.1861,
+            "step count": 4702,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.9423673469387754
+        },
+        {
+            "date": "2022-05-02",
+            "exposure": 87.33534545454546,
+            "step count": 4432,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.597652173913044
+        },
+        {
+            "date": "2022-05-06",
+            "exposure": 89.87475098039215,
+            "step count": 5353,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.3056
+        },
+        {
+            "date": "2022-05-08",
+            "exposure": 93.2413,
+            "step count": 8303,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.555041666666667
+        },
+        {
+            "date": "2022-05-10",
+            "exposure": 89.927875,
+            "step count": 11054,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.501255813953489
+        },
+        {
+            "date": "2022-05-11",
+            "exposure": 92.48023333333333,
+            "step count": 20225,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.457312101910828
+        },
+        {
+            "date": "2022-05-13",
+            "exposure": 87.88543999999999,
+            "step count": 15352,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.5519598796389165
+        },
+        {
+            "date": "2022-05-19",
+            "exposure": 94.5511,
+            "step count": 15850,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.699549872122763
+        },
+        {
+            "date": "2022-05-27",
+            "exposure": 92.9714,
+            "step count": 16660,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.523623693379791
+        },
+        {
+            "date": "2022-06-09",
+            "exposure": 93.1769,
+            "step count": 12824,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.731500465983224
+        },
+        {
+            "date": "2022-06-14",
+            "exposure": 87.56,
+            "step count": 15387,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.808239534883721
+        },
+        {
+            "date": "2022-06-17",
+            "exposure": 89.5604,
+            "step count": 14918,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.865103710751665
+        },
+        {
+            "date": "2022-06-18",
+            "exposure": 93.5963,
+            "step count": 17254,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.908997624703088
+        },
+        {
+            "date": "2022-07-01",
+            "exposure": 86.03063255813953,
+            "step count": 3653,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 4.235333333333333
+        },
+        {
+            "date": "2022-08-15",
+            "exposure": 81.98433076923077,
+            "step count": 5806,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.878048076923077
+        },
+        {
+            "date": "2022-08-26",
+            "exposure": 82.16199999999999,
+            "step count": 6399,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.9936000000000003
+        },
+        {
+            "date": "2022-09-03",
+            "exposure": 82.9419,
+            "step count": 3007,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.439384615384615
+        },
+        {
+            "date": "2022-09-18",
+            "exposure": 89.95585,
+            "step count": 8487,
+            "active energy burned": 305.077394,
+            "basal energy burned": 1010.3171800561502,
+            "walking speed": 3.5271897106109322
+        },
+        {
+            "date": "2022-09-23",
+            "exposure": 83.536375,
+            "step count": 8716,
+            "active energy burned": 242.471,
+            "basal energy burned": 719.8705827777778,
+            "walking speed": 4.5147272727272725
+        },
+        {
+            "date": "2022-09-28",
+            "exposure": 92.71088666666667,
+            "step count": 11764,
+            "active energy burned": 308.301,
+            "basal energy burned": 840.750395,
+            "walking speed": 4.524458145601138
+        },
+        {
+            "date": "2022-10-14",
+            "exposure": 91.75687500000001,
+            "step count": 14143,
+            "active energy burned": 399.467,
+            "basal energy burned": 512.1022236111112,
+            "walking speed": 4.534121085594989
+        },
+        {
+            "date": "2022-10-23",
+            "exposure": 94.119,
+            "step count": 9264,
+            "active energy burned": 221.8,
+            "basal energy burned": 621.8807108333333,
+            "walking speed": 3.9763748925193467
+        },
+        {
+            "date": "2022-11-08",
+            "exposure": 83.0624,
+            "step count": 12491,
+            "active energy burned": 362.816,
+            "basal energy burned": 638.4482872222222,
+            "walking speed": 4.567495566502463
+        },
+        {
+            "date": "2022-11-12",
+            "exposure": 86.5046,
+            "step count": 11712,
+            "active energy burned": 320.626,
+            "basal energy burned": 587.5979647222222,
+            "walking speed": 4.295906865671642
+        },
+        {
+            "date": "2022-11-14",
+            "exposure": 86.63313571428571,
+            "step count": 12969,
+            "active energy burned": 382.699,
+            "basal energy burned": 854.6278541666667,
+            "walking speed": 4.911610220440882
+        },
+        {
+            "date": "2022-11-15",
+            "exposure": 83.75717499999999,
+            "step count": 14568,
+            "active energy burned": 364.818,
+            "basal energy burned": 588.7650647222222,
+            "walking speed": 4.491243020594966
+        },
+        {
+            "date": "2022-11-16",
+            "exposure": 90.0207,
+            "step count": 9926,
+            "active energy burned": 311.345,
+            "basal energy burned": 790.3460852777778,
+            "walking speed": 4.680031792758316
+        },
+        {
+            "date": "2022-11-18",
+            "exposure": 84.865125,
+            "step count": 18969,
+            "active energy burned": 547.481,
+            "basal energy burned": 499.792355,
+            "walking speed": 4.328263060392738
+        },
+        {
+            "date": "2022-11-21",
+            "exposure": 92.4251,
+            "step count": 13000,
+            "active energy burned": 374.708,
+            "basal energy burned": 779.4549322222223,
+            "walking speed": 4.661172670807454
+        },
+        {
+            "date": "2022-12-21",
+            "exposure": 91.94395714285714,
+            "step count": 17066,
+            "active energy burned": 483.413,
+            "basal energy burned": 563.3432675,
+            "walking speed": 4.471118951612903
+        },
+        {
+            "date": "2022-12-22",
+            "exposure": 91.2903,
+            "step count": 11944,
+            "active energy burned": 315.68,
+            "basal energy burned": 633.82296,
+            "walking speed": 4.561975399110181
+        },
+        {
+            "date": "2023-01-15",
+            "exposure": 84.21143333333333,
+            "step count": 13291,
+            "active energy burned": 391.983,
+            "basal energy burned": 612.2395458333333,
+            "walking speed": 4.260793868495361
+        },
+        {
+            "date": "2023-01-31",
+            "exposure": 83.82144500000001,
+            "step count": 8137,
+            "active energy burned": 209.707,
+            "basal energy burned": 1039.5694405555555,
+            "walking speed": 4.101722627737225
+        },
+        {
+            "date": "2023-02-02",
+            "exposure": 82.55485789473684,
+            "step count": 11671,
+            "active energy burned": 275.6,
+            "basal energy burned": 965.6338894444444,
+            "walking speed": 4.056331744518589
+        },
+        {
+            "date": "2023-04-07",
+            "exposure": 83.77955,
+            "step count": 10687,
+            "active energy burned": 285.29,
+            "basal energy burned": 1015.9477388888889,
+            "walking speed": 4.510001892147588
+        },
+        {
+            "date": "2023-04-14",
+            "exposure": 91.541575,
+            "step count": 13945,
+            "active energy burned": 385.5,
+            "basal energy burned": 1062.7669391666666,
+            "walking speed": 4.112239390642002
+        },
+        {
+            "date": "2023-04-26",
+            "exposure": 94.37645454545455,
+            "step count": 10486,
+            "active energy burned": 284.313,
+            "basal energy burned": 1074.6467347222222,
+            "walking speed": 4.284856148491879
+        },
+        {
+            "date": "2023-05-10",
+            "exposure": 81.57535,
+            "step count": 14156,
+            "active energy burned": 459.108,
+            "basal energy burned": 1044.7635486111112,
+            "walking speed": 4.700247670325119
+        },
+        {
+            "date": "2023-05-11",
+            "exposure": 83.7909,
+            "step count": 15510,
+            "active energy burned": 433.813,
+            "basal energy burned": 951.7395836111111,
+            "walking speed": 4.559677359540145
+        },
+        {
+            "date": "2023-05-12",
+            "exposure": 93.19903333333333,
+            "step count": 10283,
+            "active energy burned": 306.299,
+            "basal energy burned": 969.828785,
+            "walking speed": 4.368602510460251
+        },
+        {
+            "date": "2023-06-05",
+            "exposure": 83.727525,
+            "step count": 10522,
+            "active energy burned": 343.721,
+            "basal energy burned": 1260.8488658333333,
+            "walking speed": 4.490131085123742
+        },
+        {
+            "date": "2023-06-21",
+            "exposure": 82.19935,
+            "step count": 12013,
+            "active energy burned": 358.582,
+            "basal energy burned": 840.0240947222222,
+            "walking speed": 4.366291034482759
+        },
+        {
+            "date": "2023-07-12",
+            "exposure": 86.3192875,
+            "step count": 11926,
+            "active energy burned": 368.60699999999997,
+            "basal energy burned": 746.5980011111111,
+            "walking speed": 3.5899048227403387
+        },
+        {
+            "date": "2023-08-02",
+            "exposure": 90.2639,
+            "step count": 4665,
+            "active energy burned": 104.198,
+            "basal energy burned": 871.5653025,
+            "walking speed": 3.484740331491713
+        },
+        {
+            "date": "2023-09-18",
+            "exposure": 84.11712352941176,
+            "step count": 9634,
+            "active energy burned": 213.525,
+            "basal energy burned": 923.8692444444445,
+            "walking speed": 3.7085738045738044
+        },
+        {
+            "date": "2023-09-20",
+            "exposure": 80.9053625,
+            "step count": 12065,
+            "active energy burned": 313.615,
+            "basal energy burned": 954.7598869444445,
+            "walking speed": 4.261174274905422
+        },
+        {
+            "date": "2023-09-28",
+            "exposure": 90.73289512195122,
+            "step count": 12005,
+            "active energy burned": 351.955,
+            "basal energy burned": 909.9012688888889,
+            "walking speed": 3.8555494693598082
+        },
+        {
+            "date": "2023-09-29",
+            "exposure": 90.88980000000001,
+            "step count": 8145,
+            "active energy burned": 220.983,
+            "basal energy burned": 964.7152302777778,
+            "walking speed": 3.9859675324675328
+        },
+        {
+            "date": "2023-10-01",
+            "exposure": 87.68949318181818,
+            "step count": 8237,
+            "active energy burned": 291.345,
+            "basal energy burned": 962.5839205555556,
+            "walking speed": 4.204415233415233
+        },
+        {
+            "date": "2023-11-08",
+            "exposure": 80.3092,
+            "step count": 14443,
+            "active energy burned": 383.79,
+            "basal energy burned": 806.9640341666667,
+            "walking speed": 4.096001907032181
+        },
+        {
+            "date": "2023-12-04",
+            "exposure": 82.7271,
+            "step count": 12965,
+            "active energy burned": 367.351,
+            "basal energy burned": 976.9947436111111,
+            "walking speed": 4.366952422522916
+        },
+        {
+            "date": "2023-12-05",
+            "exposure": 90.5472,
+            "step count": 21452,
+            "active energy burned": 602.98,
+            "basal energy burned": 1027.8144302777778,
+            "walking speed": 4.408496393099844
+        },
+        {
+            "date": "2023-12-18",
+            "exposure": 90.8358,
+            "step count": 19397,
+            "active energy burned": 529.081,
+            "basal energy burned": 942.8906752777777,
+            "walking speed": 4.530484635645303
+        },
+        {
+            "date": "2023-12-27",
+            "exposure": 93.31395909090908,
+            "step count": 22695,
+            "active energy burned": 651.978,
+            "basal energy burned": 960.6830844444445,
+            "walking speed": 4.220520179372198
+        },
+        {
+            "date": "2023-12-28",
+            "exposure": 91.2808875,
+            "step count": 16696,
+            "active energy burned": 490.043,
+            "basal energy burned": 975.4071044444445,
+            "walking speed": 4.04136331797235
+        },
+        {
+            "date": "2024-01-02",
+            "exposure": 81.19785454545455,
+            "step count": 25351,
+            "active energy burned": 748.231,
+            "basal energy burned": 1094.0825194444444,
+            "walking speed": 4.3443186721991705
+        },
+        {
+            "date": "2024-01-22",
+            "exposure": 89.48557209302325,
+            "step count": 15625,
+            "active energy burned": 847.33522,
+            "basal energy burned": 759.25518,
+            "walking speed": 4.04692256783587
+        },
+        {
+            "date": "2024-01-30",
+            "exposure": 84.41867500000001,
+            "step count": 5515,
+            "active energy burned": 423.8928,
+            "basal energy burned": 1033.3670638888889,
+            "walking speed": 4.690325581395348
+        },
+        {
+            "date": "2024-02-02",
+            "exposure": 94.4048,
+            "step count": 4736,
+            "active energy burned": 370.51407,
+            "basal energy burned": 1060.552798611111,
+            "walking speed": 5.150382978723404
+        },
+        {
+            "date": "2024-02-03",
+            "exposure": 82.61831428571429,
+            "step count": 1681,
+            "active energy burned": 38.94086,
+            "basal energy burned": 1232.7840875,
+            "walking speed": 3.7930064516129027
+        },
+        {
+            "date": "2024-02-06",
+            "exposure": 83.397575,
+            "step count": 3706,
+            "active energy burned": 300.8327,
+            "basal energy burned": 1250.8918733333335,
+            "walking speed": 4.837703703703704
+        },
+        {
+            "date": "2024-02-08",
+            "exposure": 88.4538,
+            "step count": 7620,
+            "active energy burned": 574.11635,
+            "basal energy burned": 1068.6820294444444,
+            "walking speed": 4.175911547911547
+        },
+        {
+            "date": "2024-02-10",
+            "exposure": 87.937675,
+            "step count": 5722,
+            "active energy burned": 146.9,
+            "basal energy burned": 987.1928722222223,
+            "walking speed": 4.825755258126195
+        },
+        {
+            "date": "2024-02-14",
+            "exposure": 83.75086875,
+            "step count": 9626,
+            "active energy burned": 538.72416,
+            "basal energy burned": 886.9910933333333,
+            "walking speed": 4.312361934477379
+        },
+        {
+            "date": "2024-02-16",
+            "exposure": 82.35144857142856,
+            "step count": 11777,
+            "active energy burned": 800.85515,
+            "basal energy burned": 951.2351577777778,
+            "walking speed": 4.4665435215946845
+        },
+        {
+            "date": "2024-02-17",
+            "exposure": 89.22275813953487,
+            "step count": 10046,
+            "active energy burned": 508.65254,
+            "basal energy burned": 814.3687013888889,
+            "walking speed": 4.641886520170547
+        },
+        {
+            "date": "2024-02-19",
+            "exposure": 80.15422057692308,
+            "step count": 14301,
+            "active energy burned": 686.72147,
+            "basal energy burned": 881.1667766666667,
+            "walking speed": 4.673246623311655
+        },
+        {
+            "date": "2024-02-20",
+            "exposure": 80.289264,
+            "step count": 10945,
+            "active energy burned": 814.6162,
+            "basal energy burned": 1071.401976111111,
+            "walking speed": 4.240763513513513
+        },
+        {
+            "date": "2024-02-21",
+            "exposure": 84.90386285714287,
+            "step count": 9446,
+            "active energy burned": 511.92909,
+            "basal energy burned": 867.9827913888889,
+            "walking speed": 4.417949021932424
+        },
+        {
+            "date": "2024-02-23",
+            "exposure": 82.63967631578947,
+            "step count": 14822,
+            "active energy burned": 787.04153,
+            "basal energy burned": 915.8087008333333,
+            "walking speed": 4.2099180552832784
+        },
+        {
+            "date": "2024-02-24",
+            "exposure": 81.15628,
+            "step count": 16032,
+            "active energy burned": 412.656,
+            "basal energy burned": 1015.3404655555556,
+            "walking speed": 4.51199263803681
+        },
+        {
+            "date": "2024-02-26",
+            "exposure": 80.13298333333334,
+            "step count": 12668,
+            "active energy burned": 585.66966,
+            "basal energy burned": 1123.9928669444444,
+            "walking speed": 4.354147426981919
+        },
+        {
+            "date": "2024-02-29",
+            "exposure": 86.72659130434783,
+            "step count": 13119,
+            "active energy burned": 627.18077,
+            "basal energy burned": 1213.258900277778,
+            "walking speed": 4.455901554404146
+        },
+        {
+            "date": "2024-03-05",
+            "exposure": 81.33696666666667,
+            "step count": 12576,
+            "active energy burned": 723.22038,
+            "basal energy burned": 1074.0531175,
+            "walking speed": 4.598552410099464
+        },
+        {
+            "date": "2024-03-06",
+            "exposure": 81.457325,
+            "step count": 8661,
+            "active energy burned": 592.5464999999999,
+            "basal energy burned": 1239.3632447222221,
+            "walking speed": 4.363673841059603
+        },
+        {
+            "date": "2024-03-07",
+            "exposure": 91.70288378378378,
+            "step count": 14345,
+            "active energy burned": 773.9887,
+            "basal energy burned": 1152.2048033333333,
+            "walking speed": 4.456812834224599
+        },
+        {
+            "date": "2024-03-10",
+            "exposure": 93.9963,
+            "step count": 11041,
+            "active energy burned": 509.1752,
+            "basal energy burned": 1023.3604461111112,
+            "walking speed": 4.348633950120676
+        },
+        {
+            "date": "2024-03-11",
+            "exposure": 83.121188,
+            "step count": 15836,
+            "active energy burned": 927.45972,
+            "basal energy burned": 1212.9040505555556,
+            "walking speed": 4.595338819320214
+        },
+        {
+            "date": "2024-03-12",
+            "exposure": 87.73255857142857,
+            "step count": 13615,
+            "active energy burned": 807.1019600000001,
+            "basal energy burned": 1096.1169183333334,
+            "walking speed": 4.8160761274307
+        },
+        {
+            "date": "2024-03-14",
+            "exposure": 92.43700625,
+            "step count": 9808,
+            "active energy burned": 464.27522999999997,
+            "basal energy burned": 1236.1872905555556,
+            "walking speed": 4.769146335277707
+        },
+        {
+            "date": "2024-03-15",
+            "exposure": 84.67892727272728,
+            "step count": 9818,
+            "active energy burned": 299.74,
+            "basal energy burned": 1192.0203141666666,
+            "walking speed": 4.841859922178989
+        },
+        {
+            "date": "2024-03-16",
+            "exposure": 85.27789,
+            "step count": 7004,
+            "active energy burned": 372.0544,
+            "basal energy burned": 1274.6734202777777,
+            "walking speed": 4.316686192468619
+        },
+        {
+            "date": "2024-03-17",
+            "exposure": 86.25561428571429,
+            "step count": 8993,
+            "active energy burned": 276.286,
+            "basal energy burned": 1221.4444788888889,
+            "walking speed": 4.515170395869191
+        },
+        {
+            "date": "2024-03-18",
+            "exposure": 82.97311111111111,
+            "step count": 10908,
+            "active energy burned": 376.74,
+            "basal energy burned": 1260.7257266666668,
+            "walking speed": 4.603319327731092
+        },
+        {
+            "date": "2024-03-19",
+            "exposure": 85.22403333333334,
+            "step count": 7593,
+            "active energy burned": 250.177,
+            "basal energy burned": 1332.57393,
+            "walking speed": 4.62049102296451
+        },
+        {
+            "date": "2024-03-20",
+            "exposure": 88.18991538461539,
+            "step count": 8208,
+            "active energy burned": 490.91083,
+            "basal energy burned": 1224.9721558333333,
+            "walking speed": 4.594907665505226
+        },
+        {
+            "date": "2024-03-21",
+            "exposure": 82.88160277777779,
+            "step count": 11500,
+            "active energy burned": 535.4262,
+            "basal energy burned": 1284.7303594444445,
+            "walking speed": 4.516286165176224
+        },
+        {
+            "date": "2024-03-25",
+            "exposure": 80.89537777777778,
+            "step count": 8438,
+            "active energy burned": 440.5698,
+            "basal energy burned": 1214.3171311111112,
+            "walking speed": 4.448539636363637
+        },
+        {
+            "date": "2024-03-27",
+            "exposure": 80.62963571428573,
+            "step count": 11947,
+            "active energy burned": 541.3185,
+            "basal energy burned": 1188.1939944444446,
+            "walking speed": 4.7284093535075655
+        },
+        {
+            "date": "2024-03-28",
+            "exposure": 82.92818,
+            "step count": 8181,
+            "active energy burned": 483.457,
+            "basal energy burned": 1277.2368444444444,
+            "walking speed": 4.45878677309008
+        },
+        {
+            "date": "2024-04-01",
+            "exposure": 90.6409875,
+            "step count": 10251,
+            "active energy burned": 321.107,
+            "basal energy burned": 1219.8051036111112,
+            "walking speed": 4.427751850906306
+        },
+        {
+            "date": "2024-04-10",
+            "exposure": 91.00374444444444,
+            "step count": 11512,
+            "active energy burned": 287.306,
+            "basal energy burned": 913.3231252777778,
+            "walking speed": 4.5100173913043475
+        },
+        {
+            "date": "2024-04-13",
+            "exposure": 99.16194615384615,
+            "step count": 8832,
+            "active energy burned": 244.599,
+            "basal energy burned": 1250.050346388889,
+            "walking speed": 4.800900388098318
+        },
+        {
+            "date": "2024-04-17",
+            "exposure": 91.57020208333334,
+            "step count": 18128,
+            "active energy burned": 537.127,
+            "basal energy burned": 991.2464891666667,
+            "walking speed": 4.2919377361342
+        },
+        {
+            "date": "2024-04-18",
+            "exposure": 80.75990625,
+            "step count": 15712,
+            "active energy burned": 465.953,
+            "basal energy burned": 1069.9690208333334,
+            "walking speed": 4.317569756975697
+        },
+        {
+            "date": "2024-05-05",
+            "exposure": 81.60851666666666,
+            "step count": 11884,
+            "active energy burned": 324.799,
+            "basal energy burned": 1036.9604377777778,
+            "walking speed": 4.544535967891324
+        },
+        {
+            "date": "2024-05-10",
+            "exposure": 93.8238,
+            "step count": 14090,
+            "active energy burned": 417.152,
+            "basal energy burned": 1119.8758966666667,
+            "walking speed": 4.647799036476257
+        },
+        {
+            "date": "2024-05-13",
+            "exposure": 81.37531666666666,
+            "step count": 8145,
+            "active energy burned": 238.893,
+            "basal energy burned": 1349.2008877777778,
+            "walking speed": 4.750699088145897
+        },
+        {
+            "date": "2024-05-14",
+            "exposure": 98.19346666666667,
+            "step count": 9418,
+            "active energy burned": 283.512,
+            "basal energy burned": 1150.103595,
+            "walking speed": 4.266349869451697
+        },
+        {
+            "date": "2024-05-23",
+            "exposure": 88.76003333333334,
+            "step count": 8668,
+            "active energy burned": 279.677,
+            "basal energy burned": 1305.4074786111112,
+            "walking speed": 4.658048780487805
+        },
+        {
+            "date": "2024-05-27",
+            "exposure": 85.6086,
+            "step count": 7882,
+            "active energy burned": 231.074,
+            "basal energy burned": 1073.8200572222222,
+            "walking speed": 4.684287906466934
+        },
+        {
+            "date": "2024-06-14",
+            "exposure": 93.04717142857143,
+            "step count": 6137,
+            "active energy burned": 140.764,
+            "basal energy burned": 1200.5916741666667,
+            "walking speed": 3.8808690095846643
+        },
+        {
+            "date": "2024-06-15",
+            "exposure": 86.74915,
+            "step count": 9127,
+            "active energy burned": 219.745,
+            "basal energy burned": 1131.6607,
+            "walking speed": 4.347792579347341
+        },
+        {
+            "date": "2024-06-18",
+            "exposure": 96.28761176470589,
+            "step count": 5897,
+            "active energy burned": 166.691,
+            "basal energy burned": 1308.7807588888888,
+            "walking speed": 3.9341379310344826
+        },
+        {
+            "date": "2024-06-28",
+            "exposure": 96.3507744680851,
+            "step count": 16448,
+            "active energy burned": 426.392,
+            "basal energy burned": 1017.1459436111111,
+            "walking speed": 4.34492033293698
+        },
+        {
+            "date": "2024-07-09",
+            "exposure": 87.86315833333333,
+            "step count": 12315,
+            "active energy burned": 360.36,
+            "basal energy burned": 1115.0074480555556,
+            "walking speed": 4.490587995930824
+        },
+        {
+            "date": "2024-07-10",
+            "exposure": 82.77617317073171,
+            "step count": 8169,
+            "active energy burned": 198.634,
+            "basal energy burned": 1123.503230277778,
+            "walking speed": 4.227533909877105
+        },
+        {
+            "date": "2024-07-11",
+            "exposure": 83.33715652173913,
+            "step count": 7176,
+            "active energy burned": 186.486,
+            "basal energy burned": 1281.0396525,
+            "walking speed": 4.167338709677419
+        },
+        {
+            "date": "2024-07-12",
+            "exposure": 84.7728153846154,
+            "step count": 5603,
+            "active energy burned": 125.493,
+            "basal energy burned": 1210.3969480555556,
+            "walking speed": 4.072039721946375
+        },
+        {
+            "date": "2024-07-16",
+            "exposure": 92.43225000000001,
+            "step count": 4041,
+            "active energy burned": 92.791,
+            "basal energy burned": 1376.7731830555556,
+            "walking speed": 4.080346987951807
+        },
+        {
+            "date": "2024-07-18",
+            "exposure": 86.13125333333333,
+            "step count": 7617,
+            "active energy burned": 206.209,
+            "basal energy burned": 1169.7372,
+            "walking speed": 4.463502008032129
+        },
+        {
+            "date": "2024-07-19",
+            "exposure": 84.24068181818183,
+            "step count": 9089,
+            "active energy burned": 243.89,
+            "basal energy burned": 1086.6819336111112,
+            "walking speed": 4.285858267716535
+        },
+        {
+            "date": "2024-07-22",
+            "exposure": 94.6140829787234,
+            "step count": 6892,
+            "active energy burned": 167.367,
+            "basal energy burned": 1116.0176927777777,
+            "walking speed": 3.7602105263157894
+        },
+        {
+            "date": "2024-07-25",
+            "exposure": 87.48243333333333,
+            "step count": 16217,
+            "active energy burned": 327.69,
+            "basal energy burned": 1178.6531586111112,
+            "walking speed": 4.392965027516421
+        },
+        {
+            "date": "2024-07-26",
+            "exposure": 84.983071875,
+            "step count": 18957,
+            "active energy burned": 537.74,
+            "basal energy burned": 985.6938752777778,
+            "walking speed": 4.529161159125572
+        },
+        {
+            "date": "2024-07-31",
+            "exposure": 81.8215452173913,
+            "step count": 9269,
+            "active energy burned": 270.728,
+            "basal energy burned": 1151.5696227777778,
+            "walking speed": 4.479955534074432
+        },
+        {
+            "date": "2024-08-03",
+            "exposure": 88.791015,
+            "step count": 4853,
+            "active energy burned": 104.507,
+            "basal energy burned": 1118.2557647222222,
+            "walking speed": 4.011063157894737
+        },
+        {
+            "date": "2024-08-04",
+            "exposure": 83.22785185185185,
+            "step count": 7689,
+            "active energy burned": 183.378,
+            "basal energy burned": 1220.3428736111111,
+            "walking speed": 3.9606250000000003
+        },
+        {
+            "date": "2024-08-06",
+            "exposure": 92.3019552631579,
+            "step count": 12942,
+            "active energy burned": 333.063,
+            "basal energy burned": 1053.0243755555555,
+            "walking speed": 3.8524612696563776
+        },
+        {
+            "date": "2024-08-08",
+            "exposure": 82.37231818181819,
+            "step count": 8286,
+            "active energy burned": 169.307,
+            "basal energy burned": 1159.7548680555556,
+            "walking speed": 4.179685236768802
+        },
+        {
+            "date": "2024-08-18",
+            "exposure": 92.43585,
+            "step count": 12022,
+            "active energy burned": 277.731,
+            "basal energy burned": 1146.0006319444444,
+            "walking speed": 3.783100042211904
+        },
+        {
+            "date": "2024-08-21",
+            "exposure": 80.418,
+            "step count": 9967,
+            "active energy burned": 245.618,
+            "basal energy burned": 1123.0455722222223,
+            "walking speed": 4.1921039145907475
+        },
+        {
+            "date": "2024-08-29",
+            "exposure": 97.02663103448276,
+            "step count": 5763,
+            "active energy burned": 154.864,
+            "basal energy burned": 1126.5812950000002,
+            "walking speed": 4.097391527599487
+        },
+        {
+            "date": "2024-08-31",
+            "exposure": 99.05562857142857,
+            "step count": 5509,
+            "active energy burned": 132.611,
+            "basal energy burned": 1116.9192280555555,
+            "walking speed": 3.8702412060301508
+        },
+        {
+            "date": "2024-09-01",
+            "exposure": 97.7027375,
+            "step count": 7715,
+            "active energy burned": 209.995,
+            "basal energy burned": 1165.2666655555556,
+            "walking speed": 3.9449766536964983
+        },
+        {
+            "date": "2024-09-02",
+            "exposure": 98.96589090909092,
+            "step count": 3439,
+            "active energy burned": 71.281,
+            "basal energy burned": 1156.1526952777779,
+            "walking speed": 3.821546827794562
+        },
+        {
+            "date": "2024-09-03",
+            "exposure": 93.42619677419354,
+            "step count": 4525,
+            "active energy burned": 94.75399999999999,
+            "basal energy burned": 1195.4657375000002,
+            "walking speed": 4.12878391959799
+        },
+        {
+            "date": "2024-09-04",
+            "exposure": 92.7427,
+            "step count": 8840,
+            "active energy burned": 220.422,
+            "basal energy burned": 1059.6428161111112,
+            "walking speed": 4.099827814569537
+        },
+        {
+            "date": "2024-09-17",
+            "exposure": 84.09248,
+            "step count": 7221,
+            "active energy burned": 165.642,
+            "basal energy burned": 1102.773068888889,
+            "walking speed": 4.198637331440739
+        },
+        {
+            "date": "2024-09-21",
+            "exposure": 82.59188947368422,
+            "step count": 10153,
+            "active energy burned": 282.627,
+            "basal energy burned": 1128.081281388889,
+            "walking speed": 4.196419784400761
+        },
+        {
+            "date": "2024-09-22",
+            "exposure": 80.50412857142858,
+            "step count": 11839,
+            "active energy burned": 321.03000000000003,
+            "basal energy burned": 1145.1360913888889,
+            "walking speed": 4.257573064590013
+        },
+        {
+            "date": "2024-10-13",
+            "exposure": 93.48711428571428,
+            "step count": 6029,
+            "active energy burned": 161.058,
+            "basal energy burned": 1229.276088888889,
+            "walking speed": 4.299353751914242
+        },
+        {
+            "date": "2024-10-20",
+            "exposure": 87.02873846153845,
+            "step count": 6821,
+            "active energy burned": 208.923,
+            "basal energy burned": 1252.5950147222222,
+            "walking speed": 4.939566666666667
+        },
+        {
+            "date": "2024-11-08",
+            "exposure": 88.48351818181818,
+            "step count": 13632,
+            "active energy burned": 389.665,
+            "basal energy burned": 1143.1407891666668,
+            "walking speed": 4.406352579582875
+        },
+        {
+            "date": "2024-11-09",
+            "exposure": 99.25110000000001,
+            "step count": 16212,
+            "active energy burned": 525.746,
+            "basal energy burned": 1005.2095930555556,
+            "walking speed": 4.279638348189922
+        },
+        {
+            "date": "2024-11-14",
+            "exposure": 99.70293000000001,
+            "step count": 10457,
+            "active energy burned": 310.354,
+            "basal energy burned": 1167.7720900000002,
+            "walking speed": 4.319269080234833
+        },
+        {
+            "date": "2024-11-15",
+            "exposure": 99.0236,
+            "step count": 14071,
+            "active energy burned": 438.894,
+            "basal energy burned": 1121.622748888889,
+            "walking speed": 4.085382857142857
+        },
+        {
+            "date": "2024-11-20",
+            "exposure": 99.07710000000002,
+            "step count": 18471,
+            "active energy burned": 604.241,
+            "basal energy burned": 1083.2164033333333,
+            "walking speed": 4.314164835164835
+        },
+        {
+            "date": "2024-11-23",
+            "exposure": 84.56475,
+            "step count": 5163,
+            "active energy burned": 139.895,
+            "basal energy burned": 1213.8783025,
+            "walking speed": 4.4570979729729725
+        },
+        {
+            "date": "2024-11-26",
+            "exposure": 94.8717705882353,
+            "step count": 15759,
+            "active energy burned": 492.426,
+            "basal energy burned": 1105.0984519444446,
+            "walking speed": 4.468234243176179
+        },
+        {
+            "date": "2024-11-27",
+            "exposure": 86.38997142857143,
+            "step count": 11588,
+            "active energy burned": 362.513,
+            "basal energy burned": 1216.8067355555556,
+            "walking speed": 4.486600405679512
+        },
+        {
+            "date": "2024-11-29",
+            "exposure": 81.7154,
+            "step count": 9334,
+            "active energy burned": 257.126,
+            "basal energy burned": 1300.7545294444444,
+            "walking speed": 4.3133
+        },
+        {
+            "date": "2024-12-02",
+            "exposure": 88.13385714285714,
+            "step count": 14437,
+            "active energy burned": 439.213,
+            "basal energy burned": 1264.5692533333333,
+            "walking speed": 4.370434539276434
+        },
+        {
+            "date": "2024-12-04",
+            "exposure": 83.3559,
+            "step count": 13820,
+            "active energy burned": 389.137,
+            "basal energy burned": 1176.38298,
+            "walking speed": 4.329429141716567
+        },
+        {
+            "date": "2024-12-05",
+            "exposure": 81.87446363636364,
+            "step count": 11768,
+            "active energy burned": 355.319,
+            "basal energy burned": 1166.251113888889,
+            "walking speed": 4.575348837209303
+        },
+        {
+            "date": "2024-12-17",
+            "exposure": 86.48383749999999,
+            "step count": 7834,
+            "active energy burned": 214.334,
+            "basal energy burned": 1151.8562266666668,
+            "walking speed": 4.36881327014218
+        },
+        {
+            "date": "2024-12-24",
+            "exposure": 90.5488,
+            "step count": 9463,
+            "active energy burned": 272.84999999999997,
+            "basal energy burned": 1254.8376327777778,
+            "walking speed": 4.327450980392157
+        },
+        {
+            "date": "2024-12-31",
+            "exposure": 87.44919999999999,
+            "step count": 8207,
+            "active energy burned": 218.615,
+            "basal energy burned": 1213.8385961111112,
+            "walking speed": 4.1551875
+        },
+        {
+            "date": "2025-01-04",
+            "exposure": 82.19315833333333,
+            "step count": 8295,
+            "active energy burned": 227.297,
+            "basal energy burned": 1294.2736641666668,
+            "walking speed": 4.352701538461538
+        },
+        {
+            "date": "2025-01-05",
+            "exposure": 88.51670909090909,
+            "step count": 14610,
+            "active energy burned": 465.232,
+            "basal energy burned": 1085.2401580555556,
+            "walking speed": 4.139380771319935
+        },
+        {
+            "date": "2025-01-06",
+            "exposure": 82.42752,
+            "step count": 9545,
+            "active energy burned": 305.27799999999996,
+            "basal energy burned": 1264.1893972222224,
+            "walking speed": 4.35727842435094
+        }
+    ]
+}

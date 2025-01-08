@@ -1,30 +1,95 @@
-# CS-210-Project: Exploring My Listening Habits
+# Sound & Steps: Analyzing the Relationship Between Audio Exposure and Physical Activity Dynamics
 
-This project aims to analyze my personal Spotify data to uncover patterns, trends, and insights about my listening habits. The project utilizes various data science techniques, including exploratory data analysis (EDA), data visualization, and machine learning, to gain a deeper understanding of my music preferences and behavior.
+## Objective
 
-## Key Questions to Address
+Investigate the impact of headphone audio exposure (e.g., duration and volume) on physical activity and walking dynamics. Explore whether specific exposure patterns correlate with changes in walking performance, energy expenditure, or step count.
 
-1. What are my most-played songs, artists, and genres?  
-2. How do my listening habits vary across different times of the day or week?  
-3. Are there patterns in the audio features of the songs I listen to (e.g., energy, tempo, danceability)?  
-4. Can machine learning techniques recommend new songs based on my listening history?
+---
 
-## Proposed Methodology
+## Key Questions
 
-### Data Collection
-Spotify provides users with access to their personal listening data upon request through its [privacy settings](https://www.spotify.com/us/account/privacy/). Data to be analyzed includes streaming history, playlists, and audio features (e.g., tempo, valence, danceability). Spotify requires 5 days in order to send you via email. If you want more detailed information it can take upto 30 days.
+1. Does prolonged headphone usage or higher audio exposure correlate with changes in walking performance (e.g., step length, walking steadiness, walking speed)?
+2. Can headphone exposure predict variations in energy burned during physical activity?
+3. Are there optimal audio exposure patterns for maintaining steady physical activity and enhancing walking dynamics?
 
-### Exploratory Data Analysis (EDA)
-1. Examine listening frequency by song, artist, and genre.  
-2. Identify patterns and trends in listening habits over time.
+---
 
-### Visualization
-1. Create interactive charts to present insights.
+## Data Requirements
 
-### Machine Learning
-1. Use clustering techniques to group songs by characteristics and identify music preferences.  
-2. Build a simple song recommendation model based on audio features.
+### Apple Health Data
 
-### Presentation
-1. Develop a GitHub repository containing analysis scripts, a README file, and visualizations.  
-2. Create a dashboard or video summarizing findings for easy interpretation.
+- **Headphone Audio Exposure**:
+  - Metrics: Volume level, duration, and events.
+- **Walking Metrics**:
+  - Step length, walking speed, walking asymmetry percentage, walking steadiness.
+- **Energy Burned**:
+  - Active and basal energy burned.
+- **Step Count**:
+  - Daily step totals.
+
+### Spotify Data (Optional)
+
+- Track audio features (e.g., tempo, energy) to analyze relationships between music characteristics and walking dynamics.
+
+---
+
+## Methodology
+
+### 1. Data Integration
+
+- Combine headphone audio exposure data with walking metrics and energy burned data.
+- Align timestamps to analyze exposure patterns during physical activity.
+
+### 2. Exploratory Analysis
+
+- **Visualize Trends**:
+  - Analyze walking performance (e.g., step length, walking steadiness) based on headphone usage duration and volume.
+  - Examine relationships between headphone exposure and energy burned.
+- **Correlation Analysis**:
+  - Investigate whether different exposure durations or volumes lead to noticeable changes in walking dynamics or energy metrics.
+
+### 3. Model Development
+
+- **Predictive Models**:
+  - Build a model to predict walking performance or energy burned using headphone exposure data as features.
+- **Threshold Analysis**:
+  - Identify thresholds for headphone exposure that might impact walking dynamics or energy expenditure.
+
+### 4. Behavioral Clustering
+
+- **Cluster Analysis**:
+  - Cluster users based on headphone usage patterns and their effect on physical activity metrics (e.g., "high exposure, reduced walking steadiness").
+- **Cluster Insights**:
+  - Extract insights to categorize behaviors and tailor recommendations.
+
+### 5. Insights and Recommendations
+
+- Provide personalized recommendations for headphone usage to optimize walking efficiency and maintain steady physical activity.
+
+---
+
+## Deliverables
+
+1. Insights into the impact of audio exposure on walking dynamics and energy expenditure.
+2. A predictive model for walking performance or energy burned based on headphone exposure patterns.
+3. Personalized guidelines for healthier headphone usage.
+
+---
+
+## Tools & Technologies
+
+- **Data Processing**: Python, Pandas, NumPy.
+- **Visualization**: Matplotlib, Seaborn, Plotly.
+- **Modeling**: Scikit-learn, XGBoost, TensorFlow.
+- **Spotify API**: (Optional) For supplementary analysis of audio features.
+
+---
+
+## Challenges & Considerations
+
+1. **Exposure Metrics**:
+   - Ensure accurate interpretation of audio exposure data (e.g., thresholds for "high" exposure).
+2. **Causation vs. Correlation**:
+   - Acknowledge that correlations do not imply causation between headphone exposure and activity metrics.
+3. **External Variables**:
+   - Account for confounding factors (e.g., workout settings, headphone types, environmental influences).

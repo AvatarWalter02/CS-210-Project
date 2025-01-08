@@ -1,0 +1,6242 @@
+[
+    {
+        "Date": "2020-09-19",
+        "DailyWeightedAverageSpeed": 3.8370461538461536
+    },
+    {
+        "Date": "2020-09-20",
+        "DailyWeightedAverageSpeed": 4.272313432835821
+    },
+    {
+        "Date": "2020-09-21",
+        "DailyWeightedAverageSpeed": 4.278169014084507
+    },
+    {
+        "Date": "2020-09-22",
+        "DailyWeightedAverageSpeed": 4.397186440677966
+    },
+    {
+        "Date": "2020-09-23",
+        "DailyWeightedAverageSpeed": 5.46958024691358
+    },
+    {
+        "Date": "2020-09-24",
+        "DailyWeightedAverageSpeed": 5.622874015748032
+    },
+    {
+        "Date": "2020-09-25",
+        "DailyWeightedAverageSpeed": 3.411
+    },
+    {
+        "Date": "2020-09-26",
+        "DailyWeightedAverageSpeed": 3.5078181818181817
+    },
+    {
+        "Date": "2020-09-27",
+        "DailyWeightedAverageSpeed": 4.212750000000001
+    },
+    {
+        "Date": "2020-09-28",
+        "DailyWeightedAverageSpeed": 5.415904761904762
+    },
+    {
+        "Date": "2020-09-29",
+        "DailyWeightedAverageSpeed": 3.2601176470588236
+    },
+    {
+        "Date": "2020-09-30",
+        "DailyWeightedAverageSpeed": 4.745353846153847
+    },
+    {
+        "Date": "2020-10-01",
+        "DailyWeightedAverageSpeed": 3.8740645161290326
+    },
+    {
+        "Date": "2020-10-02",
+        "DailyWeightedAverageSpeed": 3.1128923076923076
+    },
+    {
+        "Date": "2020-10-03",
+        "DailyWeightedAverageSpeed": 4.672323529411765
+    },
+    {
+        "Date": "2020-10-04",
+        "DailyWeightedAverageSpeed": 4.0018604651162795
+    },
+    {
+        "Date": "2020-10-05",
+        "DailyWeightedAverageSpeed": 3.573762711864407
+    },
+    {
+        "Date": "2020-10-06",
+        "DailyWeightedAverageSpeed": 4.981959183673469
+    },
+    {
+        "Date": "2020-10-07",
+        "DailyWeightedAverageSpeed": 4.0893749999999995
+    },
+    {
+        "Date": "2020-10-08",
+        "DailyWeightedAverageSpeed": 3.94875
+    },
+    {
+        "Date": "2020-10-09",
+        "DailyWeightedAverageSpeed": 5.423528949950932
+    },
+    {
+        "Date": "2020-10-10",
+        "DailyWeightedAverageSpeed": 5.5986666666666665
+    },
+    {
+        "Date": "2020-10-11",
+        "DailyWeightedAverageSpeed": 4.095
+    },
+    {
+        "Date": "2020-10-12",
+        "DailyWeightedAverageSpeed": 3.719675675675676
+    },
+    {
+        "Date": "2020-10-13",
+        "DailyWeightedAverageSpeed": 3.597942857142857
+    },
+    {
+        "Date": "2020-10-14",
+        "DailyWeightedAverageSpeed": 3.763764705882353
+    },
+    {
+        "Date": "2020-10-15",
+        "DailyWeightedAverageSpeed": 4.05216
+    },
+    {
+        "Date": "2020-10-16",
+        "DailyWeightedAverageSpeed": 3.521872340425532
+    },
+    {
+        "Date": "2020-10-17",
+        "DailyWeightedAverageSpeed": 3.365072164948454
+    },
+    {
+        "Date": "2020-10-18",
+        "DailyWeightedAverageSpeed": 4.6263000000000005
+    },
+    {
+        "Date": "2020-10-19",
+        "DailyWeightedAverageSpeed": 3.964114285714286
+    },
+    {
+        "Date": "2020-10-20",
+        "DailyWeightedAverageSpeed": 5.253066666666666
+    },
+    {
+        "Date": "2020-10-21",
+        "DailyWeightedAverageSpeed": 3.1208571428571426
+    },
+    {
+        "Date": "2020-10-22",
+        "DailyWeightedAverageSpeed": 4.592727272727273
+    },
+    {
+        "Date": "2020-10-23",
+        "DailyWeightedAverageSpeed": 4.663107692307692
+    },
+    {
+        "Date": "2020-10-24",
+        "DailyWeightedAverageSpeed": 6.021563714902808
+    },
+    {
+        "Date": "2020-10-25",
+        "DailyWeightedAverageSpeed": 6.024
+    },
+    {
+        "Date": "2020-10-26",
+        "DailyWeightedAverageSpeed": 3.96
+    },
+    {
+        "Date": "2020-10-27",
+        "DailyWeightedAverageSpeed": 4.284
+    },
+    {
+        "Date": "2020-10-28",
+        "DailyWeightedAverageSpeed": 6.692761750405187
+    },
+    {
+        "Date": "2020-10-29",
+        "DailyWeightedAverageSpeed": 6.539465587044535
+    },
+    {
+        "Date": "2020-10-30",
+        "DailyWeightedAverageSpeed": 3.3313846153846156
+    },
+    {
+        "Date": "2020-10-31",
+        "DailyWeightedAverageSpeed": 4.344470588235294
+    },
+    {
+        "Date": "2020-11-01",
+        "DailyWeightedAverageSpeed": 3.7845
+    },
+    {
+        "Date": "2020-11-02",
+        "DailyWeightedAverageSpeed": 4.2493584905660375
+    },
+    {
+        "Date": "2020-11-03",
+        "DailyWeightedAverageSpeed": 4.492363636363636
+    },
+    {
+        "Date": "2020-11-04",
+        "DailyWeightedAverageSpeed": 4.239
+    },
+    {
+        "Date": "2020-11-05",
+        "DailyWeightedAverageSpeed": 3.8762999999999996
+    },
+    {
+        "Date": "2020-11-06",
+        "DailyWeightedAverageSpeed": 5.772
+    },
+    {
+        "Date": "2020-11-07",
+        "DailyWeightedAverageSpeed": 5.950148119426134
+    },
+    {
+        "Date": "2020-11-08",
+        "DailyWeightedAverageSpeed": 6.244453987730061
+    },
+    {
+        "Date": "2020-11-09",
+        "DailyWeightedAverageSpeed": 4.17825
+    },
+    {
+        "Date": "2020-11-10",
+        "DailyWeightedAverageSpeed": 7.2149936575052855
+    },
+    {
+        "Date": "2020-11-11",
+        "DailyWeightedAverageSpeed": 7.6499999999999995
+    },
+    {
+        "Date": "2020-11-12",
+        "DailyWeightedAverageSpeed": 6.461541401273886
+    },
+    {
+        "Date": "2020-11-13",
+        "DailyWeightedAverageSpeed": 7.551818181818183
+    },
+    {
+        "Date": "2020-11-14",
+        "DailyWeightedAverageSpeed": 3.0408000000000004
+    },
+    {
+        "Date": "2020-11-16",
+        "DailyWeightedAverageSpeed": 3.802909090909091
+    },
+    {
+        "Date": "2020-11-17",
+        "DailyWeightedAverageSpeed": 5.106240000000001
+    },
+    {
+        "Date": "2020-11-18",
+        "DailyWeightedAverageSpeed": 3.2196315789473684
+    },
+    {
+        "Date": "2020-11-19",
+        "DailyWeightedAverageSpeed": 3.6276923076923078
+    },
+    {
+        "Date": "2020-11-20",
+        "DailyWeightedAverageSpeed": 4.8671999999999995
+    },
+    {
+        "Date": "2020-11-21",
+        "DailyWeightedAverageSpeed": 4.329509433962264
+    },
+    {
+        "Date": "2020-11-22",
+        "DailyWeightedAverageSpeed": 3.324
+    },
+    {
+        "Date": "2020-11-23",
+        "DailyWeightedAverageSpeed": 3.3588837209302325
+    },
+    {
+        "Date": "2020-11-24",
+        "DailyWeightedAverageSpeed": 2.9094545454545453
+    },
+    {
+        "Date": "2020-11-25",
+        "DailyWeightedAverageSpeed": 2.736
+    },
+    {
+        "Date": "2020-11-26",
+        "DailyWeightedAverageSpeed": 4.2072
+    },
+    {
+        "Date": "2020-11-27",
+        "DailyWeightedAverageSpeed": 2.7072
+    },
+    {
+        "Date": "2020-11-28",
+        "DailyWeightedAverageSpeed": 4.656581052631579
+    },
+    {
+        "Date": "2020-11-29",
+        "DailyWeightedAverageSpeed": 3.41690625
+    },
+    {
+        "Date": "2020-11-30",
+        "DailyWeightedAverageSpeed": 2.763
+    },
+    {
+        "Date": "2020-12-01",
+        "DailyWeightedAverageSpeed": 3.8012142857142863
+    },
+    {
+        "Date": "2020-12-02",
+        "DailyWeightedAverageSpeed": 3.832363636363637
+    },
+    {
+        "Date": "2020-12-03",
+        "DailyWeightedAverageSpeed": 3.594857142857143
+    },
+    {
+        "Date": "2020-12-04",
+        "DailyWeightedAverageSpeed": 4.4316
+    },
+    {
+        "Date": "2020-12-05",
+        "DailyWeightedAverageSpeed": 3.0796363636363635
+    },
+    {
+        "Date": "2020-12-06",
+        "DailyWeightedAverageSpeed": 3.3877894736842102
+    },
+    {
+        "Date": "2020-12-07",
+        "DailyWeightedAverageSpeed": 3.39975
+    },
+    {
+        "Date": "2020-12-08",
+        "DailyWeightedAverageSpeed": 2.9082857142857144
+    },
+    {
+        "Date": "2020-12-09",
+        "DailyWeightedAverageSpeed": 3.6360000000000006
+    },
+    {
+        "Date": "2020-12-20",
+        "DailyWeightedAverageSpeed": 3.2409
+    },
+    {
+        "Date": "2020-12-21",
+        "DailyWeightedAverageSpeed": 3.0276
+    },
+    {
+        "Date": "2020-12-22",
+        "DailyWeightedAverageSpeed": 2.614909090909091
+    },
+    {
+        "Date": "2020-12-24",
+        "DailyWeightedAverageSpeed": 3.8685405405405406
+    },
+    {
+        "Date": "2020-12-25",
+        "DailyWeightedAverageSpeed": 3.735
+    },
+    {
+        "Date": "2020-12-26",
+        "DailyWeightedAverageSpeed": 4.03858064516129
+    },
+    {
+        "Date": "2020-12-27",
+        "DailyWeightedAverageSpeed": 3.6224999999999996
+    },
+    {
+        "Date": "2020-12-28",
+        "DailyWeightedAverageSpeed": 2.534666666666667
+    },
+    {
+        "Date": "2020-12-29",
+        "DailyWeightedAverageSpeed": 4.086
+    },
+    {
+        "Date": "2020-12-30",
+        "DailyWeightedAverageSpeed": 3.5061428571428577
+    },
+    {
+        "Date": "2020-12-31",
+        "DailyWeightedAverageSpeed": 3.7448000000000006
+    },
+    {
+        "Date": "2021-01-01",
+        "DailyWeightedAverageSpeed": 3.1599999999999997
+    },
+    {
+        "Date": "2021-01-02",
+        "DailyWeightedAverageSpeed": 2.0628
+    },
+    {
+        "Date": "2021-01-03",
+        "DailyWeightedAverageSpeed": 3.159692307692308
+    },
+    {
+        "Date": "2021-01-04",
+        "DailyWeightedAverageSpeed": 3.7606153846153845
+    },
+    {
+        "Date": "2021-01-05",
+        "DailyWeightedAverageSpeed": 4.5654633273703045
+    },
+    {
+        "Date": "2021-01-06",
+        "DailyWeightedAverageSpeed": 3.1350857142857147
+    },
+    {
+        "Date": "2021-01-07",
+        "DailyWeightedAverageSpeed": 3.1058823529411765
+    },
+    {
+        "Date": "2021-01-08",
+        "DailyWeightedAverageSpeed": 4.649360501567398
+    },
+    {
+        "Date": "2021-01-09",
+        "DailyWeightedAverageSpeed": 2.343483870967742
+    },
+    {
+        "Date": "2021-01-10",
+        "DailyWeightedAverageSpeed": 2.9688
+    },
+    {
+        "Date": "2021-01-11",
+        "DailyWeightedAverageSpeed": 3.4272
+    },
+    {
+        "Date": "2021-01-12",
+        "DailyWeightedAverageSpeed": 4.33609090909091
+    },
+    {
+        "Date": "2021-01-13",
+        "DailyWeightedAverageSpeed": 2.6602105263157894
+    },
+    {
+        "Date": "2021-01-14",
+        "DailyWeightedAverageSpeed": 3.15675
+    },
+    {
+        "Date": "2021-01-15",
+        "DailyWeightedAverageSpeed": 3.0072
+    },
+    {
+        "Date": "2021-01-16",
+        "DailyWeightedAverageSpeed": 3.3615
+    },
+    {
+        "Date": "2021-01-17",
+        "DailyWeightedAverageSpeed": 3.9123749999999995
+    },
+    {
+        "Date": "2021-01-18",
+        "DailyWeightedAverageSpeed": 3.763018867924529
+    },
+    {
+        "Date": "2021-01-19",
+        "DailyWeightedAverageSpeed": 4.396532687651332
+    },
+    {
+        "Date": "2021-01-20",
+        "DailyWeightedAverageSpeed": 3.300923076923077
+    },
+    {
+        "Date": "2021-01-21",
+        "DailyWeightedAverageSpeed": 3.7007999999999996
+    },
+    {
+        "Date": "2021-01-22",
+        "DailyWeightedAverageSpeed": 4.302644951140065
+    },
+    {
+        "Date": "2021-01-23",
+        "DailyWeightedAverageSpeed": 4.119888268156424
+    },
+    {
+        "Date": "2021-01-24",
+        "DailyWeightedAverageSpeed": 3.498738219895288
+    },
+    {
+        "Date": "2021-01-25",
+        "DailyWeightedAverageSpeed": 3.6940392156862747
+    },
+    {
+        "Date": "2021-01-26",
+        "DailyWeightedAverageSpeed": 4.097489361702127
+    },
+    {
+        "Date": "2021-01-27",
+        "DailyWeightedAverageSpeed": 3.1482
+    },
+    {
+        "Date": "2021-01-28",
+        "DailyWeightedAverageSpeed": 4.1056
+    },
+    {
+        "Date": "2021-01-29",
+        "DailyWeightedAverageSpeed": 5.300449704142012
+    },
+    {
+        "Date": "2021-01-30",
+        "DailyWeightedAverageSpeed": 4.0467272727272725
+    },
+    {
+        "Date": "2021-01-31",
+        "DailyWeightedAverageSpeed": 4.015384615384615
+    },
+    {
+        "Date": "2021-02-01",
+        "DailyWeightedAverageSpeed": 4.636666666666667
+    },
+    {
+        "Date": "2021-02-02",
+        "DailyWeightedAverageSpeed": 4.699103879849812
+    },
+    {
+        "Date": "2021-02-03",
+        "DailyWeightedAverageSpeed": 4.767434730538922
+    },
+    {
+        "Date": "2021-02-04",
+        "DailyWeightedAverageSpeed": 4.5992862190812716
+    },
+    {
+        "Date": "2021-02-05",
+        "DailyWeightedAverageSpeed": 4.258900398406375
+    },
+    {
+        "Date": "2021-02-06",
+        "DailyWeightedAverageSpeed": 3.192923076923077
+    },
+    {
+        "Date": "2021-02-07",
+        "DailyWeightedAverageSpeed": 4.073823529411764
+    },
+    {
+        "Date": "2021-02-08",
+        "DailyWeightedAverageSpeed": 4.362806722689076
+    },
+    {
+        "Date": "2021-02-09",
+        "DailyWeightedAverageSpeed": 4.1975999999999996
+    },
+    {
+        "Date": "2021-02-10",
+        "DailyWeightedAverageSpeed": 2.394
+    },
+    {
+        "Date": "2021-02-11",
+        "DailyWeightedAverageSpeed": 4.2084782608695654
+    },
+    {
+        "Date": "2021-02-12",
+        "DailyWeightedAverageSpeed": 4.086060606060606
+    },
+    {
+        "Date": "2021-02-13",
+        "DailyWeightedAverageSpeed": 2.9492307692307693
+    },
+    {
+        "Date": "2021-02-14",
+        "DailyWeightedAverageSpeed": 3.90908875739645
+    },
+    {
+        "Date": "2021-02-15",
+        "DailyWeightedAverageSpeed": 2.916
+    },
+    {
+        "Date": "2021-02-16",
+        "DailyWeightedAverageSpeed": 3.08925
+    },
+    {
+        "Date": "2021-02-17",
+        "DailyWeightedAverageSpeed": 3.132
+    },
+    {
+        "Date": "2021-02-18",
+        "DailyWeightedAverageSpeed": 2.734714285714286
+    },
+    {
+        "Date": "2021-02-19",
+        "DailyWeightedAverageSpeed": 4.206886363636364
+    },
+    {
+        "Date": "2021-02-20",
+        "DailyWeightedAverageSpeed": 2.8834285714285715
+    },
+    {
+        "Date": "2021-02-21",
+        "DailyWeightedAverageSpeed": 4.297306930693069
+    },
+    {
+        "Date": "2021-02-22",
+        "DailyWeightedAverageSpeed": 3.4637727272727274
+    },
+    {
+        "Date": "2021-02-23",
+        "DailyWeightedAverageSpeed": 2.952
+    },
+    {
+        "Date": "2021-02-24",
+        "DailyWeightedAverageSpeed": 3.574323529411765
+    },
+    {
+        "Date": "2021-02-25",
+        "DailyWeightedAverageSpeed": 3.72375
+    },
+    {
+        "Date": "2021-02-26",
+        "DailyWeightedAverageSpeed": 3.6870967741935483
+    },
+    {
+        "Date": "2021-02-27",
+        "DailyWeightedAverageSpeed": 3.6
+    },
+    {
+        "Date": "2021-02-28",
+        "DailyWeightedAverageSpeed": 4.2024
+    },
+    {
+        "Date": "2021-03-01",
+        "DailyWeightedAverageSpeed": 4.88143448275862
+    },
+    {
+        "Date": "2021-03-02",
+        "DailyWeightedAverageSpeed": 4.225773913043478
+    },
+    {
+        "Date": "2021-03-03",
+        "DailyWeightedAverageSpeed": 3.910285714285714
+    },
+    {
+        "Date": "2021-03-04",
+        "DailyWeightedAverageSpeed": 3.909818181818182
+    },
+    {
+        "Date": "2021-03-05",
+        "DailyWeightedAverageSpeed": 3.688285714285714
+    },
+    {
+        "Date": "2021-03-06",
+        "DailyWeightedAverageSpeed": 4.1838299999999995
+    },
+    {
+        "Date": "2021-03-07",
+        "DailyWeightedAverageSpeed": 4.446406015037595
+    },
+    {
+        "Date": "2021-03-08",
+        "DailyWeightedAverageSpeed": 4.014989010989011
+    },
+    {
+        "Date": "2021-03-09",
+        "DailyWeightedAverageSpeed": 3.15
+    },
+    {
+        "Date": "2021-03-10",
+        "DailyWeightedAverageSpeed": 5.590663507109006
+    },
+    {
+        "Date": "2021-03-11",
+        "DailyWeightedAverageSpeed": 3.843
+    },
+    {
+        "Date": "2021-03-12",
+        "DailyWeightedAverageSpeed": 2.9938604651162795
+    },
+    {
+        "Date": "2021-03-13",
+        "DailyWeightedAverageSpeed": 5.107694352159468
+    },
+    {
+        "Date": "2021-03-14",
+        "DailyWeightedAverageSpeed": 3.3314594594594595
+    },
+    {
+        "Date": "2021-03-15",
+        "DailyWeightedAverageSpeed": 4.482254957507083
+    },
+    {
+        "Date": "2021-03-16",
+        "DailyWeightedAverageSpeed": 4.16175
+    },
+    {
+        "Date": "2021-03-17",
+        "DailyWeightedAverageSpeed": 4.238784000000001
+    },
+    {
+        "Date": "2021-03-18",
+        "DailyWeightedAverageSpeed": 4.440533333333334
+    },
+    {
+        "Date": "2021-03-19",
+        "DailyWeightedAverageSpeed": 4.567994572591588
+    },
+    {
+        "Date": "2021-03-20",
+        "DailyWeightedAverageSpeed": 4.482893382352941
+    },
+    {
+        "Date": "2021-03-21",
+        "DailyWeightedAverageSpeed": 3.8725714285714288
+    },
+    {
+        "Date": "2021-03-22",
+        "DailyWeightedAverageSpeed": 4.803768595041323
+    },
+    {
+        "Date": "2021-03-23",
+        "DailyWeightedAverageSpeed": 3.2912307692307694
+    },
+    {
+        "Date": "2021-03-24",
+        "DailyWeightedAverageSpeed": 4.178215384615385
+    },
+    {
+        "Date": "2021-03-25",
+        "DailyWeightedAverageSpeed": 3.241125
+    },
+    {
+        "Date": "2021-03-26",
+        "DailyWeightedAverageSpeed": 3.4985454545454546
+    },
+    {
+        "Date": "2021-03-27",
+        "DailyWeightedAverageSpeed": 4.011157894736842
+    },
+    {
+        "Date": "2021-03-28",
+        "DailyWeightedAverageSpeed": 3.1941818181818182
+    },
+    {
+        "Date": "2021-03-29",
+        "DailyWeightedAverageSpeed": 3.6443265306122448
+    },
+    {
+        "Date": "2021-03-30",
+        "DailyWeightedAverageSpeed": 4.382181818181818
+    },
+    {
+        "Date": "2021-03-31",
+        "DailyWeightedAverageSpeed": 2.954769230769231
+    },
+    {
+        "Date": "2021-04-01",
+        "DailyWeightedAverageSpeed": 3.6615
+    },
+    {
+        "Date": "2021-04-02",
+        "DailyWeightedAverageSpeed": 4.0070853658536585
+    },
+    {
+        "Date": "2021-04-03",
+        "DailyWeightedAverageSpeed": 4.049298701298701
+    },
+    {
+        "Date": "2021-04-04",
+        "DailyWeightedAverageSpeed": 4.103632653061225
+    },
+    {
+        "Date": "2021-04-05",
+        "DailyWeightedAverageSpeed": 4.079400000000001
+    },
+    {
+        "Date": "2021-04-06",
+        "DailyWeightedAverageSpeed": 3.041333333333333
+    },
+    {
+        "Date": "2021-04-07",
+        "DailyWeightedAverageSpeed": 5.019618008185539
+    },
+    {
+        "Date": "2021-04-08",
+        "DailyWeightedAverageSpeed": 4.213636363636365
+    },
+    {
+        "Date": "2021-04-09",
+        "DailyWeightedAverageSpeed": 3.38256
+    },
+    {
+        "Date": "2021-04-10",
+        "DailyWeightedAverageSpeed": 3.078
+    },
+    {
+        "Date": "2021-04-11",
+        "DailyWeightedAverageSpeed": 3.0845454545454545
+    },
+    {
+        "Date": "2021-04-12",
+        "DailyWeightedAverageSpeed": 4.943230769230769
+    },
+    {
+        "Date": "2021-04-13",
+        "DailyWeightedAverageSpeed": 3.465473684210526
+    },
+    {
+        "Date": "2021-04-14",
+        "DailyWeightedAverageSpeed": 3.456
+    },
+    {
+        "Date": "2021-04-15",
+        "DailyWeightedAverageSpeed": 3.8015999999999996
+    },
+    {
+        "Date": "2021-04-16",
+        "DailyWeightedAverageSpeed": 3.937348314606741
+    },
+    {
+        "Date": "2021-04-17",
+        "DailyWeightedAverageSpeed": 4.363676470588236
+    },
+    {
+        "Date": "2021-04-18",
+        "DailyWeightedAverageSpeed": 4.07740909090909
+    },
+    {
+        "Date": "2021-04-19",
+        "DailyWeightedAverageSpeed": 4.661024630541872
+    },
+    {
+        "Date": "2021-04-20",
+        "DailyWeightedAverageSpeed": 3.2787692307692304
+    },
+    {
+        "Date": "2021-04-21",
+        "DailyWeightedAverageSpeed": 4.350380487804879
+    },
+    {
+        "Date": "2021-04-22",
+        "DailyWeightedAverageSpeed": 4.405263157894737
+    },
+    {
+        "Date": "2021-04-23",
+        "DailyWeightedAverageSpeed": 2.6532000000000004
+    },
+    {
+        "Date": "2021-04-24",
+        "DailyWeightedAverageSpeed": 3.06
+    },
+    {
+        "Date": "2021-04-25",
+        "DailyWeightedAverageSpeed": 3.9144
+    },
+    {
+        "Date": "2021-04-26",
+        "DailyWeightedAverageSpeed": 3.3948
+    },
+    {
+        "Date": "2021-04-27",
+        "DailyWeightedAverageSpeed": 4.523631901840491
+    },
+    {
+        "Date": "2021-04-28",
+        "DailyWeightedAverageSpeed": 3.6575999999999995
+    },
+    {
+        "Date": "2021-04-29",
+        "DailyWeightedAverageSpeed": 2.5585116279069764
+    },
+    {
+        "Date": "2021-04-30",
+        "DailyWeightedAverageSpeed": 4.427084745762712
+    },
+    {
+        "Date": "2021-05-01",
+        "DailyWeightedAverageSpeed": 3.3256551724137933
+    },
+    {
+        "Date": "2021-05-02",
+        "DailyWeightedAverageSpeed": 3.042
+    },
+    {
+        "Date": "2021-05-03",
+        "DailyWeightedAverageSpeed": 3.157578947368421
+    },
+    {
+        "Date": "2021-05-04",
+        "DailyWeightedAverageSpeed": 3.3871304347826086
+    },
+    {
+        "Date": "2021-05-05",
+        "DailyWeightedAverageSpeed": 3.019648351648352
+    },
+    {
+        "Date": "2021-05-06",
+        "DailyWeightedAverageSpeed": 2.628
+    },
+    {
+        "Date": "2021-05-07",
+        "DailyWeightedAverageSpeed": 3.470769230769231
+    },
+    {
+        "Date": "2021-05-08",
+        "DailyWeightedAverageSpeed": 4.015542857142857
+    },
+    {
+        "Date": "2021-05-09",
+        "DailyWeightedAverageSpeed": 3.708
+    },
+    {
+        "Date": "2021-05-10",
+        "DailyWeightedAverageSpeed": 3.008454545454546
+    },
+    {
+        "Date": "2021-05-11",
+        "DailyWeightedAverageSpeed": 2.6165454545454545
+    },
+    {
+        "Date": "2021-05-12",
+        "DailyWeightedAverageSpeed": 4.012434782608696
+    },
+    {
+        "Date": "2021-05-13",
+        "DailyWeightedAverageSpeed": 3.103941176470588
+    },
+    {
+        "Date": "2021-05-14",
+        "DailyWeightedAverageSpeed": 3.419379310344828
+    },
+    {
+        "Date": "2021-05-15",
+        "DailyWeightedAverageSpeed": 3.864255319148936
+    },
+    {
+        "Date": "2021-05-16",
+        "DailyWeightedAverageSpeed": 2.960780487804878
+    },
+    {
+        "Date": "2021-05-17",
+        "DailyWeightedAverageSpeed": 3.4459999999999997
+    },
+    {
+        "Date": "2021-05-18",
+        "DailyWeightedAverageSpeed": 4.272
+    },
+    {
+        "Date": "2021-05-19",
+        "DailyWeightedAverageSpeed": 4.342938053097345
+    },
+    {
+        "Date": "2021-05-20",
+        "DailyWeightedAverageSpeed": 4.31269306930693
+    },
+    {
+        "Date": "2021-05-21",
+        "DailyWeightedAverageSpeed": 3.8323636363636364
+    },
+    {
+        "Date": "2021-05-22",
+        "DailyWeightedAverageSpeed": 3.699186440677966
+    },
+    {
+        "Date": "2021-05-23",
+        "DailyWeightedAverageSpeed": 3.8202711864406775
+    },
+    {
+        "Date": "2021-05-24",
+        "DailyWeightedAverageSpeed": 3.5119999999999996
+    },
+    {
+        "Date": "2021-05-25",
+        "DailyWeightedAverageSpeed": 4.7765026178010475
+    },
+    {
+        "Date": "2021-05-26",
+        "DailyWeightedAverageSpeed": 4.228772727272728
+    },
+    {
+        "Date": "2021-05-27",
+        "DailyWeightedAverageSpeed": 4.1119200000000005
+    },
+    {
+        "Date": "2021-05-28",
+        "DailyWeightedAverageSpeed": 4.991335180055402
+    },
+    {
+        "Date": "2021-05-29",
+        "DailyWeightedAverageSpeed": 3.0102545454545453
+    },
+    {
+        "Date": "2021-05-30",
+        "DailyWeightedAverageSpeed": 3.0774857142857144
+    },
+    {
+        "Date": "2021-05-31",
+        "DailyWeightedAverageSpeed": 4.366022727272727
+    },
+    {
+        "Date": "2021-06-01",
+        "DailyWeightedAverageSpeed": 3.7719402985074626
+    },
+    {
+        "Date": "2021-06-02",
+        "DailyWeightedAverageSpeed": 4.768
+    },
+    {
+        "Date": "2021-06-03",
+        "DailyWeightedAverageSpeed": 3.352235294117647
+    },
+    {
+        "Date": "2021-06-04",
+        "DailyWeightedAverageSpeed": 3.8055789473684216
+    },
+    {
+        "Date": "2021-06-05",
+        "DailyWeightedAverageSpeed": 5.297971563981043
+    },
+    {
+        "Date": "2021-06-06",
+        "DailyWeightedAverageSpeed": 4.617
+    },
+    {
+        "Date": "2021-06-07",
+        "DailyWeightedAverageSpeed": 4.938067149440421
+    },
+    {
+        "Date": "2021-06-08",
+        "DailyWeightedAverageSpeed": 3.0726
+    },
+    {
+        "Date": "2021-06-09",
+        "DailyWeightedAverageSpeed": 4.370318181818181
+    },
+    {
+        "Date": "2021-06-10",
+        "DailyWeightedAverageSpeed": 3.0351891891891896
+    },
+    {
+        "Date": "2021-06-11",
+        "DailyWeightedAverageSpeed": 3.878068965517241
+    },
+    {
+        "Date": "2021-06-12",
+        "DailyWeightedAverageSpeed": 4.298258823529412
+    },
+    {
+        "Date": "2021-06-13",
+        "DailyWeightedAverageSpeed": 4.32
+    },
+    {
+        "Date": "2021-06-14",
+        "DailyWeightedAverageSpeed": 4.67269387755102
+    },
+    {
+        "Date": "2021-06-15",
+        "DailyWeightedAverageSpeed": 3.640695652173913
+    },
+    {
+        "Date": "2021-06-16",
+        "DailyWeightedAverageSpeed": 4.309894736842106
+    },
+    {
+        "Date": "2021-06-17",
+        "DailyWeightedAverageSpeed": 3.876685714285714
+    },
+    {
+        "Date": "2021-06-18",
+        "DailyWeightedAverageSpeed": 4.213747572815534
+    },
+    {
+        "Date": "2021-06-19",
+        "DailyWeightedAverageSpeed": 3.7352571428571433
+    },
+    {
+        "Date": "2021-06-20",
+        "DailyWeightedAverageSpeed": 3.5016000000000003
+    },
+    {
+        "Date": "2021-06-21",
+        "DailyWeightedAverageSpeed": 4.800322147651007
+    },
+    {
+        "Date": "2021-06-22",
+        "DailyWeightedAverageSpeed": 5.002783974862529
+    },
+    {
+        "Date": "2021-06-23",
+        "DailyWeightedAverageSpeed": 4.752396793587174
+    },
+    {
+        "Date": "2021-06-24",
+        "DailyWeightedAverageSpeed": 4.951386814932486
+    },
+    {
+        "Date": "2021-06-25",
+        "DailyWeightedAverageSpeed": 4.662458923512748
+    },
+    {
+        "Date": "2021-06-26",
+        "DailyWeightedAverageSpeed": 4.3254719999999995
+    },
+    {
+        "Date": "2021-06-27",
+        "DailyWeightedAverageSpeed": 3.3115924528301885
+    },
+    {
+        "Date": "2021-06-28",
+        "DailyWeightedAverageSpeed": 3.5168
+    },
+    {
+        "Date": "2021-06-29",
+        "DailyWeightedAverageSpeed": 3.8513808353808354
+    },
+    {
+        "Date": "2021-06-30",
+        "DailyWeightedAverageSpeed": 4.291817142857143
+    },
+    {
+        "Date": "2021-07-01",
+        "DailyWeightedAverageSpeed": 4.692994475138121
+    },
+    {
+        "Date": "2021-07-02",
+        "DailyWeightedAverageSpeed": 3.9521142857142855
+    },
+    {
+        "Date": "2021-07-03",
+        "DailyWeightedAverageSpeed": 4.213074626865671
+    },
+    {
+        "Date": "2021-07-04",
+        "DailyWeightedAverageSpeed": 4.029
+    },
+    {
+        "Date": "2021-07-05",
+        "DailyWeightedAverageSpeed": 4.427624674196351
+    },
+    {
+        "Date": "2021-07-06",
+        "DailyWeightedAverageSpeed": 4.106330935251799
+    },
+    {
+        "Date": "2021-07-07",
+        "DailyWeightedAverageSpeed": 4.147269230769231
+    },
+    {
+        "Date": "2021-07-08",
+        "DailyWeightedAverageSpeed": 4.9393152
+    },
+    {
+        "Date": "2021-07-09",
+        "DailyWeightedAverageSpeed": 5.0661421647819065
+    },
+    {
+        "Date": "2021-07-10",
+        "DailyWeightedAverageSpeed": 4.838605263157895
+    },
+    {
+        "Date": "2021-07-11",
+        "DailyWeightedAverageSpeed": 4.858472324723247
+    },
+    {
+        "Date": "2021-07-12",
+        "DailyWeightedAverageSpeed": 4.213774647887324
+    },
+    {
+        "Date": "2021-07-13",
+        "DailyWeightedAverageSpeed": 3.7410247933884295
+    },
+    {
+        "Date": "2021-07-14",
+        "DailyWeightedAverageSpeed": 4.4520800000000005
+    },
+    {
+        "Date": "2021-07-15",
+        "DailyWeightedAverageSpeed": 3.93918453427065
+    },
+    {
+        "Date": "2021-07-16",
+        "DailyWeightedAverageSpeed": 4.184821192052979
+    },
+    {
+        "Date": "2021-07-17",
+        "DailyWeightedAverageSpeed": 4.77475
+    },
+    {
+        "Date": "2021-07-18",
+        "DailyWeightedAverageSpeed": 4.559389830508474
+    },
+    {
+        "Date": "2021-07-19",
+        "DailyWeightedAverageSpeed": 4.5667663043478255
+    },
+    {
+        "Date": "2021-07-20",
+        "DailyWeightedAverageSpeed": 3.8126938775510206
+    },
+    {
+        "Date": "2021-07-21",
+        "DailyWeightedAverageSpeed": 4.155764705882353
+    },
+    {
+        "Date": "2021-07-22",
+        "DailyWeightedAverageSpeed": 4.269621951219513
+    },
+    {
+        "Date": "2021-07-23",
+        "DailyWeightedAverageSpeed": 3.77388679245283
+    },
+    {
+        "Date": "2021-07-24",
+        "DailyWeightedAverageSpeed": 4.1616
+    },
+    {
+        "Date": "2021-07-25",
+        "DailyWeightedAverageSpeed": 3.165882352941177
+    },
+    {
+        "Date": "2021-07-26",
+        "DailyWeightedAverageSpeed": 4.521798165137615
+    },
+    {
+        "Date": "2021-07-27",
+        "DailyWeightedAverageSpeed": 4.361443413729129
+    },
+    {
+        "Date": "2021-07-28",
+        "DailyWeightedAverageSpeed": 3.6980999999999997
+    },
+    {
+        "Date": "2021-07-29",
+        "DailyWeightedAverageSpeed": 3.93703937007874
+    },
+    {
+        "Date": "2021-07-30",
+        "DailyWeightedAverageSpeed": 2.7042352941176473
+    },
+    {
+        "Date": "2021-07-31",
+        "DailyWeightedAverageSpeed": 4.060629921259843
+    },
+    {
+        "Date": "2021-08-01",
+        "DailyWeightedAverageSpeed": 4.148052631578947
+    },
+    {
+        "Date": "2021-08-02",
+        "DailyWeightedAverageSpeed": 4.246163265306122
+    },
+    {
+        "Date": "2021-08-03",
+        "DailyWeightedAverageSpeed": 3.4532830188679244
+    },
+    {
+        "Date": "2021-08-04",
+        "DailyWeightedAverageSpeed": 3.8535967741935484
+    },
+    {
+        "Date": "2021-08-05",
+        "DailyWeightedAverageSpeed": 3.585532710280374
+    },
+    {
+        "Date": "2021-08-06",
+        "DailyWeightedAverageSpeed": 3.4187256637168146
+    },
+    {
+        "Date": "2021-08-07",
+        "DailyWeightedAverageSpeed": 3.897818181818182
+    },
+    {
+        "Date": "2021-08-08",
+        "DailyWeightedAverageSpeed": 3.857433962264151
+    },
+    {
+        "Date": "2021-08-09",
+        "DailyWeightedAverageSpeed": 4.2599024390243905
+    },
+    {
+        "Date": "2021-08-10",
+        "DailyWeightedAverageSpeed": 4.679876571428571
+    },
+    {
+        "Date": "2021-08-11",
+        "DailyWeightedAverageSpeed": 4.260793388429752
+    },
+    {
+        "Date": "2021-08-12",
+        "DailyWeightedAverageSpeed": 4.146331658291457
+    },
+    {
+        "Date": "2021-08-13",
+        "DailyWeightedAverageSpeed": 4.432608223429014
+    },
+    {
+        "Date": "2021-08-14",
+        "DailyWeightedAverageSpeed": 4.199657142857143
+    },
+    {
+        "Date": "2021-08-15",
+        "DailyWeightedAverageSpeed": 4.126235294117647
+    },
+    {
+        "Date": "2021-08-16",
+        "DailyWeightedAverageSpeed": 4.055563636363636
+    },
+    {
+        "Date": "2021-08-17",
+        "DailyWeightedAverageSpeed": 4.418390143737166
+    },
+    {
+        "Date": "2021-08-18",
+        "DailyWeightedAverageSpeed": 3.346457142857143
+    },
+    {
+        "Date": "2021-08-19",
+        "DailyWeightedAverageSpeed": 4.809686006825939
+    },
+    {
+        "Date": "2021-08-20",
+        "DailyWeightedAverageSpeed": 3.6096
+    },
+    {
+        "Date": "2021-08-21",
+        "DailyWeightedAverageSpeed": 4.31315337423313
+    },
+    {
+        "Date": "2021-08-22",
+        "DailyWeightedAverageSpeed": 4.571046357615893
+    },
+    {
+        "Date": "2021-08-23",
+        "DailyWeightedAverageSpeed": 3.2679574468085106
+    },
+    {
+        "Date": "2021-08-24",
+        "DailyWeightedAverageSpeed": 3.7978392857142858
+    },
+    {
+        "Date": "2021-08-25",
+        "DailyWeightedAverageSpeed": 3.5350819672131144
+    },
+    {
+        "Date": "2021-08-26",
+        "DailyWeightedAverageSpeed": 4.687165236051502
+    },
+    {
+        "Date": "2021-08-27",
+        "DailyWeightedAverageSpeed": 3.4575
+    },
+    {
+        "Date": "2021-08-28",
+        "DailyWeightedAverageSpeed": 4.774423208191126
+    },
+    {
+        "Date": "2021-08-29",
+        "DailyWeightedAverageSpeed": 3.7764878048780486
+    },
+    {
+        "Date": "2021-08-30",
+        "DailyWeightedAverageSpeed": 4.352027027027027
+    },
+    {
+        "Date": "2021-08-31",
+        "DailyWeightedAverageSpeed": 3.1474285714285717
+    },
+    {
+        "Date": "2021-09-01",
+        "DailyWeightedAverageSpeed": 3.033931034482759
+    },
+    {
+        "Date": "2021-09-02",
+        "DailyWeightedAverageSpeed": 4.32856551724138
+    },
+    {
+        "Date": "2021-09-03",
+        "DailyWeightedAverageSpeed": 4.819106796116505
+    },
+    {
+        "Date": "2021-09-04",
+        "DailyWeightedAverageSpeed": 4.700271844660194
+    },
+    {
+        "Date": "2021-09-05",
+        "DailyWeightedAverageSpeed": 4.140872727272727
+    },
+    {
+        "Date": "2021-09-06",
+        "DailyWeightedAverageSpeed": 3.3753913043478265
+    },
+    {
+        "Date": "2021-09-07",
+        "DailyWeightedAverageSpeed": 4.282485148514851
+    },
+    {
+        "Date": "2021-09-08",
+        "DailyWeightedAverageSpeed": 4.66002
+    },
+    {
+        "Date": "2021-09-09",
+        "DailyWeightedAverageSpeed": 3.2479999999999998
+    },
+    {
+        "Date": "2021-09-10",
+        "DailyWeightedAverageSpeed": 4.486741463414634
+    },
+    {
+        "Date": "2021-09-11",
+        "DailyWeightedAverageSpeed": 2.9823749999999998
+    },
+    {
+        "Date": "2021-09-12",
+        "DailyWeightedAverageSpeed": 3.646588235294118
+    },
+    {
+        "Date": "2021-09-13",
+        "DailyWeightedAverageSpeed": 4.01025306122449
+    },
+    {
+        "Date": "2021-09-14",
+        "DailyWeightedAverageSpeed": 3.2301818181818183
+    },
+    {
+        "Date": "2021-09-15",
+        "DailyWeightedAverageSpeed": 3.5530909090909093
+    },
+    {
+        "Date": "2021-09-16",
+        "DailyWeightedAverageSpeed": 4.26116129032258
+    },
+    {
+        "Date": "2021-09-17",
+        "DailyWeightedAverageSpeed": 2.9856000000000003
+    },
+    {
+        "Date": "2021-09-18",
+        "DailyWeightedAverageSpeed": 2.9837777777777776
+    },
+    {
+        "Date": "2021-09-19",
+        "DailyWeightedAverageSpeed": 3.3268500000000003
+    },
+    {
+        "Date": "2021-09-20",
+        "DailyWeightedAverageSpeed": 3.5558181818181818
+    },
+    {
+        "Date": "2021-09-21",
+        "DailyWeightedAverageSpeed": 2.971816513761468
+    },
+    {
+        "Date": "2021-09-22",
+        "DailyWeightedAverageSpeed": 4.7613476394849785
+    },
+    {
+        "Date": "2021-09-23",
+        "DailyWeightedAverageSpeed": 4.346808510638298
+    },
+    {
+        "Date": "2021-09-24",
+        "DailyWeightedAverageSpeed": 3.146961038961039
+    },
+    {
+        "Date": "2021-09-25",
+        "DailyWeightedAverageSpeed": 4.498666666666667
+    },
+    {
+        "Date": "2021-09-26",
+        "DailyWeightedAverageSpeed": 4.435225961538461
+    },
+    {
+        "Date": "2021-09-27",
+        "DailyWeightedAverageSpeed": 4.584993429697766
+    },
+    {
+        "Date": "2021-09-28",
+        "DailyWeightedAverageSpeed": 4.408084517864003
+    },
+    {
+        "Date": "2021-09-29",
+        "DailyWeightedAverageSpeed": 4.4480356408498976
+    },
+    {
+        "Date": "2021-09-30",
+        "DailyWeightedAverageSpeed": 4.067325586910126
+    },
+    {
+        "Date": "2021-10-01",
+        "DailyWeightedAverageSpeed": 4.658108732876713
+    },
+    {
+        "Date": "2021-10-02",
+        "DailyWeightedAverageSpeed": 2.9927368421052627
+    },
+    {
+        "Date": "2021-10-03",
+        "DailyWeightedAverageSpeed": 4.4954226804123705
+    },
+    {
+        "Date": "2021-10-04",
+        "DailyWeightedAverageSpeed": 4.244194503171247
+    },
+    {
+        "Date": "2021-10-05",
+        "DailyWeightedAverageSpeed": 4.9253562231759656
+    },
+    {
+        "Date": "2021-10-06",
+        "DailyWeightedAverageSpeed": 4.590733031674208
+    },
+    {
+        "Date": "2021-10-07",
+        "DailyWeightedAverageSpeed": 4.376413793103448
+    },
+    {
+        "Date": "2021-10-08",
+        "DailyWeightedAverageSpeed": 4.647131838565022
+    },
+    {
+        "Date": "2021-10-09",
+        "DailyWeightedAverageSpeed": 4.549636363636363
+    },
+    {
+        "Date": "2021-10-10",
+        "DailyWeightedAverageSpeed": 4.346181818181818
+    },
+    {
+        "Date": "2021-10-11",
+        "DailyWeightedAverageSpeed": 4.667421451787649
+    },
+    {
+        "Date": "2021-10-12",
+        "DailyWeightedAverageSpeed": 4.440730434782609
+    },
+    {
+        "Date": "2021-10-13",
+        "DailyWeightedAverageSpeed": 4.650642066420664
+    },
+    {
+        "Date": "2021-10-14",
+        "DailyWeightedAverageSpeed": 4.599625070581592
+    },
+    {
+        "Date": "2021-10-15",
+        "DailyWeightedAverageSpeed": 4.218657091561939
+    },
+    {
+        "Date": "2021-10-16",
+        "DailyWeightedAverageSpeed": 4.579611848825332
+    },
+    {
+        "Date": "2021-10-17",
+        "DailyWeightedAverageSpeed": 4.4376
+    },
+    {
+        "Date": "2021-10-18",
+        "DailyWeightedAverageSpeed": 4.691370491803279
+    },
+    {
+        "Date": "2021-10-19",
+        "DailyWeightedAverageSpeed": 4.45153432835821
+    },
+    {
+        "Date": "2021-10-20",
+        "DailyWeightedAverageSpeed": 4.576852707307839
+    },
+    {
+        "Date": "2021-10-21",
+        "DailyWeightedAverageSpeed": 4.734829319371728
+    },
+    {
+        "Date": "2021-10-22",
+        "DailyWeightedAverageSpeed": 4.873252747252747
+    },
+    {
+        "Date": "2021-10-23",
+        "DailyWeightedAverageSpeed": 4.359310344827586
+    },
+    {
+        "Date": "2021-10-24",
+        "DailyWeightedAverageSpeed": 4.517579617834396
+    },
+    {
+        "Date": "2021-10-25",
+        "DailyWeightedAverageSpeed": 4.7553580246913585
+    },
+    {
+        "Date": "2021-10-26",
+        "DailyWeightedAverageSpeed": 4.558961860465116
+    },
+    {
+        "Date": "2021-10-27",
+        "DailyWeightedAverageSpeed": 4.707137081140958
+    },
+    {
+        "Date": "2021-10-28",
+        "DailyWeightedAverageSpeed": 5.43063829787234
+    },
+    {
+        "Date": "2021-10-29",
+        "DailyWeightedAverageSpeed": 4.383652514696277
+    },
+    {
+        "Date": "2021-10-30",
+        "DailyWeightedAverageSpeed": 4.343538461538461
+    },
+    {
+        "Date": "2021-10-31",
+        "DailyWeightedAverageSpeed": 4.781668221185876
+    },
+    {
+        "Date": "2021-11-01",
+        "DailyWeightedAverageSpeed": 4.340923365362081
+    },
+    {
+        "Date": "2021-11-02",
+        "DailyWeightedAverageSpeed": 4.664798380566801
+    },
+    {
+        "Date": "2021-11-03",
+        "DailyWeightedAverageSpeed": 4.755528524754963
+    },
+    {
+        "Date": "2021-11-04",
+        "DailyWeightedAverageSpeed": 4.513058136300417
+    },
+    {
+        "Date": "2021-11-05",
+        "DailyWeightedAverageSpeed": 4.4077401074743525
+    },
+    {
+        "Date": "2021-11-06",
+        "DailyWeightedAverageSpeed": 4.524079470198675
+    },
+    {
+        "Date": "2021-11-07",
+        "DailyWeightedAverageSpeed": 4.694448290783211
+    },
+    {
+        "Date": "2021-11-08",
+        "DailyWeightedAverageSpeed": 4.498404624277457
+    },
+    {
+        "Date": "2021-11-09",
+        "DailyWeightedAverageSpeed": 4.379044679122665
+    },
+    {
+        "Date": "2021-11-10",
+        "DailyWeightedAverageSpeed": 4.6462088266953705
+    },
+    {
+        "Date": "2021-11-11",
+        "DailyWeightedAverageSpeed": 4.571886003799873
+    },
+    {
+        "Date": "2021-11-12",
+        "DailyWeightedAverageSpeed": 4.4716731634182905
+    },
+    {
+        "Date": "2021-11-13",
+        "DailyWeightedAverageSpeed": 4.4376058751529985
+    },
+    {
+        "Date": "2021-11-14",
+        "DailyWeightedAverageSpeed": 4.470428571428571
+    },
+    {
+        "Date": "2021-11-15",
+        "DailyWeightedAverageSpeed": 4.869924761370016
+    },
+    {
+        "Date": "2021-11-16",
+        "DailyWeightedAverageSpeed": 4.924129530201342
+    },
+    {
+        "Date": "2021-11-17",
+        "DailyWeightedAverageSpeed": 4.543980882352941
+    },
+    {
+        "Date": "2021-11-18",
+        "DailyWeightedAverageSpeed": 4.210117061021171
+    },
+    {
+        "Date": "2021-11-19",
+        "DailyWeightedAverageSpeed": 4.43157904540163
+    },
+    {
+        "Date": "2021-11-20",
+        "DailyWeightedAverageSpeed": 4.445547259729944
+    },
+    {
+        "Date": "2021-11-21",
+        "DailyWeightedAverageSpeed": 4.459404682274248
+    },
+    {
+        "Date": "2021-11-22",
+        "DailyWeightedAverageSpeed": 4.5676855415063224
+    },
+    {
+        "Date": "2021-11-23",
+        "DailyWeightedAverageSpeed": 4.401363636363636
+    },
+    {
+        "Date": "2021-11-24",
+        "DailyWeightedAverageSpeed": 4.8390636604774535
+    },
+    {
+        "Date": "2021-11-25",
+        "DailyWeightedAverageSpeed": 4.516645563051375
+    },
+    {
+        "Date": "2021-11-26",
+        "DailyWeightedAverageSpeed": 4.402331506849316
+    },
+    {
+        "Date": "2021-11-27",
+        "DailyWeightedAverageSpeed": 4.63188899707887
+    },
+    {
+        "Date": "2021-11-28",
+        "DailyWeightedAverageSpeed": 4.671300175541252
+    },
+    {
+        "Date": "2021-11-29",
+        "DailyWeightedAverageSpeed": 4.488372
+    },
+    {
+        "Date": "2021-11-30",
+        "DailyWeightedAverageSpeed": 4.84237701396348
+    },
+    {
+        "Date": "2021-12-01",
+        "DailyWeightedAverageSpeed": 4.513646293888166
+    },
+    {
+        "Date": "2021-12-02",
+        "DailyWeightedAverageSpeed": 4.823266592392169
+    },
+    {
+        "Date": "2021-12-03",
+        "DailyWeightedAverageSpeed": 4.3217123670956905
+    },
+    {
+        "Date": "2021-12-04",
+        "DailyWeightedAverageSpeed": 4.655382232346241
+    },
+    {
+        "Date": "2021-12-05",
+        "DailyWeightedAverageSpeed": 4.327910313901345
+    },
+    {
+        "Date": "2021-12-06",
+        "DailyWeightedAverageSpeed": 4.317196581196581
+    },
+    {
+        "Date": "2021-12-07",
+        "DailyWeightedAverageSpeed": 3.8488791208791207
+    },
+    {
+        "Date": "2021-12-08",
+        "DailyWeightedAverageSpeed": 4.560871369294606
+    },
+    {
+        "Date": "2021-12-09",
+        "DailyWeightedAverageSpeed": 4.459680539932509
+    },
+    {
+        "Date": "2021-12-10",
+        "DailyWeightedAverageSpeed": 4.742129909365559
+    },
+    {
+        "Date": "2021-12-11",
+        "DailyWeightedAverageSpeed": 4.320167053364269
+    },
+    {
+        "Date": "2021-12-12",
+        "DailyWeightedAverageSpeed": 4.515878887070376
+    },
+    {
+        "Date": "2021-12-13",
+        "DailyWeightedAverageSpeed": 4.55866847090663
+    },
+    {
+        "Date": "2021-12-14",
+        "DailyWeightedAverageSpeed": 4.836857142857143
+    },
+    {
+        "Date": "2021-12-15",
+        "DailyWeightedAverageSpeed": 4.4559531665779675
+    },
+    {
+        "Date": "2021-12-16",
+        "DailyWeightedAverageSpeed": 4.359283516483516
+    },
+    {
+        "Date": "2021-12-17",
+        "DailyWeightedAverageSpeed": 3.7260000000000004
+    },
+    {
+        "Date": "2021-12-18",
+        "DailyWeightedAverageSpeed": 4.044
+    },
+    {
+        "Date": "2021-12-19",
+        "DailyWeightedAverageSpeed": 4.231964601769912
+    },
+    {
+        "Date": "2021-12-20",
+        "DailyWeightedAverageSpeed": 4.204252922422954
+    },
+    {
+        "Date": "2021-12-21",
+        "DailyWeightedAverageSpeed": 4.726406676783005
+    },
+    {
+        "Date": "2021-12-22",
+        "DailyWeightedAverageSpeed": 4.398369895916733
+    },
+    {
+        "Date": "2021-12-23",
+        "DailyWeightedAverageSpeed": 4.618771764705882
+    },
+    {
+        "Date": "2021-12-24",
+        "DailyWeightedAverageSpeed": 4.2685056
+    },
+    {
+        "Date": "2021-12-25",
+        "DailyWeightedAverageSpeed": 4.6902489577129245
+    },
+    {
+        "Date": "2021-12-26",
+        "DailyWeightedAverageSpeed": 4.432248704663213
+    },
+    {
+        "Date": "2021-12-27",
+        "DailyWeightedAverageSpeed": 4.627293929712461
+    },
+    {
+        "Date": "2021-12-28",
+        "DailyWeightedAverageSpeed": 4.551909268674228
+    },
+    {
+        "Date": "2021-12-29",
+        "DailyWeightedAverageSpeed": 4.328540455616653
+    },
+    {
+        "Date": "2021-12-30",
+        "DailyWeightedAverageSpeed": 4.806769230769231
+    },
+    {
+        "Date": "2021-12-31",
+        "DailyWeightedAverageSpeed": 3.5253529411764704
+    },
+    {
+        "Date": "2022-01-01",
+        "DailyWeightedAverageSpeed": 3.9396
+    },
+    {
+        "Date": "2022-01-02",
+        "DailyWeightedAverageSpeed": 4.644415704387991
+    },
+    {
+        "Date": "2022-01-03",
+        "DailyWeightedAverageSpeed": 4.717072492552135
+    },
+    {
+        "Date": "2022-01-04",
+        "DailyWeightedAverageSpeed": 4.32734693877551
+    },
+    {
+        "Date": "2022-01-05",
+        "DailyWeightedAverageSpeed": 2.8512
+    },
+    {
+        "Date": "2022-01-06",
+        "DailyWeightedAverageSpeed": 4.6525108695652175
+    },
+    {
+        "Date": "2022-01-07",
+        "DailyWeightedAverageSpeed": 3.5292413793103448
+    },
+    {
+        "Date": "2022-01-08",
+        "DailyWeightedAverageSpeed": 2.856
+    },
+    {
+        "Date": "2022-01-09",
+        "DailyWeightedAverageSpeed": 3.8639999999999994
+    },
+    {
+        "Date": "2022-01-10",
+        "DailyWeightedAverageSpeed": 2.750625
+    },
+    {
+        "Date": "2022-01-11",
+        "DailyWeightedAverageSpeed": 3.543428571428571
+    },
+    {
+        "Date": "2022-01-12",
+        "DailyWeightedAverageSpeed": 3.497142857142857
+    },
+    {
+        "Date": "2022-01-13",
+        "DailyWeightedAverageSpeed": 3.5074285714285716
+    },
+    {
+        "Date": "2022-01-14",
+        "DailyWeightedAverageSpeed": 3.5136000000000003
+    },
+    {
+        "Date": "2022-01-15",
+        "DailyWeightedAverageSpeed": 4.63007869742198
+    },
+    {
+        "Date": "2022-01-16",
+        "DailyWeightedAverageSpeed": 4.439675675675676
+    },
+    {
+        "Date": "2022-01-18",
+        "DailyWeightedAverageSpeed": 3.0730909090909093
+    },
+    {
+        "Date": "2022-01-19",
+        "DailyWeightedAverageSpeed": 4.46363590391909
+    },
+    {
+        "Date": "2022-01-20",
+        "DailyWeightedAverageSpeed": 4.755841191066998
+    },
+    {
+        "Date": "2022-01-21",
+        "DailyWeightedAverageSpeed": 2.6177142857142854
+    },
+    {
+        "Date": "2022-01-22",
+        "DailyWeightedAverageSpeed": 4.3958054968287525
+    },
+    {
+        "Date": "2022-01-23",
+        "DailyWeightedAverageSpeed": 4.156897959183674
+    },
+    {
+        "Date": "2022-01-24",
+        "DailyWeightedAverageSpeed": 3.7705263157894744
+    },
+    {
+        "Date": "2022-01-25",
+        "DailyWeightedAverageSpeed": 2.34
+    },
+    {
+        "Date": "2022-01-26",
+        "DailyWeightedAverageSpeed": 4.130618181818181
+    },
+    {
+        "Date": "2022-01-27",
+        "DailyWeightedAverageSpeed": 3.3664
+    },
+    {
+        "Date": "2022-01-28",
+        "DailyWeightedAverageSpeed": 4.5279466097170324
+    },
+    {
+        "Date": "2022-01-29",
+        "DailyWeightedAverageSpeed": 4.545041860465116
+    },
+    {
+        "Date": "2022-01-30",
+        "DailyWeightedAverageSpeed": 5.148000000000001
+    },
+    {
+        "Date": "2022-01-31",
+        "DailyWeightedAverageSpeed": 3.188307692307692
+    },
+    {
+        "Date": "2022-02-01",
+        "DailyWeightedAverageSpeed": 4.2111
+    },
+    {
+        "Date": "2022-02-02",
+        "DailyWeightedAverageSpeed": 4.596218181818182
+    },
+    {
+        "Date": "2022-02-03",
+        "DailyWeightedAverageSpeed": 3.919083557951482
+    },
+    {
+        "Date": "2022-02-04",
+        "DailyWeightedAverageSpeed": 3.5852962607861936
+    },
+    {
+        "Date": "2022-02-05",
+        "DailyWeightedAverageSpeed": 3.8644291609353507
+    },
+    {
+        "Date": "2022-02-06",
+        "DailyWeightedAverageSpeed": 4.037632653061224
+    },
+    {
+        "Date": "2022-02-07",
+        "DailyWeightedAverageSpeed": 4.284
+    },
+    {
+        "Date": "2022-02-08",
+        "DailyWeightedAverageSpeed": 2.454
+    },
+    {
+        "Date": "2022-02-09",
+        "DailyWeightedAverageSpeed": 4.419886214442013
+    },
+    {
+        "Date": "2022-02-10",
+        "DailyWeightedAverageSpeed": 4.320330275229358
+    },
+    {
+        "Date": "2022-02-11",
+        "DailyWeightedAverageSpeed": 4.875291262135923
+    },
+    {
+        "Date": "2022-02-12",
+        "DailyWeightedAverageSpeed": 4.730666666666666
+    },
+    {
+        "Date": "2022-02-13",
+        "DailyWeightedAverageSpeed": 3.4545882352941177
+    },
+    {
+        "Date": "2022-02-14",
+        "DailyWeightedAverageSpeed": 4.174686131386862
+    },
+    {
+        "Date": "2022-02-15",
+        "DailyWeightedAverageSpeed": 4.452042857142858
+    },
+    {
+        "Date": "2022-02-16",
+        "DailyWeightedAverageSpeed": 4.6569320388349515
+    },
+    {
+        "Date": "2022-02-17",
+        "DailyWeightedAverageSpeed": 3.7350000000000003
+    },
+    {
+        "Date": "2022-02-18",
+        "DailyWeightedAverageSpeed": 4.37025
+    },
+    {
+        "Date": "2022-02-19",
+        "DailyWeightedAverageSpeed": 4.449654545454545
+    },
+    {
+        "Date": "2022-02-20",
+        "DailyWeightedAverageSpeed": 4.252192522561238
+    },
+    {
+        "Date": "2022-02-21",
+        "DailyWeightedAverageSpeed": 4.0386
+    },
+    {
+        "Date": "2022-02-22",
+        "DailyWeightedAverageSpeed": 4.485540983606557
+    },
+    {
+        "Date": "2022-02-23",
+        "DailyWeightedAverageSpeed": 2.5302857142857142
+    },
+    {
+        "Date": "2022-02-24",
+        "DailyWeightedAverageSpeed": 4.504631578947369
+    },
+    {
+        "Date": "2022-02-25",
+        "DailyWeightedAverageSpeed": 3.4637142857142855
+    },
+    {
+        "Date": "2022-02-26",
+        "DailyWeightedAverageSpeed": 4.610759581881533
+    },
+    {
+        "Date": "2022-02-27",
+        "DailyWeightedAverageSpeed": 4.583259183673469
+    },
+    {
+        "Date": "2022-02-28",
+        "DailyWeightedAverageSpeed": 4.886550740537576
+    },
+    {
+        "Date": "2022-03-01",
+        "DailyWeightedAverageSpeed": 4.769929350196249
+    },
+    {
+        "Date": "2022-03-02",
+        "DailyWeightedAverageSpeed": 4.615279470198676
+    },
+    {
+        "Date": "2022-03-03",
+        "DailyWeightedAverageSpeed": 4.443077851538926
+    },
+    {
+        "Date": "2022-03-04",
+        "DailyWeightedAverageSpeed": 4.818955503512881
+    },
+    {
+        "Date": "2022-03-05",
+        "DailyWeightedAverageSpeed": 4.0716
+    },
+    {
+        "Date": "2022-03-06",
+        "DailyWeightedAverageSpeed": 3.798279792746114
+    },
+    {
+        "Date": "2022-03-07",
+        "DailyWeightedAverageSpeed": 4.386480430879713
+    },
+    {
+        "Date": "2022-03-08",
+        "DailyWeightedAverageSpeed": 4.427080188679246
+    },
+    {
+        "Date": "2022-03-09",
+        "DailyWeightedAverageSpeed": 4.680201037096131
+    },
+    {
+        "Date": "2022-03-10",
+        "DailyWeightedAverageSpeed": 4.270697582634435
+    },
+    {
+        "Date": "2022-03-11",
+        "DailyWeightedAverageSpeed": 4.304997547015535
+    },
+    {
+        "Date": "2022-03-12",
+        "DailyWeightedAverageSpeed": 4.335181946403385
+    },
+    {
+        "Date": "2022-03-13",
+        "DailyWeightedAverageSpeed": 4.546253975789224
+    },
+    {
+        "Date": "2022-03-14",
+        "DailyWeightedAverageSpeed": 4.254036090225564
+    },
+    {
+        "Date": "2022-03-15",
+        "DailyWeightedAverageSpeed": 4.716891579526693
+    },
+    {
+        "Date": "2022-03-16",
+        "DailyWeightedAverageSpeed": 4.656826213189548
+    },
+    {
+        "Date": "2022-03-17",
+        "DailyWeightedAverageSpeed": 5.019476987447699
+    },
+    {
+        "Date": "2022-03-18",
+        "DailyWeightedAverageSpeed": 3.6683478260869564
+    },
+    {
+        "Date": "2022-03-19",
+        "DailyWeightedAverageSpeed": 4.589698804780877
+    },
+    {
+        "Date": "2022-03-20",
+        "DailyWeightedAverageSpeed": 4.619893723527147
+    },
+    {
+        "Date": "2022-03-21",
+        "DailyWeightedAverageSpeed": 4.652229439055251
+    },
+    {
+        "Date": "2022-03-22",
+        "DailyWeightedAverageSpeed": 4.62460264519839
+    },
+    {
+        "Date": "2022-03-23",
+        "DailyWeightedAverageSpeed": 4.716819112627986
+    },
+    {
+        "Date": "2022-03-24",
+        "DailyWeightedAverageSpeed": 4.6756502732240435
+    },
+    {
+        "Date": "2022-03-25",
+        "DailyWeightedAverageSpeed": 4.792316114109483
+    },
+    {
+        "Date": "2022-03-26",
+        "DailyWeightedAverageSpeed": 4.366948905109489
+    },
+    {
+        "Date": "2022-03-27",
+        "DailyWeightedAverageSpeed": 4.148967509025272
+    },
+    {
+        "Date": "2022-03-28",
+        "DailyWeightedAverageSpeed": 4.831271375464684
+    },
+    {
+        "Date": "2022-03-29",
+        "DailyWeightedAverageSpeed": 4.581149928605425
+    },
+    {
+        "Date": "2022-03-30",
+        "DailyWeightedAverageSpeed": 4.970214860388074
+    },
+    {
+        "Date": "2022-03-31",
+        "DailyWeightedAverageSpeed": 4.797040642247867
+    },
+    {
+        "Date": "2022-04-01",
+        "DailyWeightedAverageSpeed": 4.871461174881836
+    },
+    {
+        "Date": "2022-04-02",
+        "DailyWeightedAverageSpeed": 4.820224797219004
+    },
+    {
+        "Date": "2022-04-03",
+        "DailyWeightedAverageSpeed": 4.590462179042332
+    },
+    {
+        "Date": "2022-04-04",
+        "DailyWeightedAverageSpeed": 4.593618291521118
+    },
+    {
+        "Date": "2022-04-05",
+        "DailyWeightedAverageSpeed": 4.369688555347092
+    },
+    {
+        "Date": "2022-04-06",
+        "DailyWeightedAverageSpeed": 4.891983532317827
+    },
+    {
+        "Date": "2022-04-07",
+        "DailyWeightedAverageSpeed": 4.676829230769231
+    },
+    {
+        "Date": "2022-04-08",
+        "DailyWeightedAverageSpeed": 4.2648
+    },
+    {
+        "Date": "2022-04-09",
+        "DailyWeightedAverageSpeed": 4.031560975609756
+    },
+    {
+        "Date": "2022-04-10",
+        "DailyWeightedAverageSpeed": 4.055187620889749
+    },
+    {
+        "Date": "2022-04-11",
+        "DailyWeightedAverageSpeed": 4.697801782905087
+    },
+    {
+        "Date": "2022-04-12",
+        "DailyWeightedAverageSpeed": 4.771665414817344
+    },
+    {
+        "Date": "2022-04-13",
+        "DailyWeightedAverageSpeed": 4.381043478260869
+    },
+    {
+        "Date": "2022-04-14",
+        "DailyWeightedAverageSpeed": 4.8877845117845125
+    },
+    {
+        "Date": "2022-04-15",
+        "DailyWeightedAverageSpeed": 4.56536023054755
+    },
+    {
+        "Date": "2022-04-16",
+        "DailyWeightedAverageSpeed": 4.595082683307332
+    },
+    {
+        "Date": "2022-04-17",
+        "DailyWeightedAverageSpeed": 4.238948571428572
+    },
+    {
+        "Date": "2022-04-18",
+        "DailyWeightedAverageSpeed": 4.589126213592233
+    },
+    {
+        "Date": "2022-04-19",
+        "DailyWeightedAverageSpeed": 4.720138630600169
+    },
+    {
+        "Date": "2022-04-20",
+        "DailyWeightedAverageSpeed": 4.946992700729927
+    },
+    {
+        "Date": "2022-04-21",
+        "DailyWeightedAverageSpeed": 5.1363504
+    },
+    {
+        "Date": "2022-04-22",
+        "DailyWeightedAverageSpeed": 4.75634375
+    },
+    {
+        "Date": "2022-04-23",
+        "DailyWeightedAverageSpeed": 4.365658536585365
+    },
+    {
+        "Date": "2022-04-24",
+        "DailyWeightedAverageSpeed": 5.174686567164179
+    },
+    {
+        "Date": "2022-04-25",
+        "DailyWeightedAverageSpeed": 4.855514376996806
+    },
+    {
+        "Date": "2022-04-26",
+        "DailyWeightedAverageSpeed": 4.543373776908024
+    },
+    {
+        "Date": "2022-04-27",
+        "DailyWeightedAverageSpeed": 4.6574709677419355
+    },
+    {
+        "Date": "2022-04-28",
+        "DailyWeightedAverageSpeed": 4.610683018867925
+    },
+    {
+        "Date": "2022-04-29",
+        "DailyWeightedAverageSpeed": 4.695917591125198
+    },
+    {
+        "Date": "2022-04-30",
+        "DailyWeightedAverageSpeed": 4.698315789473684
+    },
+    {
+        "Date": "2022-05-01",
+        "DailyWeightedAverageSpeed": 3.9423673469387754
+    },
+    {
+        "Date": "2022-05-02",
+        "DailyWeightedAverageSpeed": 3.597652173913044
+    },
+    {
+        "Date": "2022-05-03",
+        "DailyWeightedAverageSpeed": 4.014986945169713
+    },
+    {
+        "Date": "2022-05-04",
+        "DailyWeightedAverageSpeed": 3.6821739130434783
+    },
+    {
+        "Date": "2022-05-05",
+        "DailyWeightedAverageSpeed": 4.512774193548387
+    },
+    {
+        "Date": "2022-05-06",
+        "DailyWeightedAverageSpeed": 4.3056
+    },
+    {
+        "Date": "2022-05-07",
+        "DailyWeightedAverageSpeed": 2.8215000000000003
+    },
+    {
+        "Date": "2022-05-08",
+        "DailyWeightedAverageSpeed": 4.555041666666667
+    },
+    {
+        "Date": "2022-05-09",
+        "DailyWeightedAverageSpeed": 4.5792891853263455
+    },
+    {
+        "Date": "2022-05-10",
+        "DailyWeightedAverageSpeed": 4.501255813953489
+    },
+    {
+        "Date": "2022-05-11",
+        "DailyWeightedAverageSpeed": 4.457312101910828
+    },
+    {
+        "Date": "2022-05-12",
+        "DailyWeightedAverageSpeed": 4.950438596491228
+    },
+    {
+        "Date": "2022-05-13",
+        "DailyWeightedAverageSpeed": 4.5519598796389165
+    },
+    {
+        "Date": "2022-05-14",
+        "DailyWeightedAverageSpeed": 3.636
+    },
+    {
+        "Date": "2022-05-15",
+        "DailyWeightedAverageSpeed": 4.71616620498615
+    },
+    {
+        "Date": "2022-05-16",
+        "DailyWeightedAverageSpeed": 4.319896509240246
+    },
+    {
+        "Date": "2022-05-17",
+        "DailyWeightedAverageSpeed": 4.45604927408711
+    },
+    {
+        "Date": "2022-05-18",
+        "DailyWeightedAverageSpeed": 4.784077945084145
+    },
+    {
+        "Date": "2022-05-19",
+        "DailyWeightedAverageSpeed": 4.699549872122763
+    },
+    {
+        "Date": "2022-05-20",
+        "DailyWeightedAverageSpeed": 4.38910661563696
+    },
+    {
+        "Date": "2022-05-21",
+        "DailyWeightedAverageSpeed": 4.331472718493481
+    },
+    {
+        "Date": "2022-05-22",
+        "DailyWeightedAverageSpeed": 4.203245283018868
+    },
+    {
+        "Date": "2022-05-23",
+        "DailyWeightedAverageSpeed": 4.659148834429169
+    },
+    {
+        "Date": "2022-05-24",
+        "DailyWeightedAverageSpeed": 4.7520590809628
+    },
+    {
+        "Date": "2022-05-25",
+        "DailyWeightedAverageSpeed": 4.705583038869258
+    },
+    {
+        "Date": "2022-05-26",
+        "DailyWeightedAverageSpeed": 4.66155223880597
+    },
+    {
+        "Date": "2022-05-27",
+        "DailyWeightedAverageSpeed": 4.523623693379791
+    },
+    {
+        "Date": "2022-05-28",
+        "DailyWeightedAverageSpeed": 4.299614850588591
+    },
+    {
+        "Date": "2022-05-29",
+        "DailyWeightedAverageSpeed": 4.246423493044823
+    },
+    {
+        "Date": "2022-05-30",
+        "DailyWeightedAverageSpeed": 4.553376
+    },
+    {
+        "Date": "2022-05-31",
+        "DailyWeightedAverageSpeed": 4.96848223645894
+    },
+    {
+        "Date": "2022-06-01",
+        "DailyWeightedAverageSpeed": 4.739771134020619
+    },
+    {
+        "Date": "2022-06-02",
+        "DailyWeightedAverageSpeed": 4.62045205479452
+    },
+    {
+        "Date": "2022-06-03",
+        "DailyWeightedAverageSpeed": 5.1540911471974855
+    },
+    {
+        "Date": "2022-06-04",
+        "DailyWeightedAverageSpeed": 4.810468793342579
+    },
+    {
+        "Date": "2022-06-05",
+        "DailyWeightedAverageSpeed": 4.41041095890411
+    },
+    {
+        "Date": "2022-06-06",
+        "DailyWeightedAverageSpeed": 3.210545454545455
+    },
+    {
+        "Date": "2022-06-07",
+        "DailyWeightedAverageSpeed": 4.205234899328859
+    },
+    {
+        "Date": "2022-06-08",
+        "DailyWeightedAverageSpeed": 4.659767885532592
+    },
+    {
+        "Date": "2022-06-09",
+        "DailyWeightedAverageSpeed": 4.731500465983224
+    },
+    {
+        "Date": "2022-06-10",
+        "DailyWeightedAverageSpeed": 4.498233483001925
+    },
+    {
+        "Date": "2022-06-11",
+        "DailyWeightedAverageSpeed": 4.565119653492149
+    },
+    {
+        "Date": "2022-06-12",
+        "DailyWeightedAverageSpeed": 4.4315837104072395
+    },
+    {
+        "Date": "2022-06-13",
+        "DailyWeightedAverageSpeed": 4.719334593572778
+    },
+    {
+        "Date": "2022-06-14",
+        "DailyWeightedAverageSpeed": 4.808239534883721
+    },
+    {
+        "Date": "2022-06-15",
+        "DailyWeightedAverageSpeed": 5.136118329466357
+    },
+    {
+        "Date": "2022-06-16",
+        "DailyWeightedAverageSpeed": 5.028147692307693
+    },
+    {
+        "Date": "2022-06-17",
+        "DailyWeightedAverageSpeed": 4.865103710751665
+    },
+    {
+        "Date": "2022-06-18",
+        "DailyWeightedAverageSpeed": 4.908997624703088
+    },
+    {
+        "Date": "2022-06-19",
+        "DailyWeightedAverageSpeed": 4.600673684210526
+    },
+    {
+        "Date": "2022-06-20",
+        "DailyWeightedAverageSpeed": 4.653486823855756
+    },
+    {
+        "Date": "2022-06-21",
+        "DailyWeightedAverageSpeed": 4.669542549371633
+    },
+    {
+        "Date": "2022-06-22",
+        "DailyWeightedAverageSpeed": 4.515909677419355
+    },
+    {
+        "Date": "2022-06-23",
+        "DailyWeightedAverageSpeed": 4.593552631578947
+    },
+    {
+        "Date": "2022-06-24",
+        "DailyWeightedAverageSpeed": 4.041913043478261
+    },
+    {
+        "Date": "2022-06-25",
+        "DailyWeightedAverageSpeed": 3.975356643356643
+    },
+    {
+        "Date": "2022-06-26",
+        "DailyWeightedAverageSpeed": 3.4187586206896547
+    },
+    {
+        "Date": "2022-06-27",
+        "DailyWeightedAverageSpeed": 4.631382636655948
+    },
+    {
+        "Date": "2022-06-28",
+        "DailyWeightedAverageSpeed": 4.084229508196722
+    },
+    {
+        "Date": "2022-06-29",
+        "DailyWeightedAverageSpeed": 4.601631067961165
+    },
+    {
+        "Date": "2022-06-30",
+        "DailyWeightedAverageSpeed": 4.547464968152867
+    },
+    {
+        "Date": "2022-07-01",
+        "DailyWeightedAverageSpeed": 4.235333333333333
+    },
+    {
+        "Date": "2022-07-02",
+        "DailyWeightedAverageSpeed": 3.7011428571428575
+    },
+    {
+        "Date": "2022-07-03",
+        "DailyWeightedAverageSpeed": 3.5261605839416057
+    },
+    {
+        "Date": "2022-07-04",
+        "DailyWeightedAverageSpeed": 3.476
+    },
+    {
+        "Date": "2022-07-05",
+        "DailyWeightedAverageSpeed": 4.0023
+    },
+    {
+        "Date": "2022-07-06",
+        "DailyWeightedAverageSpeed": 4.033636363636363
+    },
+    {
+        "Date": "2022-07-07",
+        "DailyWeightedAverageSpeed": 3.9816986301369863
+    },
+    {
+        "Date": "2022-07-08",
+        "DailyWeightedAverageSpeed": 4.48320848056537
+    },
+    {
+        "Date": "2022-07-09",
+        "DailyWeightedAverageSpeed": 4.066005540166205
+    },
+    {
+        "Date": "2022-07-10",
+        "DailyWeightedAverageSpeed": 4.57425
+    },
+    {
+        "Date": "2022-07-11",
+        "DailyWeightedAverageSpeed": 4.630871287128713
+    },
+    {
+        "Date": "2022-07-12",
+        "DailyWeightedAverageSpeed": 4.0905
+    },
+    {
+        "Date": "2022-07-13",
+        "DailyWeightedAverageSpeed": 3.6360000000000006
+    },
+    {
+        "Date": "2022-07-14",
+        "DailyWeightedAverageSpeed": 3.245142857142857
+    },
+    {
+        "Date": "2022-07-15",
+        "DailyWeightedAverageSpeed": 3.033391304347826
+    },
+    {
+        "Date": "2022-07-16",
+        "DailyWeightedAverageSpeed": 3.2479999999999998
+    },
+    {
+        "Date": "2022-07-17",
+        "DailyWeightedAverageSpeed": 4.430241509433962
+    },
+    {
+        "Date": "2022-07-18",
+        "DailyWeightedAverageSpeed": 4.440946153846154
+    },
+    {
+        "Date": "2022-07-19",
+        "DailyWeightedAverageSpeed": 4.4679585062240665
+    },
+    {
+        "Date": "2022-07-20",
+        "DailyWeightedAverageSpeed": 4.136678571428571
+    },
+    {
+        "Date": "2022-07-21",
+        "DailyWeightedAverageSpeed": 4.492630588235294
+    },
+    {
+        "Date": "2022-07-22",
+        "DailyWeightedAverageSpeed": 4.0906666666666665
+    },
+    {
+        "Date": "2022-07-23",
+        "DailyWeightedAverageSpeed": 4.851428571428572
+    },
+    {
+        "Date": "2022-07-24",
+        "DailyWeightedAverageSpeed": 4.355381974248927
+    },
+    {
+        "Date": "2022-07-25",
+        "DailyWeightedAverageSpeed": 4.57536
+    },
+    {
+        "Date": "2022-07-26",
+        "DailyWeightedAverageSpeed": 4.76849708737864
+    },
+    {
+        "Date": "2022-07-27",
+        "DailyWeightedAverageSpeed": 4.033948717948718
+    },
+    {
+        "Date": "2022-07-28",
+        "DailyWeightedAverageSpeed": 4.150404624277456
+    },
+    {
+        "Date": "2022-07-29",
+        "DailyWeightedAverageSpeed": 4.7299655172413795
+    },
+    {
+        "Date": "2022-07-30",
+        "DailyWeightedAverageSpeed": 4.486769230769231
+    },
+    {
+        "Date": "2022-07-31",
+        "DailyWeightedAverageSpeed": 4.836490384615385
+    },
+    {
+        "Date": "2022-08-01",
+        "DailyWeightedAverageSpeed": 4.585787234042553
+    },
+    {
+        "Date": "2022-08-02",
+        "DailyWeightedAverageSpeed": 4.41704347826087
+    },
+    {
+        "Date": "2022-08-03",
+        "DailyWeightedAverageSpeed": 4.701084112149533
+    },
+    {
+        "Date": "2022-08-04",
+        "DailyWeightedAverageSpeed": 4.487225806451613
+    },
+    {
+        "Date": "2022-08-05",
+        "DailyWeightedAverageSpeed": 4.719384615384615
+    },
+    {
+        "Date": "2022-08-06",
+        "DailyWeightedAverageSpeed": 3.878742857142857
+    },
+    {
+        "Date": "2022-08-07",
+        "DailyWeightedAverageSpeed": 4.47035294117647
+    },
+    {
+        "Date": "2022-08-08",
+        "DailyWeightedAverageSpeed": 4.230853273137698
+    },
+    {
+        "Date": "2022-08-09",
+        "DailyWeightedAverageSpeed": 4.408229140722291
+    },
+    {
+        "Date": "2022-08-10",
+        "DailyWeightedAverageSpeed": 4.4122452431289645
+    },
+    {
+        "Date": "2022-08-11",
+        "DailyWeightedAverageSpeed": 4.166322580645161
+    },
+    {
+        "Date": "2022-08-12",
+        "DailyWeightedAverageSpeed": 4.209882352941176
+    },
+    {
+        "Date": "2022-08-13",
+        "DailyWeightedAverageSpeed": 4.072000000000001
+    },
+    {
+        "Date": "2022-08-14",
+        "DailyWeightedAverageSpeed": 3.701571428571429
+    },
+    {
+        "Date": "2022-08-15",
+        "DailyWeightedAverageSpeed": 3.878048076923077
+    },
+    {
+        "Date": "2022-08-16",
+        "DailyWeightedAverageSpeed": 3.479186440677966
+    },
+    {
+        "Date": "2022-08-17",
+        "DailyWeightedAverageSpeed": 3.989454545454545
+    },
+    {
+        "Date": "2022-08-18",
+        "DailyWeightedAverageSpeed": 2.7412758620689655
+    },
+    {
+        "Date": "2022-08-19",
+        "DailyWeightedAverageSpeed": 4.454444444444444
+    },
+    {
+        "Date": "2022-08-20",
+        "DailyWeightedAverageSpeed": 3.921923076923077
+    },
+    {
+        "Date": "2022-08-21",
+        "DailyWeightedAverageSpeed": 4.671171974522293
+    },
+    {
+        "Date": "2022-08-22",
+        "DailyWeightedAverageSpeed": 4.314447300771208
+    },
+    {
+        "Date": "2022-08-23",
+        "DailyWeightedAverageSpeed": 4.698450536352801
+    },
+    {
+        "Date": "2022-08-24",
+        "DailyWeightedAverageSpeed": 4.443079245283019
+    },
+    {
+        "Date": "2022-08-25",
+        "DailyWeightedAverageSpeed": 4.243384615384615
+    },
+    {
+        "Date": "2022-08-26",
+        "DailyWeightedAverageSpeed": 3.9936000000000003
+    },
+    {
+        "Date": "2022-08-27",
+        "DailyWeightedAverageSpeed": 3.816244482173175
+    },
+    {
+        "Date": "2022-08-28",
+        "DailyWeightedAverageSpeed": 3.644
+    },
+    {
+        "Date": "2022-08-29",
+        "DailyWeightedAverageSpeed": 4.510999999999999
+    },
+    {
+        "Date": "2022-08-30",
+        "DailyWeightedAverageSpeed": 4.668136363636363
+    },
+    {
+        "Date": "2022-08-31",
+        "DailyWeightedAverageSpeed": 3.2458064516129035
+    },
+    {
+        "Date": "2022-09-01",
+        "DailyWeightedAverageSpeed": 3.9594339622641512
+    },
+    {
+        "Date": "2022-09-02",
+        "DailyWeightedAverageSpeed": 4.112470588235294
+    },
+    {
+        "Date": "2022-09-03",
+        "DailyWeightedAverageSpeed": 3.439384615384615
+    },
+    {
+        "Date": "2022-09-04",
+        "DailyWeightedAverageSpeed": 4.01756345177665
+    },
+    {
+        "Date": "2022-09-05",
+        "DailyWeightedAverageSpeed": 3.8202352941176474
+    },
+    {
+        "Date": "2022-09-06",
+        "DailyWeightedAverageSpeed": 4.992
+    },
+    {
+        "Date": "2022-09-07",
+        "DailyWeightedAverageSpeed": 3.8368729641693813
+    },
+    {
+        "Date": "2022-09-08",
+        "DailyWeightedAverageSpeed": 4.72644705882353
+    },
+    {
+        "Date": "2022-09-09",
+        "DailyWeightedAverageSpeed": 3.1123880597014923
+    },
+    {
+        "Date": "2022-09-10",
+        "DailyWeightedAverageSpeed": 3.7626398763523956
+    },
+    {
+        "Date": "2022-09-11",
+        "DailyWeightedAverageSpeed": 4.58841450777202
+    },
+    {
+        "Date": "2022-09-12",
+        "DailyWeightedAverageSpeed": 4.33579274611399
+    },
+    {
+        "Date": "2022-09-13",
+        "DailyWeightedAverageSpeed": 3.885264
+    },
+    {
+        "Date": "2022-09-14",
+        "DailyWeightedAverageSpeed": 3.219283018867925
+    },
+    {
+        "Date": "2022-09-15",
+        "DailyWeightedAverageSpeed": 2.834
+    },
+    {
+        "Date": "2022-09-16",
+        "DailyWeightedAverageSpeed": 4.591547911547911
+    },
+    {
+        "Date": "2022-09-17",
+        "DailyWeightedAverageSpeed": 3.202599423631124
+    },
+    {
+        "Date": "2022-09-18",
+        "DailyWeightedAverageSpeed": 3.5271897106109322
+    },
+    {
+        "Date": "2022-09-19",
+        "DailyWeightedAverageSpeed": 4.326484472049689
+    },
+    {
+        "Date": "2022-09-20",
+        "DailyWeightedAverageSpeed": 2.89332
+    },
+    {
+        "Date": "2022-09-21",
+        "DailyWeightedAverageSpeed": 3.516223404255319
+    },
+    {
+        "Date": "2022-09-22",
+        "DailyWeightedAverageSpeed": 3.6335683690280067
+    },
+    {
+        "Date": "2022-09-23",
+        "DailyWeightedAverageSpeed": 4.5147272727272725
+    },
+    {
+        "Date": "2022-09-24",
+        "DailyWeightedAverageSpeed": 3.7264280052840157
+    },
+    {
+        "Date": "2022-09-25",
+        "DailyWeightedAverageSpeed": 4.105470817120622
+    },
+    {
+        "Date": "2022-09-26",
+        "DailyWeightedAverageSpeed": 2.5338082191780824
+    },
+    {
+        "Date": "2022-09-27",
+        "DailyWeightedAverageSpeed": 3.8346271777003484
+    },
+    {
+        "Date": "2022-09-28",
+        "DailyWeightedAverageSpeed": 4.524458145601138
+    },
+    {
+        "Date": "2022-09-29",
+        "DailyWeightedAverageSpeed": 4.27804252303331
+    },
+    {
+        "Date": "2022-09-30",
+        "DailyWeightedAverageSpeed": 4.173427354472314
+    },
+    {
+        "Date": "2022-10-01",
+        "DailyWeightedAverageSpeed": 4.784343586767267
+    },
+    {
+        "Date": "2022-10-02",
+        "DailyWeightedAverageSpeed": 4.411883076923076
+    },
+    {
+        "Date": "2022-10-03",
+        "DailyWeightedAverageSpeed": 4.575710977002121
+    },
+    {
+        "Date": "2022-10-04",
+        "DailyWeightedAverageSpeed": 4.4022457120063825
+    },
+    {
+        "Date": "2022-10-05",
+        "DailyWeightedAverageSpeed": 4.441481019622226
+    },
+    {
+        "Date": "2022-10-06",
+        "DailyWeightedAverageSpeed": 4.368788811188811
+    },
+    {
+        "Date": "2022-10-07",
+        "DailyWeightedAverageSpeed": 4.426477917795313
+    },
+    {
+        "Date": "2022-10-08",
+        "DailyWeightedAverageSpeed": 3.603369985141159
+    },
+    {
+        "Date": "2022-10-09",
+        "DailyWeightedAverageSpeed": 4.147284477784189
+    },
+    {
+        "Date": "2022-10-10",
+        "DailyWeightedAverageSpeed": 4.480134288061979
+    },
+    {
+        "Date": "2022-10-11",
+        "DailyWeightedAverageSpeed": 4.415715383330549
+    },
+    {
+        "Date": "2022-10-12",
+        "DailyWeightedAverageSpeed": 4.286654237288135
+    },
+    {
+        "Date": "2022-10-13",
+        "DailyWeightedAverageSpeed": 4.278483870967742
+    },
+    {
+        "Date": "2022-10-14",
+        "DailyWeightedAverageSpeed": 4.534121085594989
+    },
+    {
+        "Date": "2022-10-15",
+        "DailyWeightedAverageSpeed": 4.093749618320611
+    },
+    {
+        "Date": "2022-10-16",
+        "DailyWeightedAverageSpeed": 4.008705882352942
+    },
+    {
+        "Date": "2022-10-17",
+        "DailyWeightedAverageSpeed": 4.543203904555314
+    },
+    {
+        "Date": "2022-10-18",
+        "DailyWeightedAverageSpeed": 4.38932530120482
+    },
+    {
+        "Date": "2022-10-19",
+        "DailyWeightedAverageSpeed": 4.414833304954878
+    },
+    {
+        "Date": "2022-10-20",
+        "DailyWeightedAverageSpeed": 4.307416453382084
+    },
+    {
+        "Date": "2022-10-21",
+        "DailyWeightedAverageSpeed": 4.414267741935484
+    },
+    {
+        "Date": "2022-10-22",
+        "DailyWeightedAverageSpeed": 4.079329608938547
+    },
+    {
+        "Date": "2022-10-23",
+        "DailyWeightedAverageSpeed": 3.9763748925193467
+    },
+    {
+        "Date": "2022-10-24",
+        "DailyWeightedAverageSpeed": 4.592235776524859
+    },
+    {
+        "Date": "2022-10-25",
+        "DailyWeightedAverageSpeed": 4.426876504681231
+    },
+    {
+        "Date": "2022-10-26",
+        "DailyWeightedAverageSpeed": 4.451592478248667
+    },
+    {
+        "Date": "2022-10-27",
+        "DailyWeightedAverageSpeed": 4.433163283318623
+    },
+    {
+        "Date": "2022-10-28",
+        "DailyWeightedAverageSpeed": 4.122965003723008
+    },
+    {
+        "Date": "2022-10-29",
+        "DailyWeightedAverageSpeed": 4.439680718728403
+    },
+    {
+        "Date": "2022-10-30",
+        "DailyWeightedAverageSpeed": 4.215703204047217
+    },
+    {
+        "Date": "2022-10-31",
+        "DailyWeightedAverageSpeed": 4.6655182571340905
+    },
+    {
+        "Date": "2022-11-01",
+        "DailyWeightedAverageSpeed": 4.437721518987342
+    },
+    {
+        "Date": "2022-11-02",
+        "DailyWeightedAverageSpeed": 4.39010802919708
+    },
+    {
+        "Date": "2022-11-03",
+        "DailyWeightedAverageSpeed": 4.280684111366967
+    },
+    {
+        "Date": "2022-11-04",
+        "DailyWeightedAverageSpeed": 4.615096509240247
+    },
+    {
+        "Date": "2022-11-05",
+        "DailyWeightedAverageSpeed": 4.044743760399334
+    },
+    {
+        "Date": "2022-11-06",
+        "DailyWeightedAverageSpeed": 4.253503692762186
+    },
+    {
+        "Date": "2022-11-07",
+        "DailyWeightedAverageSpeed": 4.420441504178273
+    },
+    {
+        "Date": "2022-11-08",
+        "DailyWeightedAverageSpeed": 4.567495566502463
+    },
+    {
+        "Date": "2022-11-09",
+        "DailyWeightedAverageSpeed": 4.574889667250438
+    },
+    {
+        "Date": "2022-11-10",
+        "DailyWeightedAverageSpeed": 4.61628439209087
+    },
+    {
+        "Date": "2022-11-11",
+        "DailyWeightedAverageSpeed": 4.350698952879581
+    },
+    {
+        "Date": "2022-11-12",
+        "DailyWeightedAverageSpeed": 4.295906865671642
+    },
+    {
+        "Date": "2022-11-13",
+        "DailyWeightedAverageSpeed": 4.135415368081676
+    },
+    {
+        "Date": "2022-11-14",
+        "DailyWeightedAverageSpeed": 4.911610220440882
+    },
+    {
+        "Date": "2022-11-15",
+        "DailyWeightedAverageSpeed": 4.491243020594966
+    },
+    {
+        "Date": "2022-11-16",
+        "DailyWeightedAverageSpeed": 4.680031792758316
+    },
+    {
+        "Date": "2022-11-17",
+        "DailyWeightedAverageSpeed": 4.627458364591148
+    },
+    {
+        "Date": "2022-11-18",
+        "DailyWeightedAverageSpeed": 4.328263060392738
+    },
+    {
+        "Date": "2022-11-19",
+        "DailyWeightedAverageSpeed": 4.2083625557206545
+    },
+    {
+        "Date": "2022-11-20",
+        "DailyWeightedAverageSpeed": 4.543809820732657
+    },
+    {
+        "Date": "2022-11-21",
+        "DailyWeightedAverageSpeed": 4.661172670807454
+    },
+    {
+        "Date": "2022-11-22",
+        "DailyWeightedAverageSpeed": 4.576902943018159
+    },
+    {
+        "Date": "2022-11-23",
+        "DailyWeightedAverageSpeed": 4.495151949420443
+    },
+    {
+        "Date": "2022-11-24",
+        "DailyWeightedAverageSpeed": 4.218407313752188
+    },
+    {
+        "Date": "2022-11-25",
+        "DailyWeightedAverageSpeed": 4.4442238586156115
+    },
+    {
+        "Date": "2022-11-26",
+        "DailyWeightedAverageSpeed": 3.7032857142857143
+    },
+    {
+        "Date": "2022-11-27",
+        "DailyWeightedAverageSpeed": 4.412298507462687
+    },
+    {
+        "Date": "2022-11-28",
+        "DailyWeightedAverageSpeed": 4.547509207708779
+    },
+    {
+        "Date": "2022-11-29",
+        "DailyWeightedAverageSpeed": 4.48962238705327
+    },
+    {
+        "Date": "2022-11-30",
+        "DailyWeightedAverageSpeed": 4.3392046054209645
+    },
+    {
+        "Date": "2022-12-01",
+        "DailyWeightedAverageSpeed": 4.191730976172175
+    },
+    {
+        "Date": "2022-12-02",
+        "DailyWeightedAverageSpeed": 4.573095596133189
+    },
+    {
+        "Date": "2022-12-03",
+        "DailyWeightedAverageSpeed": 4.491659646166807
+    },
+    {
+        "Date": "2022-12-04",
+        "DailyWeightedAverageSpeed": 4.4515583482944345
+    },
+    {
+        "Date": "2022-12-05",
+        "DailyWeightedAverageSpeed": 4.355220133800573
+    },
+    {
+        "Date": "2022-12-06",
+        "DailyWeightedAverageSpeed": 4.652092093305059
+    },
+    {
+        "Date": "2022-12-07",
+        "DailyWeightedAverageSpeed": 4.4930443864229765
+    },
+    {
+        "Date": "2022-12-08",
+        "DailyWeightedAverageSpeed": 4.326507410636443
+    },
+    {
+        "Date": "2022-12-09",
+        "DailyWeightedAverageSpeed": 4.730776409591704
+    },
+    {
+        "Date": "2022-12-10",
+        "DailyWeightedAverageSpeed": 4.17935536159601
+    },
+    {
+        "Date": "2022-12-11",
+        "DailyWeightedAverageSpeed": 4.390925064599483
+    },
+    {
+        "Date": "2022-12-12",
+        "DailyWeightedAverageSpeed": 3.9636110645431684
+    },
+    {
+        "Date": "2022-12-13",
+        "DailyWeightedAverageSpeed": 4.6474463502193855
+    },
+    {
+        "Date": "2022-12-14",
+        "DailyWeightedAverageSpeed": 4.723463678206924
+    },
+    {
+        "Date": "2022-12-15",
+        "DailyWeightedAverageSpeed": 4.468601115537849
+    },
+    {
+        "Date": "2022-12-16",
+        "DailyWeightedAverageSpeed": 4.428046547711404
+    },
+    {
+        "Date": "2022-12-17",
+        "DailyWeightedAverageSpeed": 4.019464837049743
+    },
+    {
+        "Date": "2022-12-18",
+        "DailyWeightedAverageSpeed": 4.488556714761376
+    },
+    {
+        "Date": "2022-12-19",
+        "DailyWeightedAverageSpeed": 4.766209951456311
+    },
+    {
+        "Date": "2022-12-20",
+        "DailyWeightedAverageSpeed": 4.664757894736842
+    },
+    {
+        "Date": "2022-12-21",
+        "DailyWeightedAverageSpeed": 4.471118951612903
+    },
+    {
+        "Date": "2022-12-22",
+        "DailyWeightedAverageSpeed": 4.561975399110181
+    },
+    {
+        "Date": "2022-12-23",
+        "DailyWeightedAverageSpeed": 4.693904
+    },
+    {
+        "Date": "2022-12-24",
+        "DailyWeightedAverageSpeed": 3.85875
+    },
+    {
+        "Date": "2022-12-25",
+        "DailyWeightedAverageSpeed": 3.920153846153846
+    },
+    {
+        "Date": "2022-12-26",
+        "DailyWeightedAverageSpeed": 4.544156051703878
+    },
+    {
+        "Date": "2022-12-27",
+        "DailyWeightedAverageSpeed": 4.075590171127688
+    },
+    {
+        "Date": "2022-12-28",
+        "DailyWeightedAverageSpeed": 4.311285561497326
+    },
+    {
+        "Date": "2022-12-29",
+        "DailyWeightedAverageSpeed": 4.563124560168895
+    },
+    {
+        "Date": "2022-12-30",
+        "DailyWeightedAverageSpeed": 4.508619634928466
+    },
+    {
+        "Date": "2022-12-31",
+        "DailyWeightedAverageSpeed": 4.588278996865204
+    },
+    {
+        "Date": "2023-01-01",
+        "DailyWeightedAverageSpeed": 4.324967213114754
+    },
+    {
+        "Date": "2023-01-02",
+        "DailyWeightedAverageSpeed": 4.436857916102841
+    },
+    {
+        "Date": "2023-01-03",
+        "DailyWeightedAverageSpeed": 4.288332446808511
+    },
+    {
+        "Date": "2023-01-04",
+        "DailyWeightedAverageSpeed": 4.538449258836944
+    },
+    {
+        "Date": "2023-01-05",
+        "DailyWeightedAverageSpeed": 4.289108834827145
+    },
+    {
+        "Date": "2023-01-06",
+        "DailyWeightedAverageSpeed": 4.682803738317757
+    },
+    {
+        "Date": "2023-01-07",
+        "DailyWeightedAverageSpeed": 3.3514105263157896
+    },
+    {
+        "Date": "2023-01-08",
+        "DailyWeightedAverageSpeed": 4.335072
+    },
+    {
+        "Date": "2023-01-09",
+        "DailyWeightedAverageSpeed": 4.7274362834155195
+    },
+    {
+        "Date": "2023-01-10",
+        "DailyWeightedAverageSpeed": 4.596386410635155
+    },
+    {
+        "Date": "2023-01-11",
+        "DailyWeightedAverageSpeed": 3.6028421052631585
+    },
+    {
+        "Date": "2023-01-12",
+        "DailyWeightedAverageSpeed": 4.741459793814433
+    },
+    {
+        "Date": "2023-01-13",
+        "DailyWeightedAverageSpeed": 4.687700591715976
+    },
+    {
+        "Date": "2023-01-14",
+        "DailyWeightedAverageSpeed": 4.649272767560381
+    },
+    {
+        "Date": "2023-01-15",
+        "DailyWeightedAverageSpeed": 4.260793868495361
+    },
+    {
+        "Date": "2023-01-16",
+        "DailyWeightedAverageSpeed": 4.504155493851647
+    },
+    {
+        "Date": "2023-01-17",
+        "DailyWeightedAverageSpeed": 4.594150218340611
+    },
+    {
+        "Date": "2023-01-18",
+        "DailyWeightedAverageSpeed": 4.546858720200753
+    },
+    {
+        "Date": "2023-01-19",
+        "DailyWeightedAverageSpeed": 3.852
+    },
+    {
+        "Date": "2023-01-20",
+        "DailyWeightedAverageSpeed": 4.255705263157894
+    },
+    {
+        "Date": "2023-01-21",
+        "DailyWeightedAverageSpeed": 4.428883018867924
+    },
+    {
+        "Date": "2023-01-22",
+        "DailyWeightedAverageSpeed": 4.6308346281908985
+    },
+    {
+        "Date": "2023-01-23",
+        "DailyWeightedAverageSpeed": 4.310260869565218
+    },
+    {
+        "Date": "2023-01-24",
+        "DailyWeightedAverageSpeed": 4.866860581745236
+    },
+    {
+        "Date": "2023-01-25",
+        "DailyWeightedAverageSpeed": 4.574417328519856
+    },
+    {
+        "Date": "2023-01-26",
+        "DailyWeightedAverageSpeed": 4.055139013452915
+    },
+    {
+        "Date": "2023-01-27",
+        "DailyWeightedAverageSpeed": 3.5658666666666665
+    },
+    {
+        "Date": "2023-01-28",
+        "DailyWeightedAverageSpeed": 4.349584683357879
+    },
+    {
+        "Date": "2023-01-29",
+        "DailyWeightedAverageSpeed": 4.770764150943396
+    },
+    {
+        "Date": "2023-01-30",
+        "DailyWeightedAverageSpeed": 3.6
+    },
+    {
+        "Date": "2023-01-31",
+        "DailyWeightedAverageSpeed": 4.101722627737225
+    },
+    {
+        "Date": "2023-02-01",
+        "DailyWeightedAverageSpeed": 3.8694609869253482
+    },
+    {
+        "Date": "2023-02-02",
+        "DailyWeightedAverageSpeed": 4.056331744518589
+    },
+    {
+        "Date": "2023-02-03",
+        "DailyWeightedAverageSpeed": 4.074053097345133
+    },
+    {
+        "Date": "2023-02-04",
+        "DailyWeightedAverageSpeed": 4.582673366834171
+    },
+    {
+        "Date": "2023-02-05",
+        "DailyWeightedAverageSpeed": 3.8232000000000004
+    },
+    {
+        "Date": "2023-02-06",
+        "DailyWeightedAverageSpeed": 3.2039999999999997
+    },
+    {
+        "Date": "2023-02-07",
+        "DailyWeightedAverageSpeed": 3.0338709677419353
+    },
+    {
+        "Date": "2023-02-08",
+        "DailyWeightedAverageSpeed": 4.26408
+    },
+    {
+        "Date": "2023-02-09",
+        "DailyWeightedAverageSpeed": 3.348
+    },
+    {
+        "Date": "2023-02-10",
+        "DailyWeightedAverageSpeed": 4.565038901601831
+    },
+    {
+        "Date": "2023-02-11",
+        "DailyWeightedAverageSpeed": 4.117911949685535
+    },
+    {
+        "Date": "2023-02-12",
+        "DailyWeightedAverageSpeed": 3.3238421052631573
+    },
+    {
+        "Date": "2023-02-13",
+        "DailyWeightedAverageSpeed": 3.710379746835443
+    },
+    {
+        "Date": "2023-02-14",
+        "DailyWeightedAverageSpeed": 4.211231380337637
+    },
+    {
+        "Date": "2023-02-15",
+        "DailyWeightedAverageSpeed": 4.145853383458647
+    },
+    {
+        "Date": "2023-02-16",
+        "DailyWeightedAverageSpeed": 3.432
+    },
+    {
+        "Date": "2023-02-17",
+        "DailyWeightedAverageSpeed": 4.299572033898305
+    },
+    {
+        "Date": "2023-02-18",
+        "DailyWeightedAverageSpeed": 4.407793911007026
+    },
+    {
+        "Date": "2023-02-19",
+        "DailyWeightedAverageSpeed": 3.9856216216216214
+    },
+    {
+        "Date": "2023-02-20",
+        "DailyWeightedAverageSpeed": 4.52495890410959
+    },
+    {
+        "Date": "2023-02-21",
+        "DailyWeightedAverageSpeed": 3.3604615384615384
+    },
+    {
+        "Date": "2023-02-22",
+        "DailyWeightedAverageSpeed": 4.540333333333333
+    },
+    {
+        "Date": "2023-02-23",
+        "DailyWeightedAverageSpeed": 4.369905579399141
+    },
+    {
+        "Date": "2023-02-24",
+        "DailyWeightedAverageSpeed": 3.4364776119402984
+    },
+    {
+        "Date": "2023-02-25",
+        "DailyWeightedAverageSpeed": 4.253220618556701
+    },
+    {
+        "Date": "2023-02-26",
+        "DailyWeightedAverageSpeed": 4.262510003637686
+    },
+    {
+        "Date": "2023-02-27",
+        "DailyWeightedAverageSpeed": 4.481900332225913
+    },
+    {
+        "Date": "2023-02-28",
+        "DailyWeightedAverageSpeed": 4.620495390781564
+    },
+    {
+        "Date": "2023-03-01",
+        "DailyWeightedAverageSpeed": 4.534409123307199
+    },
+    {
+        "Date": "2023-03-02",
+        "DailyWeightedAverageSpeed": 4.622423263327948
+    },
+    {
+        "Date": "2023-03-03",
+        "DailyWeightedAverageSpeed": 4.374750893921335
+    },
+    {
+        "Date": "2023-03-04",
+        "DailyWeightedAverageSpeed": 4.034824817518248
+    },
+    {
+        "Date": "2023-03-05",
+        "DailyWeightedAverageSpeed": 4.666280487804878
+    },
+    {
+        "Date": "2023-03-06",
+        "DailyWeightedAverageSpeed": 4.2962014871671865
+    },
+    {
+        "Date": "2023-03-07",
+        "DailyWeightedAverageSpeed": 4.292276684124977
+    },
+    {
+        "Date": "2023-03-08",
+        "DailyWeightedAverageSpeed": 4.372035149384885
+    },
+    {
+        "Date": "2023-03-09",
+        "DailyWeightedAverageSpeed": 4.4381025641025635
+    },
+    {
+        "Date": "2023-03-10",
+        "DailyWeightedAverageSpeed": 4.4653283637718975
+    },
+    {
+        "Date": "2023-03-11",
+        "DailyWeightedAverageSpeed": 2.915598885793872
+    },
+    {
+        "Date": "2023-03-12",
+        "DailyWeightedAverageSpeed": 4.520881355932204
+    },
+    {
+        "Date": "2023-03-13",
+        "DailyWeightedAverageSpeed": 4.619338965866847
+    },
+    {
+        "Date": "2023-03-14",
+        "DailyWeightedAverageSpeed": 4.629477272727272
+    },
+    {
+        "Date": "2023-03-15",
+        "DailyWeightedAverageSpeed": 4.531970642201834
+    },
+    {
+        "Date": "2023-03-16",
+        "DailyWeightedAverageSpeed": 4.636906824925816
+    },
+    {
+        "Date": "2023-03-17",
+        "DailyWeightedAverageSpeed": 4.64403373945642
+    },
+    {
+        "Date": "2023-03-18",
+        "DailyWeightedAverageSpeed": 3.7441323529411763
+    },
+    {
+        "Date": "2023-03-19",
+        "DailyWeightedAverageSpeed": 4.342205357142857
+    },
+    {
+        "Date": "2023-03-20",
+        "DailyWeightedAverageSpeed": 4.74535643735921
+    },
+    {
+        "Date": "2023-03-21",
+        "DailyWeightedAverageSpeed": 4.637941625032869
+    },
+    {
+        "Date": "2023-03-22",
+        "DailyWeightedAverageSpeed": 4.899547094188377
+    },
+    {
+        "Date": "2023-03-23",
+        "DailyWeightedAverageSpeed": 4.320829648084709
+    },
+    {
+        "Date": "2023-03-24",
+        "DailyWeightedAverageSpeed": 4.600537617554859
+    },
+    {
+        "Date": "2023-03-25",
+        "DailyWeightedAverageSpeed": 4.152697217675941
+    },
+    {
+        "Date": "2023-03-26",
+        "DailyWeightedAverageSpeed": 4.348948021722265
+    },
+    {
+        "Date": "2023-03-27",
+        "DailyWeightedAverageSpeed": 4.706732733751909
+    },
+    {
+        "Date": "2023-03-28",
+        "DailyWeightedAverageSpeed": 4.773031518624642
+    },
+    {
+        "Date": "2023-03-29",
+        "DailyWeightedAverageSpeed": 4.602434408602151
+    },
+    {
+        "Date": "2023-03-30",
+        "DailyWeightedAverageSpeed": 4.711112931538912
+    },
+    {
+        "Date": "2023-03-31",
+        "DailyWeightedAverageSpeed": 4.491419376466644
+    },
+    {
+        "Date": "2023-04-01",
+        "DailyWeightedAverageSpeed": 4.094288925619835
+    },
+    {
+        "Date": "2023-04-02",
+        "DailyWeightedAverageSpeed": 4.471273624823695
+    },
+    {
+        "Date": "2023-04-03",
+        "DailyWeightedAverageSpeed": 4.661730114358322
+    },
+    {
+        "Date": "2023-04-04",
+        "DailyWeightedAverageSpeed": 4.430253256150507
+    },
+    {
+        "Date": "2023-04-05",
+        "DailyWeightedAverageSpeed": 4.463127808988764
+    },
+    {
+        "Date": "2023-04-06",
+        "DailyWeightedAverageSpeed": 4.540543396226415
+    },
+    {
+        "Date": "2023-04-07",
+        "DailyWeightedAverageSpeed": 4.510001892147588
+    },
+    {
+        "Date": "2023-04-08",
+        "DailyWeightedAverageSpeed": 3.8946206896551723
+    },
+    {
+        "Date": "2023-04-09",
+        "DailyWeightedAverageSpeed": 4.221992250792532
+    },
+    {
+        "Date": "2023-04-10",
+        "DailyWeightedAverageSpeed": 4.46222563718141
+    },
+    {
+        "Date": "2023-04-11",
+        "DailyWeightedAverageSpeed": 4.53494766619519
+    },
+    {
+        "Date": "2023-04-12",
+        "DailyWeightedAverageSpeed": 4.220509246088193
+    },
+    {
+        "Date": "2023-04-13",
+        "DailyWeightedAverageSpeed": 4.218176576576576
+    },
+    {
+        "Date": "2023-04-14",
+        "DailyWeightedAverageSpeed": 4.112239390642002
+    },
+    {
+        "Date": "2023-04-15",
+        "DailyWeightedAverageSpeed": 4.246745974367401
+    },
+    {
+        "Date": "2023-04-16",
+        "DailyWeightedAverageSpeed": 4.0538147787093
+    },
+    {
+        "Date": "2023-04-17",
+        "DailyWeightedAverageSpeed": 4.212353666895133
+    },
+    {
+        "Date": "2023-04-18",
+        "DailyWeightedAverageSpeed": 3.7850875220812594
+    },
+    {
+        "Date": "2023-04-19",
+        "DailyWeightedAverageSpeed": 4.216816861826698
+    },
+    {
+        "Date": "2023-04-20",
+        "DailyWeightedAverageSpeed": 3.8344077669902914
+    },
+    {
+        "Date": "2023-04-21",
+        "DailyWeightedAverageSpeed": 3.473607748184019
+    },
+    {
+        "Date": "2023-04-22",
+        "DailyWeightedAverageSpeed": 3.804038155802862
+    },
+    {
+        "Date": "2023-04-23",
+        "DailyWeightedAverageSpeed": 3.603578093306288
+    },
+    {
+        "Date": "2023-04-24",
+        "DailyWeightedAverageSpeed": 4.26484960254372
+    },
+    {
+        "Date": "2023-04-25",
+        "DailyWeightedAverageSpeed": 4.138821657999388
+    },
+    {
+        "Date": "2023-04-26",
+        "DailyWeightedAverageSpeed": 4.284856148491879
+    },
+    {
+        "Date": "2023-04-27",
+        "DailyWeightedAverageSpeed": 4.663754189944134
+    },
+    {
+        "Date": "2023-04-28",
+        "DailyWeightedAverageSpeed": 4.587394642143143
+    },
+    {
+        "Date": "2023-04-29",
+        "DailyWeightedAverageSpeed": 4.648922448979592
+    },
+    {
+        "Date": "2023-04-30",
+        "DailyWeightedAverageSpeed": 4.382797522008477
+    },
+    {
+        "Date": "2023-05-01",
+        "DailyWeightedAverageSpeed": 4.508119699042408
+    },
+    {
+        "Date": "2023-05-02",
+        "DailyWeightedAverageSpeed": 4.49002191294048
+    },
+    {
+        "Date": "2023-05-03",
+        "DailyWeightedAverageSpeed": 4.0132129572607464
+    },
+    {
+        "Date": "2023-05-04",
+        "DailyWeightedAverageSpeed": 4.558240689925519
+    },
+    {
+        "Date": "2023-05-05",
+        "DailyWeightedAverageSpeed": 4.810429717180245
+    },
+    {
+        "Date": "2023-05-06",
+        "DailyWeightedAverageSpeed": 4.3289347826086955
+    },
+    {
+        "Date": "2023-05-07",
+        "DailyWeightedAverageSpeed": 4.392101066816395
+    },
+    {
+        "Date": "2023-05-08",
+        "DailyWeightedAverageSpeed": 4.439839142091153
+    },
+    {
+        "Date": "2023-05-09",
+        "DailyWeightedAverageSpeed": 4.590415019762846
+    },
+    {
+        "Date": "2023-05-10",
+        "DailyWeightedAverageSpeed": 4.700247670325119
+    },
+    {
+        "Date": "2023-05-11",
+        "DailyWeightedAverageSpeed": 4.559677359540145
+    },
+    {
+        "Date": "2023-05-12",
+        "DailyWeightedAverageSpeed": 4.368602510460251
+    },
+    {
+        "Date": "2023-05-13",
+        "DailyWeightedAverageSpeed": 3.4708235294117644
+    },
+    {
+        "Date": "2023-05-14",
+        "DailyWeightedAverageSpeed": 4.507030485964383
+    },
+    {
+        "Date": "2023-05-15",
+        "DailyWeightedAverageSpeed": 4.3316485714285715
+    },
+    {
+        "Date": "2023-05-16",
+        "DailyWeightedAverageSpeed": 4.3000054218908845
+    },
+    {
+        "Date": "2023-05-17",
+        "DailyWeightedAverageSpeed": 4.359493565217392
+    },
+    {
+        "Date": "2023-05-18",
+        "DailyWeightedAverageSpeed": 4.299797044884304
+    },
+    {
+        "Date": "2023-05-19",
+        "DailyWeightedAverageSpeed": 3.812059529524724
+    },
+    {
+        "Date": "2023-05-20",
+        "DailyWeightedAverageSpeed": 4.30219746835443
+    },
+    {
+        "Date": "2023-05-21",
+        "DailyWeightedAverageSpeed": 4.309544788732395
+    },
+    {
+        "Date": "2023-05-22",
+        "DailyWeightedAverageSpeed": 4.626880112834979
+    },
+    {
+        "Date": "2023-05-23",
+        "DailyWeightedAverageSpeed": 4.371828571428571
+    },
+    {
+        "Date": "2023-05-24",
+        "DailyWeightedAverageSpeed": 4.5421917659804985
+    },
+    {
+        "Date": "2023-05-25",
+        "DailyWeightedAverageSpeed": 4.1819977125428895
+    },
+    {
+        "Date": "2023-05-26",
+        "DailyWeightedAverageSpeed": 4.454116846284742
+    },
+    {
+        "Date": "2023-05-27",
+        "DailyWeightedAverageSpeed": 4.361099674972914
+    },
+    {
+        "Date": "2023-05-28",
+        "DailyWeightedAverageSpeed": 4.454311673375503
+    },
+    {
+        "Date": "2023-05-29",
+        "DailyWeightedAverageSpeed": 4.26376653696498
+    },
+    {
+        "Date": "2023-05-30",
+        "DailyWeightedAverageSpeed": 3.968938478500551
+    },
+    {
+        "Date": "2023-05-31",
+        "DailyWeightedAverageSpeed": 4.245031179394487
+    },
+    {
+        "Date": "2023-06-01",
+        "DailyWeightedAverageSpeed": 4.582942973523421
+    },
+    {
+        "Date": "2023-06-02",
+        "DailyWeightedAverageSpeed": 4.321420419081587
+    },
+    {
+        "Date": "2023-06-03",
+        "DailyWeightedAverageSpeed": 4.207317435738619
+    },
+    {
+        "Date": "2023-06-04",
+        "DailyWeightedAverageSpeed": 4.468326874473463
+    },
+    {
+        "Date": "2023-06-05",
+        "DailyWeightedAverageSpeed": 4.490131085123742
+    },
+    {
+        "Date": "2023-06-06",
+        "DailyWeightedAverageSpeed": 4.557652095266807
+    },
+    {
+        "Date": "2023-06-07",
+        "DailyWeightedAverageSpeed": 4.452524401064774
+    },
+    {
+        "Date": "2023-06-08",
+        "DailyWeightedAverageSpeed": 4.381759044368601
+    },
+    {
+        "Date": "2023-06-09",
+        "DailyWeightedAverageSpeed": 4.396924384027188
+    },
+    {
+        "Date": "2023-06-10",
+        "DailyWeightedAverageSpeed": 4.224200477326969
+    },
+    {
+        "Date": "2023-06-11",
+        "DailyWeightedAverageSpeed": 4.371478684531059
+    },
+    {
+        "Date": "2023-06-12",
+        "DailyWeightedAverageSpeed": 4.566151029748284
+    },
+    {
+        "Date": "2023-06-13",
+        "DailyWeightedAverageSpeed": 4.21476338028169
+    },
+    {
+        "Date": "2023-06-14",
+        "DailyWeightedAverageSpeed": 4.402566037735848
+    },
+    {
+        "Date": "2023-06-15",
+        "DailyWeightedAverageSpeed": 4.085491083079599
+    },
+    {
+        "Date": "2023-06-16",
+        "DailyWeightedAverageSpeed": 4.411369774919614
+    },
+    {
+        "Date": "2023-06-17",
+        "DailyWeightedAverageSpeed": 4.184983302411874
+    },
+    {
+        "Date": "2023-06-18",
+        "DailyWeightedAverageSpeed": 4.113009230769231
+    },
+    {
+        "Date": "2023-06-19",
+        "DailyWeightedAverageSpeed": 4.1824
+    },
+    {
+        "Date": "2023-06-20",
+        "DailyWeightedAverageSpeed": 4.360083127861923
+    },
+    {
+        "Date": "2023-06-21",
+        "DailyWeightedAverageSpeed": 4.366291034482759
+    },
+    {
+        "Date": "2023-06-22",
+        "DailyWeightedAverageSpeed": 3.8631724137931034
+    },
+    {
+        "Date": "2023-06-23",
+        "DailyWeightedAverageSpeed": 3.9612603938730855
+    },
+    {
+        "Date": "2023-06-24",
+        "DailyWeightedAverageSpeed": 3.8727664670658686
+    },
+    {
+        "Date": "2023-06-25",
+        "DailyWeightedAverageSpeed": 3.975823943661972
+    },
+    {
+        "Date": "2023-06-26",
+        "DailyWeightedAverageSpeed": 4.117170731707317
+    },
+    {
+        "Date": "2023-06-27",
+        "DailyWeightedAverageSpeed": 4.199863442389758
+    },
+    {
+        "Date": "2023-06-28",
+        "DailyWeightedAverageSpeed": 3.751693862815885
+    },
+    {
+        "Date": "2023-06-29",
+        "DailyWeightedAverageSpeed": 4.0949757412398915
+    },
+    {
+        "Date": "2023-06-30",
+        "DailyWeightedAverageSpeed": 4.036370721958531
+    },
+    {
+        "Date": "2023-07-01",
+        "DailyWeightedAverageSpeed": 3.820362244897959
+    },
+    {
+        "Date": "2023-07-02",
+        "DailyWeightedAverageSpeed": 4.390705977382876
+    },
+    {
+        "Date": "2023-07-03",
+        "DailyWeightedAverageSpeed": 3.404210526315789
+    },
+    {
+        "Date": "2023-07-04",
+        "DailyWeightedAverageSpeed": 4.448015552099534
+    },
+    {
+        "Date": "2023-07-05",
+        "DailyWeightedAverageSpeed": 4.031956704750451
+    },
+    {
+        "Date": "2023-07-06",
+        "DailyWeightedAverageSpeed": 4.613741599621391
+    },
+    {
+        "Date": "2023-07-07",
+        "DailyWeightedAverageSpeed": 4.489392592592592
+    },
+    {
+        "Date": "2023-07-08",
+        "DailyWeightedAverageSpeed": 3.9915100821508585
+    },
+    {
+        "Date": "2023-07-09",
+        "DailyWeightedAverageSpeed": 3.223323529411765
+    },
+    {
+        "Date": "2023-07-10",
+        "DailyWeightedAverageSpeed": 4.077690303907381
+    },
+    {
+        "Date": "2023-07-11",
+        "DailyWeightedAverageSpeed": 3.8918950819672133
+    },
+    {
+        "Date": "2023-07-12",
+        "DailyWeightedAverageSpeed": 3.5899048227403387
+    },
+    {
+        "Date": "2023-07-13",
+        "DailyWeightedAverageSpeed": 3.9696027713625863
+    },
+    {
+        "Date": "2023-07-14",
+        "DailyWeightedAverageSpeed": 3.477610169491525
+    },
+    {
+        "Date": "2023-07-15",
+        "DailyWeightedAverageSpeed": 3.713766990291262
+    },
+    {
+        "Date": "2023-07-16",
+        "DailyWeightedAverageSpeed": 3.8082260869565214
+    },
+    {
+        "Date": "2023-07-17",
+        "DailyWeightedAverageSpeed": 3.7426278586278587
+    },
+    {
+        "Date": "2023-07-18",
+        "DailyWeightedAverageSpeed": 3.9684826798629613
+    },
+    {
+        "Date": "2023-07-19",
+        "DailyWeightedAverageSpeed": 3.6345127582017014
+    },
+    {
+        "Date": "2023-07-20",
+        "DailyWeightedAverageSpeed": 4.12246679316888
+    },
+    {
+        "Date": "2023-07-21",
+        "DailyWeightedAverageSpeed": 4.568473058082575
+    },
+    {
+        "Date": "2023-07-22",
+        "DailyWeightedAverageSpeed": 3.582157894736842
+    },
+    {
+        "Date": "2023-07-23",
+        "DailyWeightedAverageSpeed": 4.1767619047619045
+    },
+    {
+        "Date": "2023-07-24",
+        "DailyWeightedAverageSpeed": 3.598966336633663
+    },
+    {
+        "Date": "2023-07-25",
+        "DailyWeightedAverageSpeed": 4.447178032036613
+    },
+    {
+        "Date": "2023-07-26",
+        "DailyWeightedAverageSpeed": 4.188967741935484
+    },
+    {
+        "Date": "2023-07-27",
+        "DailyWeightedAverageSpeed": 4.4728046744574295
+    },
+    {
+        "Date": "2023-07-28",
+        "DailyWeightedAverageSpeed": 4.257714285714285
+    },
+    {
+        "Date": "2023-07-29",
+        "DailyWeightedAverageSpeed": 4.555025906735752
+    },
+    {
+        "Date": "2023-07-30",
+        "DailyWeightedAverageSpeed": 4.148691505216095
+    },
+    {
+        "Date": "2023-07-31",
+        "DailyWeightedAverageSpeed": 4.16934
+    },
+    {
+        "Date": "2023-08-01",
+        "DailyWeightedAverageSpeed": 3.8309212669683257
+    },
+    {
+        "Date": "2023-08-02",
+        "DailyWeightedAverageSpeed": 3.484740331491713
+    },
+    {
+        "Date": "2023-08-03",
+        "DailyWeightedAverageSpeed": 3.09868085106383
+    },
+    {
+        "Date": "2023-08-04",
+        "DailyWeightedAverageSpeed": 3.642387656702025
+    },
+    {
+        "Date": "2023-08-05",
+        "DailyWeightedAverageSpeed": 3.7169315068493147
+    },
+    {
+        "Date": "2023-08-06",
+        "DailyWeightedAverageSpeed": 3.813257142857143
+    },
+    {
+        "Date": "2023-08-07",
+        "DailyWeightedAverageSpeed": 4.2470608695652174
+    },
+    {
+        "Date": "2023-08-08",
+        "DailyWeightedAverageSpeed": 4.452176020408163
+    },
+    {
+        "Date": "2023-08-09",
+        "DailyWeightedAverageSpeed": 4.093280742459397
+    },
+    {
+        "Date": "2023-08-10",
+        "DailyWeightedAverageSpeed": 4.05259793814433
+    },
+    {
+        "Date": "2023-08-11",
+        "DailyWeightedAverageSpeed": 3.9086253574833174
+    },
+    {
+        "Date": "2023-08-12",
+        "DailyWeightedAverageSpeed": 3.954219566840926
+    },
+    {
+        "Date": "2023-08-13",
+        "DailyWeightedAverageSpeed": 3.773295302013423
+    },
+    {
+        "Date": "2023-08-14",
+        "DailyWeightedAverageSpeed": 4.235727714748784
+    },
+    {
+        "Date": "2023-08-15",
+        "DailyWeightedAverageSpeed": 4.003577039274925
+    },
+    {
+        "Date": "2023-08-16",
+        "DailyWeightedAverageSpeed": 4.10409
+    },
+    {
+        "Date": "2023-08-17",
+        "DailyWeightedAverageSpeed": 3.84404
+    },
+    {
+        "Date": "2023-08-18",
+        "DailyWeightedAverageSpeed": 4.1017146311970984
+    },
+    {
+        "Date": "2023-08-19",
+        "DailyWeightedAverageSpeed": 3.7423521126760564
+    },
+    {
+        "Date": "2023-08-20",
+        "DailyWeightedAverageSpeed": 4.122647764449291
+    },
+    {
+        "Date": "2023-08-21",
+        "DailyWeightedAverageSpeed": 3.9195620214395097
+    },
+    {
+        "Date": "2023-08-22",
+        "DailyWeightedAverageSpeed": 3.6692793522267206
+    },
+    {
+        "Date": "2023-08-23",
+        "DailyWeightedAverageSpeed": 3.5966414926699244
+    },
+    {
+        "Date": "2023-08-24",
+        "DailyWeightedAverageSpeed": 3.7229341408024226
+    },
+    {
+        "Date": "2023-08-25",
+        "DailyWeightedAverageSpeed": 3.4393595447490948
+    },
+    {
+        "Date": "2023-08-26",
+        "DailyWeightedAverageSpeed": 3.516219895287958
+    },
+    {
+        "Date": "2023-08-27",
+        "DailyWeightedAverageSpeed": 3.921393865030675
+    },
+    {
+        "Date": "2023-08-28",
+        "DailyWeightedAverageSpeed": 4.126846153846154
+    },
+    {
+        "Date": "2023-08-29",
+        "DailyWeightedAverageSpeed": 2.586
+    },
+    {
+        "Date": "2023-08-30",
+        "DailyWeightedAverageSpeed": 2.835116883116883
+    },
+    {
+        "Date": "2023-08-31",
+        "DailyWeightedAverageSpeed": 3.106755186721992
+    },
+    {
+        "Date": "2023-09-01",
+        "DailyWeightedAverageSpeed": 2.4618461538461536
+    },
+    {
+        "Date": "2023-09-02",
+        "DailyWeightedAverageSpeed": 3.8848246968026463
+    },
+    {
+        "Date": "2023-09-03",
+        "DailyWeightedAverageSpeed": 3.2667475360121303
+    },
+    {
+        "Date": "2023-09-04",
+        "DailyWeightedAverageSpeed": 3.731367380560132
+    },
+    {
+        "Date": "2023-09-05",
+        "DailyWeightedAverageSpeed": 2.946335233751425
+    },
+    {
+        "Date": "2023-09-06",
+        "DailyWeightedAverageSpeed": 3.7479576547231273
+    },
+    {
+        "Date": "2023-09-07",
+        "DailyWeightedAverageSpeed": 3.6207745933384974
+    },
+    {
+        "Date": "2023-09-08",
+        "DailyWeightedAverageSpeed": 3.664227642276423
+    },
+    {
+        "Date": "2023-09-09",
+        "DailyWeightedAverageSpeed": 3.718904231625835
+    },
+    {
+        "Date": "2023-09-10",
+        "DailyWeightedAverageSpeed": 4.236385753931545
+    },
+    {
+        "Date": "2023-09-11",
+        "DailyWeightedAverageSpeed": 3.7214328358208957
+    },
+    {
+        "Date": "2023-09-12",
+        "DailyWeightedAverageSpeed": 4.034805923616524
+    },
+    {
+        "Date": "2023-09-13",
+        "DailyWeightedAverageSpeed": 4.683473684210526
+    },
+    {
+        "Date": "2023-09-14",
+        "DailyWeightedAverageSpeed": 4.503829787234043
+    },
+    {
+        "Date": "2023-09-15",
+        "DailyWeightedAverageSpeed": 4.042960548885078
+    },
+    {
+        "Date": "2023-09-16",
+        "DailyWeightedAverageSpeed": 3.094775510204082
+    },
+    {
+        "Date": "2023-09-17",
+        "DailyWeightedAverageSpeed": 3.9953739130434784
+    },
+    {
+        "Date": "2023-09-18",
+        "DailyWeightedAverageSpeed": 3.7085738045738044
+    },
+    {
+        "Date": "2023-09-19",
+        "DailyWeightedAverageSpeed": 3.8916753623188405
+    },
+    {
+        "Date": "2023-09-20",
+        "DailyWeightedAverageSpeed": 4.261174274905422
+    },
+    {
+        "Date": "2023-09-21",
+        "DailyWeightedAverageSpeed": 4.083178743961352
+    },
+    {
+        "Date": "2023-09-22",
+        "DailyWeightedAverageSpeed": 4.4022056480811
+    },
+    {
+        "Date": "2023-09-23",
+        "DailyWeightedAverageSpeed": 3.971027848101266
+    },
+    {
+        "Date": "2023-09-24",
+        "DailyWeightedAverageSpeed": 3.861877061469265
+    },
+    {
+        "Date": "2023-09-25",
+        "DailyWeightedAverageSpeed": 4.389428571428571
+    },
+    {
+        "Date": "2023-09-26",
+        "DailyWeightedAverageSpeed": 4.229780138077536
+    },
+    {
+        "Date": "2023-09-27",
+        "DailyWeightedAverageSpeed": 4.260291090455679
+    },
+    {
+        "Date": "2023-09-28",
+        "DailyWeightedAverageSpeed": 3.8555494693598082
+    },
+    {
+        "Date": "2023-09-29",
+        "DailyWeightedAverageSpeed": 3.9859675324675328
+    },
+    {
+        "Date": "2023-09-30",
+        "DailyWeightedAverageSpeed": 4.097008443908323
+    },
+    {
+        "Date": "2023-10-01",
+        "DailyWeightedAverageSpeed": 4.204415233415233
+    },
+    {
+        "Date": "2023-10-02",
+        "DailyWeightedAverageSpeed": 4.658244604316547
+    },
+    {
+        "Date": "2023-10-03",
+        "DailyWeightedAverageSpeed": 4.456536443148688
+    },
+    {
+        "Date": "2023-10-04",
+        "DailyWeightedAverageSpeed": 4.380870292887029
+    },
+    {
+        "Date": "2023-10-05",
+        "DailyWeightedAverageSpeed": 4.452884600540332
+    },
+    {
+        "Date": "2023-10-06",
+        "DailyWeightedAverageSpeed": 4.273790476190476
+    },
+    {
+        "Date": "2023-10-07",
+        "DailyWeightedAverageSpeed": 4.32458615611193
+    },
+    {
+        "Date": "2023-10-08",
+        "DailyWeightedAverageSpeed": 4.665890025575448
+    },
+    {
+        "Date": "2023-10-09",
+        "DailyWeightedAverageSpeed": 4.456720295202952
+    },
+    {
+        "Date": "2023-10-10",
+        "DailyWeightedAverageSpeed": 4.3443917388407725
+    },
+    {
+        "Date": "2023-10-11",
+        "DailyWeightedAverageSpeed": 4.505900723888314
+    },
+    {
+        "Date": "2023-10-12",
+        "DailyWeightedAverageSpeed": 4.285069306930693
+    },
+    {
+        "Date": "2023-10-13",
+        "DailyWeightedAverageSpeed": 4.233513846153846
+    },
+    {
+        "Date": "2023-10-14",
+        "DailyWeightedAverageSpeed": 4.247524038461538
+    },
+    {
+        "Date": "2023-10-15",
+        "DailyWeightedAverageSpeed": 4.287842016806723
+    },
+    {
+        "Date": "2023-10-16",
+        "DailyWeightedAverageSpeed": 4.438011834319527
+    },
+    {
+        "Date": "2023-10-17",
+        "DailyWeightedAverageSpeed": 4.244148872820077
+    },
+    {
+        "Date": "2023-10-18",
+        "DailyWeightedAverageSpeed": 4.486373831775701
+    },
+    {
+        "Date": "2023-10-19",
+        "DailyWeightedAverageSpeed": 4.33791725406068
+    },
+    {
+        "Date": "2023-10-20",
+        "DailyWeightedAverageSpeed": 4.521770822816759
+    },
+    {
+        "Date": "2023-10-21",
+        "DailyWeightedAverageSpeed": 4.5599230188679245
+    },
+    {
+        "Date": "2023-10-22",
+        "DailyWeightedAverageSpeed": 4.384671328671328
+    },
+    {
+        "Date": "2023-10-23",
+        "DailyWeightedAverageSpeed": 4.504567474048443
+    },
+    {
+        "Date": "2023-10-24",
+        "DailyWeightedAverageSpeed": 4.496284640883978
+    },
+    {
+        "Date": "2023-10-25",
+        "DailyWeightedAverageSpeed": 4.083881173412551
+    },
+    {
+        "Date": "2023-10-26",
+        "DailyWeightedAverageSpeed": 4.4981444557477115
+    },
+    {
+        "Date": "2023-10-27",
+        "DailyWeightedAverageSpeed": 4.686257789439161
+    },
+    {
+        "Date": "2023-10-28",
+        "DailyWeightedAverageSpeed": 4.535720620842572
+    },
+    {
+        "Date": "2023-10-29",
+        "DailyWeightedAverageSpeed": 4.151094580233794
+    },
+    {
+        "Date": "2023-10-30",
+        "DailyWeightedAverageSpeed": 4.338967612687814
+    },
+    {
+        "Date": "2023-10-31",
+        "DailyWeightedAverageSpeed": 4.389316242199359
+    },
+    {
+        "Date": "2023-11-01",
+        "DailyWeightedAverageSpeed": 4.511369007114136
+    },
+    {
+        "Date": "2023-11-02",
+        "DailyWeightedAverageSpeed": 4.280207165661582
+    },
+    {
+        "Date": "2023-11-03",
+        "DailyWeightedAverageSpeed": 4.5949641873278235
+    },
+    {
+        "Date": "2023-11-04",
+        "DailyWeightedAverageSpeed": 3.645191489361702
+    },
+    {
+        "Date": "2023-11-05",
+        "DailyWeightedAverageSpeed": 4.153672609400324
+    },
+    {
+        "Date": "2023-11-06",
+        "DailyWeightedAverageSpeed": 4.475258073419818
+    },
+    {
+        "Date": "2023-11-07",
+        "DailyWeightedAverageSpeed": 4.239558215451578
+    },
+    {
+        "Date": "2023-11-08",
+        "DailyWeightedAverageSpeed": 4.096001907032181
+    },
+    {
+        "Date": "2023-11-09",
+        "DailyWeightedAverageSpeed": 4.246443349753695
+    },
+    {
+        "Date": "2023-11-10",
+        "DailyWeightedAverageSpeed": 4.203964989059081
+    },
+    {
+        "Date": "2023-11-11",
+        "DailyWeightedAverageSpeed": 4.163328743545612
+    },
+    {
+        "Date": "2023-11-12",
+        "DailyWeightedAverageSpeed": 4.262166458741757
+    },
+    {
+        "Date": "2023-11-13",
+        "DailyWeightedAverageSpeed": 4.4048244479143435
+    },
+    {
+        "Date": "2023-11-14",
+        "DailyWeightedAverageSpeed": 4.568323258033725
+    },
+    {
+        "Date": "2023-11-15",
+        "DailyWeightedAverageSpeed": 4.528633601661906
+    },
+    {
+        "Date": "2023-11-16",
+        "DailyWeightedAverageSpeed": 4.270309756097561
+    },
+    {
+        "Date": "2023-11-17",
+        "DailyWeightedAverageSpeed": 4.577112772180695
+    },
+    {
+        "Date": "2023-11-18",
+        "DailyWeightedAverageSpeed": 3.964409221902017
+    },
+    {
+        "Date": "2023-11-19",
+        "DailyWeightedAverageSpeed": 4.2180346820809245
+    },
+    {
+        "Date": "2023-11-20",
+        "DailyWeightedAverageSpeed": 4.434145845110232
+    },
+    {
+        "Date": "2023-11-21",
+        "DailyWeightedAverageSpeed": 4.519696739954511
+    },
+    {
+        "Date": "2023-11-22",
+        "DailyWeightedAverageSpeed": 4.4869594594594595
+    },
+    {
+        "Date": "2023-11-23",
+        "DailyWeightedAverageSpeed": 4.558790369181381
+    },
+    {
+        "Date": "2023-11-24",
+        "DailyWeightedAverageSpeed": 4.337912875121006
+    },
+    {
+        "Date": "2023-11-25",
+        "DailyWeightedAverageSpeed": 4.306373120300751
+    },
+    {
+        "Date": "2023-11-26",
+        "DailyWeightedAverageSpeed": 4.618138248847926
+    },
+    {
+        "Date": "2023-11-27",
+        "DailyWeightedAverageSpeed": 4.633410643367752
+    },
+    {
+        "Date": "2023-11-28",
+        "DailyWeightedAverageSpeed": 4.199714660544441
+    },
+    {
+        "Date": "2023-11-29",
+        "DailyWeightedAverageSpeed": 4.172158453373768
+    },
+    {
+        "Date": "2023-11-30",
+        "DailyWeightedAverageSpeed": 4.26344578313253
+    },
+    {
+        "Date": "2023-12-01",
+        "DailyWeightedAverageSpeed": 2.952
+    },
+    {
+        "Date": "2023-12-02",
+        "DailyWeightedAverageSpeed": 3.3153962264150945
+    },
+    {
+        "Date": "2023-12-03",
+        "DailyWeightedAverageSpeed": 4.190380086922165
+    },
+    {
+        "Date": "2023-12-04",
+        "DailyWeightedAverageSpeed": 4.366952422522916
+    },
+    {
+        "Date": "2023-12-05",
+        "DailyWeightedAverageSpeed": 4.408496393099844
+    },
+    {
+        "Date": "2023-12-06",
+        "DailyWeightedAverageSpeed": 4.3577615384615385
+    },
+    {
+        "Date": "2023-12-07",
+        "DailyWeightedAverageSpeed": 4.21647543049139
+    },
+    {
+        "Date": "2023-12-08",
+        "DailyWeightedAverageSpeed": 4.609979633401222
+    },
+    {
+        "Date": "2023-12-09",
+        "DailyWeightedAverageSpeed": 3.9125395683453235
+    },
+    {
+        "Date": "2023-12-10",
+        "DailyWeightedAverageSpeed": 4.321136414881623
+    },
+    {
+        "Date": "2023-12-11",
+        "DailyWeightedAverageSpeed": 4.358090019569472
+    },
+    {
+        "Date": "2023-12-12",
+        "DailyWeightedAverageSpeed": 4.313919681002563
+    },
+    {
+        "Date": "2023-12-13",
+        "DailyWeightedAverageSpeed": 4.274894973070018
+    },
+    {
+        "Date": "2023-12-14",
+        "DailyWeightedAverageSpeed": 4.218035269221726
+    },
+    {
+        "Date": "2023-12-15",
+        "DailyWeightedAverageSpeed": 4.635967234600262
+    },
+    {
+        "Date": "2023-12-16",
+        "DailyWeightedAverageSpeed": 4.299065163596371
+    },
+    {
+        "Date": "2023-12-17",
+        "DailyWeightedAverageSpeed": 4.725986493506493
+    },
+    {
+        "Date": "2023-12-18",
+        "DailyWeightedAverageSpeed": 4.530484635645303
+    },
+    {
+        "Date": "2023-12-19",
+        "DailyWeightedAverageSpeed": 4.594515177065768
+    },
+    {
+        "Date": "2023-12-20",
+        "DailyWeightedAverageSpeed": 4.585736411561534
+    },
+    {
+        "Date": "2023-12-21",
+        "DailyWeightedAverageSpeed": 4.3789354838709675
+    },
+    {
+        "Date": "2023-12-22",
+        "DailyWeightedAverageSpeed": 4.488681954137587
+    },
+    {
+        "Date": "2023-12-23",
+        "DailyWeightedAverageSpeed": 3.884506211180124
+    },
+    {
+        "Date": "2023-12-24",
+        "DailyWeightedAverageSpeed": 4.107061607142858
+    },
+    {
+        "Date": "2023-12-25",
+        "DailyWeightedAverageSpeed": 4.006640282329216
+    },
+    {
+        "Date": "2023-12-26",
+        "DailyWeightedAverageSpeed": 4.418970315690278
+    },
+    {
+        "Date": "2023-12-27",
+        "DailyWeightedAverageSpeed": 4.220520179372198
+    },
+    {
+        "Date": "2023-12-28",
+        "DailyWeightedAverageSpeed": 4.04136331797235
+    },
+    {
+        "Date": "2023-12-29",
+        "DailyWeightedAverageSpeed": 4.25908921064923
+    },
+    {
+        "Date": "2023-12-30",
+        "DailyWeightedAverageSpeed": 4.252826086956522
+    },
+    {
+        "Date": "2023-12-31",
+        "DailyWeightedAverageSpeed": 3.93536
+    },
+    {
+        "Date": "2024-01-01",
+        "DailyWeightedAverageSpeed": 3.840183807439825
+    },
+    {
+        "Date": "2024-01-02",
+        "DailyWeightedAverageSpeed": 4.3443186721991705
+    },
+    {
+        "Date": "2024-01-03",
+        "DailyWeightedAverageSpeed": 4.442244988864143
+    },
+    {
+        "Date": "2024-01-04",
+        "DailyWeightedAverageSpeed": 4.393949718574109
+    },
+    {
+        "Date": "2024-01-05",
+        "DailyWeightedAverageSpeed": 4.394089285714285
+    },
+    {
+        "Date": "2024-01-06",
+        "DailyWeightedAverageSpeed": 4.378777934936351
+    },
+    {
+        "Date": "2024-01-07",
+        "DailyWeightedAverageSpeed": 4.195919958239081
+    },
+    {
+        "Date": "2024-01-08",
+        "DailyWeightedAverageSpeed": 4.458154373927959
+    },
+    {
+        "Date": "2024-01-09",
+        "DailyWeightedAverageSpeed": 4.435326657645467
+    },
+    {
+        "Date": "2024-01-10",
+        "DailyWeightedAverageSpeed": 4.510611133360031
+    },
+    {
+        "Date": "2024-01-11",
+        "DailyWeightedAverageSpeed": 4.22159169550173
+    },
+    {
+        "Date": "2024-01-12",
+        "DailyWeightedAverageSpeed": 4.1179422246220305
+    },
+    {
+        "Date": "2024-01-13",
+        "DailyWeightedAverageSpeed": 3.248780487804878
+    },
+    {
+        "Date": "2024-01-14",
+        "DailyWeightedAverageSpeed": 4.258895939086294
+    },
+    {
+        "Date": "2024-01-15",
+        "DailyWeightedAverageSpeed": 4.406200426439232
+    },
+    {
+        "Date": "2024-01-16",
+        "DailyWeightedAverageSpeed": 4.17736569579288
+    },
+    {
+        "Date": "2024-01-17",
+        "DailyWeightedAverageSpeed": 4.321351750972762
+    },
+    {
+        "Date": "2024-01-18",
+        "DailyWeightedAverageSpeed": 4.293468493150685
+    },
+    {
+        "Date": "2024-01-19",
+        "DailyWeightedAverageSpeed": 3.777677419354839
+    },
+    {
+        "Date": "2024-01-20",
+        "DailyWeightedAverageSpeed": 3.4463505154639176
+    },
+    {
+        "Date": "2024-01-21",
+        "DailyWeightedAverageSpeed": 4.874863836017569
+    },
+    {
+        "Date": "2024-01-22",
+        "DailyWeightedAverageSpeed": 4.04692256783587
+    },
+    {
+        "Date": "2024-01-23",
+        "DailyWeightedAverageSpeed": 4.578202898550725
+    },
+    {
+        "Date": "2024-01-24",
+        "DailyWeightedAverageSpeed": 4.267524193548387
+    },
+    {
+        "Date": "2024-01-25",
+        "DailyWeightedAverageSpeed": 4.2966
+    },
+    {
+        "Date": "2024-01-26",
+        "DailyWeightedAverageSpeed": 2.808
+    },
+    {
+        "Date": "2024-01-27",
+        "DailyWeightedAverageSpeed": 4.369279449699054
+    },
+    {
+        "Date": "2024-01-28",
+        "DailyWeightedAverageSpeed": 3.290943396226415
+    },
+    {
+        "Date": "2024-01-29",
+        "DailyWeightedAverageSpeed": 4.511254988913525
+    },
+    {
+        "Date": "2024-01-30",
+        "DailyWeightedAverageSpeed": 4.690325581395348
+    },
+    {
+        "Date": "2024-01-31",
+        "DailyWeightedAverageSpeed": 4.48108674304419
+    },
+    {
+        "Date": "2024-02-01",
+        "DailyWeightedAverageSpeed": 4.486993968636912
+    },
+    {
+        "Date": "2024-02-02",
+        "DailyWeightedAverageSpeed": 5.150382978723404
+    },
+    {
+        "Date": "2024-02-03",
+        "DailyWeightedAverageSpeed": 3.7930064516129027
+    },
+    {
+        "Date": "2024-02-04",
+        "DailyWeightedAverageSpeed": 3.843073170731707
+    },
+    {
+        "Date": "2024-02-05",
+        "DailyWeightedAverageSpeed": 4.081079136690647
+    },
+    {
+        "Date": "2024-02-06",
+        "DailyWeightedAverageSpeed": 4.837703703703704
+    },
+    {
+        "Date": "2024-02-07",
+        "DailyWeightedAverageSpeed": 2.975351351351351
+    },
+    {
+        "Date": "2024-02-08",
+        "DailyWeightedAverageSpeed": 4.175911547911547
+    },
+    {
+        "Date": "2024-02-09",
+        "DailyWeightedAverageSpeed": 2.9323636363636365
+    },
+    {
+        "Date": "2024-02-10",
+        "DailyWeightedAverageSpeed": 4.825755258126195
+    },
+    {
+        "Date": "2024-02-11",
+        "DailyWeightedAverageSpeed": 4.348121495327103
+    },
+    {
+        "Date": "2024-02-12",
+        "DailyWeightedAverageSpeed": 3.973312127236581
+    },
+    {
+        "Date": "2024-02-13",
+        "DailyWeightedAverageSpeed": 4.455634218289085
+    },
+    {
+        "Date": "2024-02-14",
+        "DailyWeightedAverageSpeed": 4.312361934477379
+    },
+    {
+        "Date": "2024-02-15",
+        "DailyWeightedAverageSpeed": 4.696815703380589
+    },
+    {
+        "Date": "2024-02-16",
+        "DailyWeightedAverageSpeed": 4.4665435215946845
+    },
+    {
+        "Date": "2024-02-17",
+        "DailyWeightedAverageSpeed": 4.641886520170547
+    },
+    {
+        "Date": "2024-02-18",
+        "DailyWeightedAverageSpeed": 4.133473381294964
+    },
+    {
+        "Date": "2024-02-19",
+        "DailyWeightedAverageSpeed": 4.673246623311655
+    },
+    {
+        "Date": "2024-02-20",
+        "DailyWeightedAverageSpeed": 4.240763513513513
+    },
+    {
+        "Date": "2024-02-21",
+        "DailyWeightedAverageSpeed": 4.417949021932424
+    },
+    {
+        "Date": "2024-02-22",
+        "DailyWeightedAverageSpeed": 4.629804656788631
+    },
+    {
+        "Date": "2024-02-23",
+        "DailyWeightedAverageSpeed": 4.2099180552832784
+    },
+    {
+        "Date": "2024-02-24",
+        "DailyWeightedAverageSpeed": 4.51199263803681
+    },
+    {
+        "Date": "2024-02-25",
+        "DailyWeightedAverageSpeed": 4.270262044653349
+    },
+    {
+        "Date": "2024-02-26",
+        "DailyWeightedAverageSpeed": 4.354147426981919
+    },
+    {
+        "Date": "2024-02-27",
+        "DailyWeightedAverageSpeed": 4.323796484736356
+    },
+    {
+        "Date": "2024-02-28",
+        "DailyWeightedAverageSpeed": 4.38293359223301
+    },
+    {
+        "Date": "2024-02-29",
+        "DailyWeightedAverageSpeed": 4.455901554404146
+    },
+    {
+        "Date": "2024-03-01",
+        "DailyWeightedAverageSpeed": 4.351942102406369
+    },
+    {
+        "Date": "2024-03-02",
+        "DailyWeightedAverageSpeed": 4.813279583875162
+    },
+    {
+        "Date": "2024-03-03",
+        "DailyWeightedAverageSpeed": 4.2578882681564245
+    },
+    {
+        "Date": "2024-03-04",
+        "DailyWeightedAverageSpeed": 4.596184426229509
+    },
+    {
+        "Date": "2024-03-05",
+        "DailyWeightedAverageSpeed": 4.598552410099464
+    },
+    {
+        "Date": "2024-03-06",
+        "DailyWeightedAverageSpeed": 4.363673841059603
+    },
+    {
+        "Date": "2024-03-07",
+        "DailyWeightedAverageSpeed": 4.456812834224599
+    },
+    {
+        "Date": "2024-03-08",
+        "DailyWeightedAverageSpeed": 4.372082274092905
+    },
+    {
+        "Date": "2024-03-09",
+        "DailyWeightedAverageSpeed": 4.1528196627607885
+    },
+    {
+        "Date": "2024-03-10",
+        "DailyWeightedAverageSpeed": 4.348633950120676
+    },
+    {
+        "Date": "2024-03-11",
+        "DailyWeightedAverageSpeed": 4.595338819320214
+    },
+    {
+        "Date": "2024-03-12",
+        "DailyWeightedAverageSpeed": 4.8160761274307
+    },
+    {
+        "Date": "2024-03-13",
+        "DailyWeightedAverageSpeed": 4.648584415584415
+    },
+    {
+        "Date": "2024-03-14",
+        "DailyWeightedAverageSpeed": 4.769146335277707
+    },
+    {
+        "Date": "2024-03-15",
+        "DailyWeightedAverageSpeed": 4.841859922178989
+    },
+    {
+        "Date": "2024-03-16",
+        "DailyWeightedAverageSpeed": 4.316686192468619
+    },
+    {
+        "Date": "2024-03-17",
+        "DailyWeightedAverageSpeed": 4.515170395869191
+    },
+    {
+        "Date": "2024-03-18",
+        "DailyWeightedAverageSpeed": 4.603319327731092
+    },
+    {
+        "Date": "2024-03-19",
+        "DailyWeightedAverageSpeed": 4.62049102296451
+    },
+    {
+        "Date": "2024-03-20",
+        "DailyWeightedAverageSpeed": 4.594907665505226
+    },
+    {
+        "Date": "2024-03-21",
+        "DailyWeightedAverageSpeed": 4.516286165176224
+    },
+    {
+        "Date": "2024-03-22",
+        "DailyWeightedAverageSpeed": 4.596651428571429
+    },
+    {
+        "Date": "2024-03-23",
+        "DailyWeightedAverageSpeed": 4.488150627615062
+    },
+    {
+        "Date": "2024-03-24",
+        "DailyWeightedAverageSpeed": 4.379897102306328
+    },
+    {
+        "Date": "2024-03-25",
+        "DailyWeightedAverageSpeed": 4.448539636363637
+    },
+    {
+        "Date": "2024-03-26",
+        "DailyWeightedAverageSpeed": 4.092837506659563
+    },
+    {
+        "Date": "2024-03-27",
+        "DailyWeightedAverageSpeed": 4.7284093535075655
+    },
+    {
+        "Date": "2024-03-28",
+        "DailyWeightedAverageSpeed": 4.45878677309008
+    },
+    {
+        "Date": "2024-03-29",
+        "DailyWeightedAverageSpeed": 4.494705882352941
+    },
+    {
+        "Date": "2024-03-30",
+        "DailyWeightedAverageSpeed": 4.225218504509747
+    },
+    {
+        "Date": "2024-03-31",
+        "DailyWeightedAverageSpeed": 4.578640394088669
+    },
+    {
+        "Date": "2024-04-01",
+        "DailyWeightedAverageSpeed": 4.427751850906306
+    },
+    {
+        "Date": "2024-04-02",
+        "DailyWeightedAverageSpeed": 4.103929036073329
+    },
+    {
+        "Date": "2024-04-03",
+        "DailyWeightedAverageSpeed": 4.3564661430694125
+    },
+    {
+        "Date": "2024-04-04",
+        "DailyWeightedAverageSpeed": 4.449523905385003
+    },
+    {
+        "Date": "2024-04-05",
+        "DailyWeightedAverageSpeed": 4.51192531120332
+    },
+    {
+        "Date": "2024-04-06",
+        "DailyWeightedAverageSpeed": 4.201050619161417
+    },
+    {
+        "Date": "2024-04-07",
+        "DailyWeightedAverageSpeed": 4.430830645161291
+    },
+    {
+        "Date": "2024-04-08",
+        "DailyWeightedAverageSpeed": 4.353996908809892
+    },
+    {
+        "Date": "2024-04-09",
+        "DailyWeightedAverageSpeed": 4.553142857142857
+    },
+    {
+        "Date": "2024-04-10",
+        "DailyWeightedAverageSpeed": 4.5100173913043475
+    },
+    {
+        "Date": "2024-04-11",
+        "DailyWeightedAverageSpeed": 4.000548812664907
+    },
+    {
+        "Date": "2024-04-12",
+        "DailyWeightedAverageSpeed": 3.988326773115485
+    },
+    {
+        "Date": "2024-04-13",
+        "DailyWeightedAverageSpeed": 4.800900388098318
+    },
+    {
+        "Date": "2024-04-14",
+        "DailyWeightedAverageSpeed": 4.530216123499143
+    },
+    {
+        "Date": "2024-04-15",
+        "DailyWeightedAverageSpeed": 4.62601152122893
+    },
+    {
+        "Date": "2024-04-16",
+        "DailyWeightedAverageSpeed": 4.416666809147253
+    },
+    {
+        "Date": "2024-04-17",
+        "DailyWeightedAverageSpeed": 4.2919377361342
+    },
+    {
+        "Date": "2024-04-18",
+        "DailyWeightedAverageSpeed": 4.317569756975697
+    },
+    {
+        "Date": "2024-04-19",
+        "DailyWeightedAverageSpeed": 4.35003118040089
+    },
+    {
+        "Date": "2024-04-20",
+        "DailyWeightedAverageSpeed": 4.589014525139665
+    },
+    {
+        "Date": "2024-04-21",
+        "DailyWeightedAverageSpeed": 4.53563482671175
+    },
+    {
+        "Date": "2024-04-22",
+        "DailyWeightedAverageSpeed": 4.788561139478635
+    },
+    {
+        "Date": "2024-04-23",
+        "DailyWeightedAverageSpeed": 4.624136170212766
+    },
+    {
+        "Date": "2024-04-24",
+        "DailyWeightedAverageSpeed": 4.046444955635886
+    },
+    {
+        "Date": "2024-04-25",
+        "DailyWeightedAverageSpeed": 4.496233211868818
+    },
+    {
+        "Date": "2024-04-26",
+        "DailyWeightedAverageSpeed": 4.2072899999999995
+    },
+    {
+        "Date": "2024-04-27",
+        "DailyWeightedAverageSpeed": 4.363802071346376
+    },
+    {
+        "Date": "2024-04-28",
+        "DailyWeightedAverageSpeed": 4.240314606741573
+    },
+    {
+        "Date": "2024-04-29",
+        "DailyWeightedAverageSpeed": 4.575090402633578
+    },
+    {
+        "Date": "2024-04-30",
+        "DailyWeightedAverageSpeed": 4.517187669543773
+    },
+    {
+        "Date": "2024-05-01",
+        "DailyWeightedAverageSpeed": 4.490485639686684
+    },
+    {
+        "Date": "2024-05-02",
+        "DailyWeightedAverageSpeed": 4.662178887993554
+    },
+    {
+        "Date": "2024-05-03",
+        "DailyWeightedAverageSpeed": 4.280247280638144
+    },
+    {
+        "Date": "2024-05-04",
+        "DailyWeightedAverageSpeed": 4.267497645211931
+    },
+    {
+        "Date": "2024-05-05",
+        "DailyWeightedAverageSpeed": 4.544535967891324
+    },
+    {
+        "Date": "2024-05-06",
+        "DailyWeightedAverageSpeed": 4.454930041152263
+    },
+    {
+        "Date": "2024-05-07",
+        "DailyWeightedAverageSpeed": 4.534722838137473
+    },
+    {
+        "Date": "2024-05-08",
+        "DailyWeightedAverageSpeed": 4.497361201059759
+    },
+    {
+        "Date": "2024-05-09",
+        "DailyWeightedAverageSpeed": 4.449742446043166
+    },
+    {
+        "Date": "2024-05-10",
+        "DailyWeightedAverageSpeed": 4.647799036476257
+    },
+    {
+        "Date": "2024-05-11",
+        "DailyWeightedAverageSpeed": 4.379519114157659
+    },
+    {
+        "Date": "2024-05-12",
+        "DailyWeightedAverageSpeed": 4.769183016105417
+    },
+    {
+        "Date": "2024-05-13",
+        "DailyWeightedAverageSpeed": 4.750699088145897
+    },
+    {
+        "Date": "2024-05-14",
+        "DailyWeightedAverageSpeed": 4.266349869451697
+    },
+    {
+        "Date": "2024-05-15",
+        "DailyWeightedAverageSpeed": 4.494889399958185
+    },
+    {
+        "Date": "2024-05-16",
+        "DailyWeightedAverageSpeed": 4.567698777506113
+    },
+    {
+        "Date": "2024-05-17",
+        "DailyWeightedAverageSpeed": 4.767713521171101
+    },
+    {
+        "Date": "2024-05-18",
+        "DailyWeightedAverageSpeed": 4.591660412757974
+    },
+    {
+        "Date": "2024-05-19",
+        "DailyWeightedAverageSpeed": 4.512174957118353
+    },
+    {
+        "Date": "2024-05-20",
+        "DailyWeightedAverageSpeed": 4.518213438735178
+    },
+    {
+        "Date": "2024-05-21",
+        "DailyWeightedAverageSpeed": 4.619607528540573
+    },
+    {
+        "Date": "2024-05-22",
+        "DailyWeightedAverageSpeed": 4.2913824495542
+    },
+    {
+        "Date": "2024-05-23",
+        "DailyWeightedAverageSpeed": 4.658048780487805
+    },
+    {
+        "Date": "2024-05-24",
+        "DailyWeightedAverageSpeed": 4.658029734340727
+    },
+    {
+        "Date": "2024-05-25",
+        "DailyWeightedAverageSpeed": 4.506954980503367
+    },
+    {
+        "Date": "2024-05-26",
+        "DailyWeightedAverageSpeed": 4.6028203125
+    },
+    {
+        "Date": "2024-05-27",
+        "DailyWeightedAverageSpeed": 4.684287906466934
+    },
+    {
+        "Date": "2024-05-28",
+        "DailyWeightedAverageSpeed": 4.666849083215797
+    },
+    {
+        "Date": "2024-05-29",
+        "DailyWeightedAverageSpeed": 4.541340983606558
+    },
+    {
+        "Date": "2024-05-30",
+        "DailyWeightedAverageSpeed": 4.462548334833483
+    },
+    {
+        "Date": "2024-05-31",
+        "DailyWeightedAverageSpeed": 4.449825270758123
+    },
+    {
+        "Date": "2024-06-01",
+        "DailyWeightedAverageSpeed": 4.553180811808118
+    },
+    {
+        "Date": "2024-06-02",
+        "DailyWeightedAverageSpeed": 4.296759852863899
+    },
+    {
+        "Date": "2024-06-03",
+        "DailyWeightedAverageSpeed": 4.444493585827734
+    },
+    {
+        "Date": "2024-06-04",
+        "DailyWeightedAverageSpeed": 4.284748678181177
+    },
+    {
+        "Date": "2024-06-05",
+        "DailyWeightedAverageSpeed": 4.562035359116022
+    },
+    {
+        "Date": "2024-06-06",
+        "DailyWeightedAverageSpeed": 4.194336853807671
+    },
+    {
+        "Date": "2024-06-07",
+        "DailyWeightedAverageSpeed": 4.299384273409281
+    },
+    {
+        "Date": "2024-06-08",
+        "DailyWeightedAverageSpeed": 4.583196272568434
+    },
+    {
+        "Date": "2024-06-09",
+        "DailyWeightedAverageSpeed": 4.396551020408163
+    },
+    {
+        "Date": "2024-06-10",
+        "DailyWeightedAverageSpeed": 4.314436667698978
+    },
+    {
+        "Date": "2024-06-11",
+        "DailyWeightedAverageSpeed": 4.222270665691295
+    },
+    {
+        "Date": "2024-06-12",
+        "DailyWeightedAverageSpeed": 4.570135373749264
+    },
+    {
+        "Date": "2024-06-13",
+        "DailyWeightedAverageSpeed": 4.389386363636364
+    },
+    {
+        "Date": "2024-06-14",
+        "DailyWeightedAverageSpeed": 3.8808690095846643
+    },
+    {
+        "Date": "2024-06-15",
+        "DailyWeightedAverageSpeed": 4.347792579347341
+    },
+    {
+        "Date": "2024-06-16",
+        "DailyWeightedAverageSpeed": 4.276805349182764
+    },
+    {
+        "Date": "2024-06-17",
+        "DailyWeightedAverageSpeed": 4.204472213500785
+    },
+    {
+        "Date": "2024-06-18",
+        "DailyWeightedAverageSpeed": 3.9341379310344826
+    },
+    {
+        "Date": "2024-06-19",
+        "DailyWeightedAverageSpeed": 4.279973904939421
+    },
+    {
+        "Date": "2024-06-20",
+        "DailyWeightedAverageSpeed": 4.443732478240952
+    },
+    {
+        "Date": "2024-06-21",
+        "DailyWeightedAverageSpeed": 4.2958979808714135
+    },
+    {
+        "Date": "2024-06-22",
+        "DailyWeightedAverageSpeed": 4.247202892001807
+    },
+    {
+        "Date": "2024-06-23",
+        "DailyWeightedAverageSpeed": 4.207098005203816
+    },
+    {
+        "Date": "2024-06-24",
+        "DailyWeightedAverageSpeed": 4.275238027162259
+    },
+    {
+        "Date": "2024-06-25",
+        "DailyWeightedAverageSpeed": 3.968717277486911
+    },
+    {
+        "Date": "2024-06-26",
+        "DailyWeightedAverageSpeed": 4.355590576766856
+    },
+    {
+        "Date": "2024-06-27",
+        "DailyWeightedAverageSpeed": 4.333781936533767
+    },
+    {
+        "Date": "2024-06-28",
+        "DailyWeightedAverageSpeed": 4.34492033293698
+    },
+    {
+        "Date": "2024-06-29",
+        "DailyWeightedAverageSpeed": 4.338067885117494
+    },
+    {
+        "Date": "2024-06-30",
+        "DailyWeightedAverageSpeed": 4.107726353361095
+    },
+    {
+        "Date": "2024-07-01",
+        "DailyWeightedAverageSpeed": 4.675280649926145
+    },
+    {
+        "Date": "2024-07-02",
+        "DailyWeightedAverageSpeed": 4.356310010764263
+    },
+    {
+        "Date": "2024-07-03",
+        "DailyWeightedAverageSpeed": 4.188025641025641
+    },
+    {
+        "Date": "2024-07-04",
+        "DailyWeightedAverageSpeed": 4.730467289719626
+    },
+    {
+        "Date": "2024-07-05",
+        "DailyWeightedAverageSpeed": 4.173702127659574
+    },
+    {
+        "Date": "2024-07-06",
+        "DailyWeightedAverageSpeed": 4.4641783944499505
+    },
+    {
+        "Date": "2024-07-07",
+        "DailyWeightedAverageSpeed": 4.504545596258768
+    },
+    {
+        "Date": "2024-07-08",
+        "DailyWeightedAverageSpeed": 4.817456259821896
+    },
+    {
+        "Date": "2024-07-09",
+        "DailyWeightedAverageSpeed": 4.490587995930824
+    },
+    {
+        "Date": "2024-07-10",
+        "DailyWeightedAverageSpeed": 4.227533909877105
+    },
+    {
+        "Date": "2024-07-11",
+        "DailyWeightedAverageSpeed": 4.167338709677419
+    },
+    {
+        "Date": "2024-07-12",
+        "DailyWeightedAverageSpeed": 4.072039721946375
+    },
+    {
+        "Date": "2024-07-13",
+        "DailyWeightedAverageSpeed": 4.117976470588236
+    },
+    {
+        "Date": "2024-07-14",
+        "DailyWeightedAverageSpeed": 3.5310535714285716
+    },
+    {
+        "Date": "2024-07-15",
+        "DailyWeightedAverageSpeed": 4.450363415621206
+    },
+    {
+        "Date": "2024-07-16",
+        "DailyWeightedAverageSpeed": 4.080346987951807
+    },
+    {
+        "Date": "2024-07-17",
+        "DailyWeightedAverageSpeed": 4.617937590014402
+    },
+    {
+        "Date": "2024-07-18",
+        "DailyWeightedAverageSpeed": 4.463502008032129
+    },
+    {
+        "Date": "2024-07-19",
+        "DailyWeightedAverageSpeed": 4.285858267716535
+    },
+    {
+        "Date": "2024-07-20",
+        "DailyWeightedAverageSpeed": 4.187573712255772
+    },
+    {
+        "Date": "2024-07-21",
+        "DailyWeightedAverageSpeed": 4.386196328810854
+    },
+    {
+        "Date": "2024-07-22",
+        "DailyWeightedAverageSpeed": 3.7602105263157894
+    },
+    {
+        "Date": "2024-07-23",
+        "DailyWeightedAverageSpeed": 4.494597873178416
+    },
+    {
+        "Date": "2024-07-24",
+        "DailyWeightedAverageSpeed": 3.7176351791530946
+    },
+    {
+        "Date": "2024-07-25",
+        "DailyWeightedAverageSpeed": 4.392965027516421
+    },
+    {
+        "Date": "2024-07-26",
+        "DailyWeightedAverageSpeed": 4.529161159125572
+    },
+    {
+        "Date": "2024-07-27",
+        "DailyWeightedAverageSpeed": 4.613990501319261
+    },
+    {
+        "Date": "2024-07-28",
+        "DailyWeightedAverageSpeed": 4.513179149191132
+    },
+    {
+        "Date": "2024-07-29",
+        "DailyWeightedAverageSpeed": 4.330919388522262
+    },
+    {
+        "Date": "2024-07-30",
+        "DailyWeightedAverageSpeed": 4.447584839650146
+    },
+    {
+        "Date": "2024-07-31",
+        "DailyWeightedAverageSpeed": 4.479955534074432
+    },
+    {
+        "Date": "2024-08-01",
+        "DailyWeightedAverageSpeed": 3.3030000000000004
+    },
+    {
+        "Date": "2024-08-02",
+        "DailyWeightedAverageSpeed": 4.325168674698794
+    },
+    {
+        "Date": "2024-08-03",
+        "DailyWeightedAverageSpeed": 4.011063157894737
+    },
+    {
+        "Date": "2024-08-04",
+        "DailyWeightedAverageSpeed": 3.9606250000000003
+    },
+    {
+        "Date": "2024-08-05",
+        "DailyWeightedAverageSpeed": 3.457469387755102
+    },
+    {
+        "Date": "2024-08-06",
+        "DailyWeightedAverageSpeed": 3.8524612696563776
+    },
+    {
+        "Date": "2024-08-07",
+        "DailyWeightedAverageSpeed": 3.8570107066381154
+    },
+    {
+        "Date": "2024-08-08",
+        "DailyWeightedAverageSpeed": 4.179685236768802
+    },
+    {
+        "Date": "2024-08-09",
+        "DailyWeightedAverageSpeed": 4.039221386138614
+    },
+    {
+        "Date": "2024-08-10",
+        "DailyWeightedAverageSpeed": 3.9453213077790306
+    },
+    {
+        "Date": "2024-08-11",
+        "DailyWeightedAverageSpeed": 3.9426101694915254
+    },
+    {
+        "Date": "2024-08-12",
+        "DailyWeightedAverageSpeed": 4.270915662650602
+    },
+    {
+        "Date": "2024-08-13",
+        "DailyWeightedAverageSpeed": 4.0856139130434785
+    },
+    {
+        "Date": "2024-08-14",
+        "DailyWeightedAverageSpeed": 3.6017361702127664
+    },
+    {
+        "Date": "2024-08-15",
+        "DailyWeightedAverageSpeed": 4.840853700516351
+    },
+    {
+        "Date": "2024-08-16",
+        "DailyWeightedAverageSpeed": 3.6539191374663074
+    },
+    {
+        "Date": "2024-08-17",
+        "DailyWeightedAverageSpeed": 3.7364734982332157
+    },
+    {
+        "Date": "2024-08-18",
+        "DailyWeightedAverageSpeed": 3.783100042211904
+    },
+    {
+        "Date": "2024-08-19",
+        "DailyWeightedAverageSpeed": 4.337006002400961
+    },
+    {
+        "Date": "2024-08-20",
+        "DailyWeightedAverageSpeed": 4.041400228050171
+    },
+    {
+        "Date": "2024-08-21",
+        "DailyWeightedAverageSpeed": 4.1921039145907475
+    },
+    {
+        "Date": "2024-08-22",
+        "DailyWeightedAverageSpeed": 4.246392857142857
+    },
+    {
+        "Date": "2024-08-23",
+        "DailyWeightedAverageSpeed": 4.275157030448169
+    },
+    {
+        "Date": "2024-08-24",
+        "DailyWeightedAverageSpeed": 4.064106261859583
+    },
+    {
+        "Date": "2024-08-25",
+        "DailyWeightedAverageSpeed": 3.889587301587302
+    },
+    {
+        "Date": "2024-08-26",
+        "DailyWeightedAverageSpeed": 3.9212611764705882
+    },
+    {
+        "Date": "2024-08-27",
+        "DailyWeightedAverageSpeed": 3.1444345403899723
+    },
+    {
+        "Date": "2024-08-28",
+        "DailyWeightedAverageSpeed": 3.4142400000000004
+    },
+    {
+        "Date": "2024-08-29",
+        "DailyWeightedAverageSpeed": 4.097391527599487
+    },
+    {
+        "Date": "2024-08-30",
+        "DailyWeightedAverageSpeed": 3.972083526682135
+    },
+    {
+        "Date": "2024-08-31",
+        "DailyWeightedAverageSpeed": 3.8702412060301508
+    },
+    {
+        "Date": "2024-09-01",
+        "DailyWeightedAverageSpeed": 3.9449766536964983
+    },
+    {
+        "Date": "2024-09-02",
+        "DailyWeightedAverageSpeed": 3.821546827794562
+    },
+    {
+        "Date": "2024-09-03",
+        "DailyWeightedAverageSpeed": 4.12878391959799
+    },
+    {
+        "Date": "2024-09-04",
+        "DailyWeightedAverageSpeed": 4.099827814569537
+    },
+    {
+        "Date": "2024-09-05",
+        "DailyWeightedAverageSpeed": 3.8865358851674645
+    },
+    {
+        "Date": "2024-09-06",
+        "DailyWeightedAverageSpeed": 3.623362831858407
+    },
+    {
+        "Date": "2024-09-07",
+        "DailyWeightedAverageSpeed": 4.513798810703666
+    },
+    {
+        "Date": "2024-09-08",
+        "DailyWeightedAverageSpeed": 4.462317891373802
+    },
+    {
+        "Date": "2024-09-09",
+        "DailyWeightedAverageSpeed": 4.720405042477392
+    },
+    {
+        "Date": "2024-09-10",
+        "DailyWeightedAverageSpeed": 4.8119135913591355
+    },
+    {
+        "Date": "2024-09-11",
+        "DailyWeightedAverageSpeed": 4.896290694693668
+    },
+    {
+        "Date": "2024-09-12",
+        "DailyWeightedAverageSpeed": 4.357660017346054
+    },
+    {
+        "Date": "2024-09-13",
+        "DailyWeightedAverageSpeed": 4.037508700102355
+    },
+    {
+        "Date": "2024-09-14",
+        "DailyWeightedAverageSpeed": 4.583243232404252
+    },
+    {
+        "Date": "2024-09-15",
+        "DailyWeightedAverageSpeed": 4.630024812955773
+    },
+    {
+        "Date": "2024-09-16",
+        "DailyWeightedAverageSpeed": 4.481665950380934
+    },
+    {
+        "Date": "2024-09-17",
+        "DailyWeightedAverageSpeed": 4.198637331440739
+    },
+    {
+        "Date": "2024-09-18",
+        "DailyWeightedAverageSpeed": 4.355714152265296
+    },
+    {
+        "Date": "2024-09-19",
+        "DailyWeightedAverageSpeed": 4.3406151752296696
+    },
+    {
+        "Date": "2024-09-20",
+        "DailyWeightedAverageSpeed": 4.08306259314456
+    },
+    {
+        "Date": "2024-09-21",
+        "DailyWeightedAverageSpeed": 4.196419784400761
+    },
+    {
+        "Date": "2024-09-22",
+        "DailyWeightedAverageSpeed": 4.257573064590013
+    },
+    {
+        "Date": "2024-09-23",
+        "DailyWeightedAverageSpeed": 4.1409284164859
+    },
+    {
+        "Date": "2024-09-24",
+        "DailyWeightedAverageSpeed": 4.099879625061668
+    },
+    {
+        "Date": "2024-09-25",
+        "DailyWeightedAverageSpeed": 4.172054502369668
+    },
+    {
+        "Date": "2024-09-26",
+        "DailyWeightedAverageSpeed": 4.059834437086093
+    },
+    {
+        "Date": "2024-09-27",
+        "DailyWeightedAverageSpeed": 4.140047368421053
+    },
+    {
+        "Date": "2024-09-28",
+        "DailyWeightedAverageSpeed": 4.285829596412556
+    },
+    {
+        "Date": "2024-09-29",
+        "DailyWeightedAverageSpeed": 4.006685375067458
+    },
+    {
+        "Date": "2024-09-30",
+        "DailyWeightedAverageSpeed": 4.34190134529148
+    },
+    {
+        "Date": "2024-10-01",
+        "DailyWeightedAverageSpeed": 4.307561101549053
+    },
+    {
+        "Date": "2024-10-02",
+        "DailyWeightedAverageSpeed": 4.445148683092608
+    },
+    {
+        "Date": "2024-10-03",
+        "DailyWeightedAverageSpeed": 4.294368177613321
+    },
+    {
+        "Date": "2024-10-04",
+        "DailyWeightedAverageSpeed": 4.279612756264237
+    },
+    {
+        "Date": "2024-10-05",
+        "DailyWeightedAverageSpeed": 3.0564000000000004
+    },
+    {
+        "Date": "2024-10-06",
+        "DailyWeightedAverageSpeed": 4.567281711358843
+    },
+    {
+        "Date": "2024-10-07",
+        "DailyWeightedAverageSpeed": 4.539431085043988
+    },
+    {
+        "Date": "2024-10-08",
+        "DailyWeightedAverageSpeed": 4.177590491141512
+    },
+    {
+        "Date": "2024-10-09",
+        "DailyWeightedAverageSpeed": 4.166329289428076
+    },
+    {
+        "Date": "2024-10-10",
+        "DailyWeightedAverageSpeed": 4.5353347333053335
+    },
+    {
+        "Date": "2024-10-11",
+        "DailyWeightedAverageSpeed": 4.298094782608696
+    },
+    {
+        "Date": "2024-10-12",
+        "DailyWeightedAverageSpeed": 4.451621474827658
+    },
+    {
+        "Date": "2024-10-13",
+        "DailyWeightedAverageSpeed": 4.299353751914242
+    },
+    {
+        "Date": "2024-10-14",
+        "DailyWeightedAverageSpeed": 4.431813253012049
+    },
+    {
+        "Date": "2024-10-15",
+        "DailyWeightedAverageSpeed": 4.341678427658063
+    },
+    {
+        "Date": "2024-10-16",
+        "DailyWeightedAverageSpeed": 4.24516865715118
+    },
+    {
+        "Date": "2024-10-17",
+        "DailyWeightedAverageSpeed": 4.419356410966492
+    },
+    {
+        "Date": "2024-10-18",
+        "DailyWeightedAverageSpeed": 4.49891387313048
+    },
+    {
+        "Date": "2024-10-19",
+        "DailyWeightedAverageSpeed": 4.734147634069401
+    },
+    {
+        "Date": "2024-10-20",
+        "DailyWeightedAverageSpeed": 4.939566666666667
+    },
+    {
+        "Date": "2024-10-21",
+        "DailyWeightedAverageSpeed": 4.063793698424607
+    },
+    {
+        "Date": "2024-10-22",
+        "DailyWeightedAverageSpeed": 4.408854904418678
+    },
+    {
+        "Date": "2024-10-23",
+        "DailyWeightedAverageSpeed": 4.260159544159545
+    },
+    {
+        "Date": "2024-10-24",
+        "DailyWeightedAverageSpeed": 4.176265752702347
+    },
+    {
+        "Date": "2024-10-25",
+        "DailyWeightedAverageSpeed": 4.6252803468208095
+    },
+    {
+        "Date": "2024-10-26",
+        "DailyWeightedAverageSpeed": 4.685029411764706
+    },
+    {
+        "Date": "2024-10-27",
+        "DailyWeightedAverageSpeed": 4.472952433936022
+    },
+    {
+        "Date": "2024-10-28",
+        "DailyWeightedAverageSpeed": 4.672924855491329
+    },
+    {
+        "Date": "2024-10-29",
+        "DailyWeightedAverageSpeed": 4.143958441558442
+    },
+    {
+        "Date": "2024-10-30",
+        "DailyWeightedAverageSpeed": 4.413858769931663
+    },
+    {
+        "Date": "2024-10-31",
+        "DailyWeightedAverageSpeed": 4.4094375
+    },
+    {
+        "Date": "2024-11-01",
+        "DailyWeightedAverageSpeed": 4.356550546176763
+    },
+    {
+        "Date": "2024-11-02",
+        "DailyWeightedAverageSpeed": 4.297155446756426
+    },
+    {
+        "Date": "2024-11-03",
+        "DailyWeightedAverageSpeed": 4.303321752862219
+    },
+    {
+        "Date": "2024-11-04",
+        "DailyWeightedAverageSpeed": 4.342525139664804
+    },
+    {
+        "Date": "2024-11-05",
+        "DailyWeightedAverageSpeed": 4.483262272089762
+    },
+    {
+        "Date": "2024-11-06",
+        "DailyWeightedAverageSpeed": 4.4739826086956525
+    },
+    {
+        "Date": "2024-11-07",
+        "DailyWeightedAverageSpeed": 4.159786700931577
+    },
+    {
+        "Date": "2024-11-08",
+        "DailyWeightedAverageSpeed": 4.406352579582875
+    },
+    {
+        "Date": "2024-11-09",
+        "DailyWeightedAverageSpeed": 4.279638348189922
+    },
+    {
+        "Date": "2024-11-10",
+        "DailyWeightedAverageSpeed": 4.194392164701179
+    },
+    {
+        "Date": "2024-11-11",
+        "DailyWeightedAverageSpeed": 4.377995044247787
+    },
+    {
+        "Date": "2024-11-12",
+        "DailyWeightedAverageSpeed": 4.397828791279256
+    },
+    {
+        "Date": "2024-11-13",
+        "DailyWeightedAverageSpeed": 4.28352611784371
+    },
+    {
+        "Date": "2024-11-14",
+        "DailyWeightedAverageSpeed": 4.319269080234833
+    },
+    {
+        "Date": "2024-11-15",
+        "DailyWeightedAverageSpeed": 4.085382857142857
+    },
+    {
+        "Date": "2024-11-16",
+        "DailyWeightedAverageSpeed": 3.878559914024718
+    },
+    {
+        "Date": "2024-11-17",
+        "DailyWeightedAverageSpeed": 4.270910115878484
+    },
+    {
+        "Date": "2024-11-18",
+        "DailyWeightedAverageSpeed": 4.2417302947940625
+    },
+    {
+        "Date": "2024-11-19",
+        "DailyWeightedAverageSpeed": 4.443513499344692
+    },
+    {
+        "Date": "2024-11-20",
+        "DailyWeightedAverageSpeed": 4.314164835164835
+    },
+    {
+        "Date": "2024-11-21",
+        "DailyWeightedAverageSpeed": 4.387423805913571
+    },
+    {
+        "Date": "2024-11-22",
+        "DailyWeightedAverageSpeed": 4.0831357436674605
+    },
+    {
+        "Date": "2024-11-23",
+        "DailyWeightedAverageSpeed": 4.4570979729729725
+    },
+    {
+        "Date": "2024-11-24",
+        "DailyWeightedAverageSpeed": 4.2318224066390036
+    },
+    {
+        "Date": "2024-11-25",
+        "DailyWeightedAverageSpeed": 4.511827563683867
+    },
+    {
+        "Date": "2024-11-26",
+        "DailyWeightedAverageSpeed": 4.468234243176179
+    },
+    {
+        "Date": "2024-11-27",
+        "DailyWeightedAverageSpeed": 4.486600405679512
+    },
+    {
+        "Date": "2024-11-28",
+        "DailyWeightedAverageSpeed": 4.17479207920792
+    },
+    {
+        "Date": "2024-11-29",
+        "DailyWeightedAverageSpeed": 4.3133
+    },
+    {
+        "Date": "2024-11-30",
+        "DailyWeightedAverageSpeed": 4.558294117647058
+    },
+    {
+        "Date": "2024-12-01",
+        "DailyWeightedAverageSpeed": 4.284598890942698
+    },
+    {
+        "Date": "2024-12-02",
+        "DailyWeightedAverageSpeed": 4.370434539276434
+    },
+    {
+        "Date": "2024-12-03",
+        "DailyWeightedAverageSpeed": 4.130233529726834
+    },
+    {
+        "Date": "2024-12-04",
+        "DailyWeightedAverageSpeed": 4.329429141716567
+    },
+    {
+        "Date": "2024-12-05",
+        "DailyWeightedAverageSpeed": 4.575348837209303
+    },
+    {
+        "Date": "2024-12-06",
+        "DailyWeightedAverageSpeed": 4.522548773531089
+    },
+    {
+        "Date": "2024-12-07",
+        "DailyWeightedAverageSpeed": 4.550911011783827
+    },
+    {
+        "Date": "2024-12-08",
+        "DailyWeightedAverageSpeed": 4.329875662113186
+    },
+    {
+        "Date": "2024-12-09",
+        "DailyWeightedAverageSpeed": 4.6157943755669795
+    },
+    {
+        "Date": "2024-12-10",
+        "DailyWeightedAverageSpeed": 4.701455531453362
+    },
+    {
+        "Date": "2024-12-11",
+        "DailyWeightedAverageSpeed": 4.304167409948541
+    },
+    {
+        "Date": "2024-12-12",
+        "DailyWeightedAverageSpeed": 4.142995227489659
+    },
+    {
+        "Date": "2024-12-13",
+        "DailyWeightedAverageSpeed": 4.3703615743829225
+    },
+    {
+        "Date": "2024-12-14",
+        "DailyWeightedAverageSpeed": 4.42256603773585
+    },
+    {
+        "Date": "2024-12-15",
+        "DailyWeightedAverageSpeed": 4.5098015625
+    },
+    {
+        "Date": "2024-12-16",
+        "DailyWeightedAverageSpeed": 4.3762537419814675
+    },
+    {
+        "Date": "2024-12-17",
+        "DailyWeightedAverageSpeed": 4.36881327014218
+    },
+    {
+        "Date": "2024-12-18",
+        "DailyWeightedAverageSpeed": 4.080375378405651
+    },
+    {
+        "Date": "2024-12-19",
+        "DailyWeightedAverageSpeed": 4.380484251968504
+    },
+    {
+        "Date": "2024-12-20",
+        "DailyWeightedAverageSpeed": 4.244104358138156
+    },
+    {
+        "Date": "2024-12-21",
+        "DailyWeightedAverageSpeed": 4.805454545454546
+    },
+    {
+        "Date": "2024-12-22",
+        "DailyWeightedAverageSpeed": 4.050339622641509
+    },
+    {
+        "Date": "2024-12-23",
+        "DailyWeightedAverageSpeed": 4.217120593692022
+    },
+    {
+        "Date": "2024-12-24",
+        "DailyWeightedAverageSpeed": 4.327450980392157
+    },
+    {
+        "Date": "2024-12-25",
+        "DailyWeightedAverageSpeed": 4.440169284003194
+    },
+    {
+        "Date": "2024-12-26",
+        "DailyWeightedAverageSpeed": 4.274935913821436
+    },
+    {
+        "Date": "2024-12-27",
+        "DailyWeightedAverageSpeed": 4.183492974238876
+    },
+    {
+        "Date": "2024-12-28",
+        "DailyWeightedAverageSpeed": 4.2761875
+    },
+    {
+        "Date": "2024-12-29",
+        "DailyWeightedAverageSpeed": 4.38122302771855
+    },
+    {
+        "Date": "2024-12-30",
+        "DailyWeightedAverageSpeed": 4.225911421911422
+    },
+    {
+        "Date": "2024-12-31",
+        "DailyWeightedAverageSpeed": 4.1551875
+    },
+    {
+        "Date": "2025-01-01",
+        "DailyWeightedAverageSpeed": 4.492113000864802
+    },
+    {
+        "Date": "2025-01-02",
+        "DailyWeightedAverageSpeed": 4.24162729498164
+    },
+    {
+        "Date": "2025-01-03",
+        "DailyWeightedAverageSpeed": 4.008878048780488
+    },
+    {
+        "Date": "2025-01-04",
+        "DailyWeightedAverageSpeed": 4.352701538461538
+    },
+    {
+        "Date": "2025-01-05",
+        "DailyWeightedAverageSpeed": 4.139380771319935
+    },
+    {
+        "Date": "2025-01-06",
+        "DailyWeightedAverageSpeed": 4.35727842435094
+    },
+    {
+        "Date": "2025-01-07",
+        "DailyWeightedAverageSpeed": 4.314104663581346
+    },
+    {
+        "Date": "2025-01-08",
+        "DailyWeightedAverageSpeed": 4.453731207289294
+    }
+]

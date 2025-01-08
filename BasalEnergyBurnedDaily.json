@@ -1,0 +1,3366 @@
+[
+    {
+        "Date": "2022-09-21",
+        "TotalBasalEnergyBurned": 236.11445750000001
+    },
+    {
+        "Date": "2022-09-22",
+        "TotalBasalEnergyBurned": 646.7324644444444
+    },
+    {
+        "Date": "2022-09-23",
+        "TotalBasalEnergyBurned": 719.8705827777778
+    },
+    {
+        "Date": "2022-09-24",
+        "TotalBasalEnergyBurned": 782.3141497222223
+    },
+    {
+        "Date": "2022-09-25",
+        "TotalBasalEnergyBurned": 432.8295502777778
+    },
+    {
+        "Date": "2022-09-26",
+        "TotalBasalEnergyBurned": 581.84835
+    },
+    {
+        "Date": "2022-09-27",
+        "TotalBasalEnergyBurned": 747.9897861111111
+    },
+    {
+        "Date": "2022-09-28",
+        "TotalBasalEnergyBurned": 840.750395
+    },
+    {
+        "Date": "2022-09-29",
+        "TotalBasalEnergyBurned": 723.6457561111112
+    },
+    {
+        "Date": "2022-09-30",
+        "TotalBasalEnergyBurned": 717.0239675
+    },
+    {
+        "Date": "2022-10-01",
+        "TotalBasalEnergyBurned": 710.6150577777778
+    },
+    {
+        "Date": "2022-10-02",
+        "TotalBasalEnergyBurned": 778.9425452777778
+    },
+    {
+        "Date": "2022-10-03",
+        "TotalBasalEnergyBurned": 653.5208330555556
+    },
+    {
+        "Date": "2022-10-04",
+        "TotalBasalEnergyBurned": 586.1242827777778
+    },
+    {
+        "Date": "2022-10-05",
+        "TotalBasalEnergyBurned": 555.2801855555556
+    },
+    {
+        "Date": "2022-10-06",
+        "TotalBasalEnergyBurned": 661.3207141666667
+    },
+    {
+        "Date": "2022-10-07",
+        "TotalBasalEnergyBurned": 594.3060983333334
+    },
+    {
+        "Date": "2022-10-08",
+        "TotalBasalEnergyBurned": 924.7247258333333
+    },
+    {
+        "Date": "2022-10-09",
+        "TotalBasalEnergyBurned": 947.1657583333333
+    },
+    {
+        "Date": "2022-10-10",
+        "TotalBasalEnergyBurned": 613.9559513888889
+    },
+    {
+        "Date": "2022-10-11",
+        "TotalBasalEnergyBurned": 636.6327436111111
+    },
+    {
+        "Date": "2022-10-12",
+        "TotalBasalEnergyBurned": 617.8830466666667
+    },
+    {
+        "Date": "2022-10-13",
+        "TotalBasalEnergyBurned": 669.9099516666666
+    },
+    {
+        "Date": "2022-10-14",
+        "TotalBasalEnergyBurned": 512.1022236111112
+    },
+    {
+        "Date": "2022-10-15",
+        "TotalBasalEnergyBurned": 849.6075116666667
+    },
+    {
+        "Date": "2022-10-16",
+        "TotalBasalEnergyBurned": 557.2926725
+    },
+    {
+        "Date": "2022-10-17",
+        "TotalBasalEnergyBurned": 619.5287547222222
+    },
+    {
+        "Date": "2022-10-18",
+        "TotalBasalEnergyBurned": 539.5040741666667
+    },
+    {
+        "Date": "2022-10-19",
+        "TotalBasalEnergyBurned": 767.3346750000001
+    },
+    {
+        "Date": "2022-10-20",
+        "TotalBasalEnergyBurned": 786.5351072222222
+    },
+    {
+        "Date": "2022-10-21",
+        "TotalBasalEnergyBurned": 620.2831072222223
+    },
+    {
+        "Date": "2022-10-22",
+        "TotalBasalEnergyBurned": 960.5749497222223
+    },
+    {
+        "Date": "2022-10-23",
+        "TotalBasalEnergyBurned": 621.8807108333333
+    },
+    {
+        "Date": "2022-10-24",
+        "TotalBasalEnergyBurned": 725.8738572222222
+    },
+    {
+        "Date": "2022-10-25",
+        "TotalBasalEnergyBurned": 471.65562305555557
+    },
+    {
+        "Date": "2022-10-26",
+        "TotalBasalEnergyBurned": 632.4425277777777
+    },
+    {
+        "Date": "2022-10-27",
+        "TotalBasalEnergyBurned": 614.4610041666666
+    },
+    {
+        "Date": "2022-10-28",
+        "TotalBasalEnergyBurned": 455.4826708333333
+    },
+    {
+        "Date": "2022-10-29",
+        "TotalBasalEnergyBurned": 839.4802991666667
+    },
+    {
+        "Date": "2022-10-30",
+        "TotalBasalEnergyBurned": 767.3249825
+    },
+    {
+        "Date": "2022-10-31",
+        "TotalBasalEnergyBurned": 689.3650444444445
+    },
+    {
+        "Date": "2022-11-01",
+        "TotalBasalEnergyBurned": 634.4858938888889
+    },
+    {
+        "Date": "2022-11-02",
+        "TotalBasalEnergyBurned": 805.9783822222222
+    },
+    {
+        "Date": "2022-11-03",
+        "TotalBasalEnergyBurned": 779.3721880555555
+    },
+    {
+        "Date": "2022-11-04",
+        "TotalBasalEnergyBurned": 804.8138786111111
+    },
+    {
+        "Date": "2022-11-05",
+        "TotalBasalEnergyBurned": 627.5753138888889
+    },
+    {
+        "Date": "2022-11-06",
+        "TotalBasalEnergyBurned": 730.6261925
+    },
+    {
+        "Date": "2022-11-07",
+        "TotalBasalEnergyBurned": 823.7232119444444
+    },
+    {
+        "Date": "2022-11-08",
+        "TotalBasalEnergyBurned": 638.4482872222222
+    },
+    {
+        "Date": "2022-11-09",
+        "TotalBasalEnergyBurned": 590.1845308333334
+    },
+    {
+        "Date": "2022-11-10",
+        "TotalBasalEnergyBurned": 738.3855116666667
+    },
+    {
+        "Date": "2022-11-11",
+        "TotalBasalEnergyBurned": 644.5650466666667
+    },
+    {
+        "Date": "2022-11-12",
+        "TotalBasalEnergyBurned": 587.5979647222222
+    },
+    {
+        "Date": "2022-11-13",
+        "TotalBasalEnergyBurned": 457.12051083333336
+    },
+    {
+        "Date": "2022-11-14",
+        "TotalBasalEnergyBurned": 854.6278541666667
+    },
+    {
+        "Date": "2022-11-15",
+        "TotalBasalEnergyBurned": 588.7650647222222
+    },
+    {
+        "Date": "2022-11-16",
+        "TotalBasalEnergyBurned": 790.3460852777778
+    },
+    {
+        "Date": "2022-11-17",
+        "TotalBasalEnergyBurned": 879.5619405555556
+    },
+    {
+        "Date": "2022-11-18",
+        "TotalBasalEnergyBurned": 499.792355
+    },
+    {
+        "Date": "2022-11-19",
+        "TotalBasalEnergyBurned": 781.8649016666667
+    },
+    {
+        "Date": "2022-11-20",
+        "TotalBasalEnergyBurned": 797.0778927777778
+    },
+    {
+        "Date": "2022-11-21",
+        "TotalBasalEnergyBurned": 779.4549322222223
+    },
+    {
+        "Date": "2022-11-22",
+        "TotalBasalEnergyBurned": 752.7114377777777
+    },
+    {
+        "Date": "2022-11-23",
+        "TotalBasalEnergyBurned": 774.4539744444445
+    },
+    {
+        "Date": "2022-11-24",
+        "TotalBasalEnergyBurned": 820.4818461111112
+    },
+    {
+        "Date": "2022-11-25",
+        "TotalBasalEnergyBurned": 699.6880338888889
+    },
+    {
+        "Date": "2022-11-26",
+        "TotalBasalEnergyBurned": 560.6630111111111
+    },
+    {
+        "Date": "2022-11-27",
+        "TotalBasalEnergyBurned": 863.4198361111111
+    },
+    {
+        "Date": "2022-11-28",
+        "TotalBasalEnergyBurned": 668.5755108333333
+    },
+    {
+        "Date": "2022-11-29",
+        "TotalBasalEnergyBurned": 632.5515886111111
+    },
+    {
+        "Date": "2022-11-30",
+        "TotalBasalEnergyBurned": 833.4021722222222
+    },
+    {
+        "Date": "2022-12-01",
+        "TotalBasalEnergyBurned": 646.7429733333333
+    },
+    {
+        "Date": "2022-12-02",
+        "TotalBasalEnergyBurned": 660.9779019444445
+    },
+    {
+        "Date": "2022-12-03",
+        "TotalBasalEnergyBurned": 579.8057886111111
+    },
+    {
+        "Date": "2022-12-04",
+        "TotalBasalEnergyBurned": 674.6099297222222
+    },
+    {
+        "Date": "2022-12-05",
+        "TotalBasalEnergyBurned": 654.2291475000001
+    },
+    {
+        "Date": "2022-12-06",
+        "TotalBasalEnergyBurned": 637.0220516666667
+    },
+    {
+        "Date": "2022-12-07",
+        "TotalBasalEnergyBurned": 786.1057705555556
+    },
+    {
+        "Date": "2022-12-08",
+        "TotalBasalEnergyBurned": 820.4127533333334
+    },
+    {
+        "Date": "2022-12-09",
+        "TotalBasalEnergyBurned": 705.9311255555556
+    },
+    {
+        "Date": "2022-12-10",
+        "TotalBasalEnergyBurned": 564.6282883333333
+    },
+    {
+        "Date": "2022-12-11",
+        "TotalBasalEnergyBurned": 810.2403419444445
+    },
+    {
+        "Date": "2022-12-12",
+        "TotalBasalEnergyBurned": 573.1371144444445
+    },
+    {
+        "Date": "2022-12-13",
+        "TotalBasalEnergyBurned": 561.5082377777778
+    },
+    {
+        "Date": "2022-12-14",
+        "TotalBasalEnergyBurned": 514.2887238888889
+    },
+    {
+        "Date": "2022-12-15",
+        "TotalBasalEnergyBurned": 512.8154125
+    },
+    {
+        "Date": "2022-12-16",
+        "TotalBasalEnergyBurned": 658.2578363888889
+    },
+    {
+        "Date": "2022-12-17",
+        "TotalBasalEnergyBurned": 557.9170547222222
+    },
+    {
+        "Date": "2022-12-18",
+        "TotalBasalEnergyBurned": 876.1087677777778
+    },
+    {
+        "Date": "2022-12-19",
+        "TotalBasalEnergyBurned": 465.185525
+    },
+    {
+        "Date": "2022-12-20",
+        "TotalBasalEnergyBurned": 592.8438063888889
+    },
+    {
+        "Date": "2022-12-21",
+        "TotalBasalEnergyBurned": 563.3432675
+    },
+    {
+        "Date": "2022-12-22",
+        "TotalBasalEnergyBurned": 633.82296
+    },
+    {
+        "Date": "2022-12-23",
+        "TotalBasalEnergyBurned": 641.6938258333333
+    },
+    {
+        "Date": "2022-12-24",
+        "TotalBasalEnergyBurned": 806.1165683333334
+    },
+    {
+        "Date": "2022-12-25",
+        "TotalBasalEnergyBurned": 601.1523305555555
+    },
+    {
+        "Date": "2022-12-26",
+        "TotalBasalEnergyBurned": 774.9276388888889
+    },
+    {
+        "Date": "2022-12-27",
+        "TotalBasalEnergyBurned": 646.8375647222222
+    },
+    {
+        "Date": "2022-12-28",
+        "TotalBasalEnergyBurned": 846.8658488888889
+    },
+    {
+        "Date": "2022-12-29",
+        "TotalBasalEnergyBurned": 748.4827216666666
+    },
+    {
+        "Date": "2022-12-30",
+        "TotalBasalEnergyBurned": 602.1297308333334
+    },
+    {
+        "Date": "2022-12-31",
+        "TotalBasalEnergyBurned": 517.72892
+    },
+    {
+        "Date": "2023-01-01",
+        "TotalBasalEnergyBurned": 628.8497683333334
+    },
+    {
+        "Date": "2023-01-02",
+        "TotalBasalEnergyBurned": 539.7427622222223
+    },
+    {
+        "Date": "2023-01-03",
+        "TotalBasalEnergyBurned": 853.3155772222223
+    },
+    {
+        "Date": "2023-01-04",
+        "TotalBasalEnergyBurned": 568.0193827777778
+    },
+    {
+        "Date": "2023-01-05",
+        "TotalBasalEnergyBurned": 634.4370061111111
+    },
+    {
+        "Date": "2023-01-06",
+        "TotalBasalEnergyBurned": 599.9360675
+    },
+    {
+        "Date": "2023-01-07",
+        "TotalBasalEnergyBurned": 689.5140252777778
+    },
+    {
+        "Date": "2023-01-08",
+        "TotalBasalEnergyBurned": 656.3899847222223
+    },
+    {
+        "Date": "2023-01-09",
+        "TotalBasalEnergyBurned": 817.1871305555555
+    },
+    {
+        "Date": "2023-01-10",
+        "TotalBasalEnergyBurned": 626.8142297222222
+    },
+    {
+        "Date": "2023-01-11",
+        "TotalBasalEnergyBurned": 786.3863622222223
+    },
+    {
+        "Date": "2023-01-12",
+        "TotalBasalEnergyBurned": 841.4959722222222
+    },
+    {
+        "Date": "2023-01-13",
+        "TotalBasalEnergyBurned": 640.3810472222223
+    },
+    {
+        "Date": "2023-01-14",
+        "TotalBasalEnergyBurned": 747.0367966666666
+    },
+    {
+        "Date": "2023-01-15",
+        "TotalBasalEnergyBurned": 612.2395458333333
+    },
+    {
+        "Date": "2023-01-16",
+        "TotalBasalEnergyBurned": 577.3289186111111
+    },
+    {
+        "Date": "2023-01-17",
+        "TotalBasalEnergyBurned": 872.3024291666667
+    },
+    {
+        "Date": "2023-01-18",
+        "TotalBasalEnergyBurned": 561.9888822222222
+    },
+    {
+        "Date": "2023-01-19",
+        "TotalBasalEnergyBurned": 776.7454316666667
+    },
+    {
+        "Date": "2023-01-20",
+        "TotalBasalEnergyBurned": 999.2979094444445
+    },
+    {
+        "Date": "2023-01-21",
+        "TotalBasalEnergyBurned": 1008.5188525
+    },
+    {
+        "Date": "2023-01-22",
+        "TotalBasalEnergyBurned": 984.6319002777778
+    },
+    {
+        "Date": "2023-01-23",
+        "TotalBasalEnergyBurned": 1116.2918083333334
+    },
+    {
+        "Date": "2023-01-24",
+        "TotalBasalEnergyBurned": 1260.6494500000001
+    },
+    {
+        "Date": "2023-01-25",
+        "TotalBasalEnergyBurned": 1098.5361861111112
+    },
+    {
+        "Date": "2023-01-26",
+        "TotalBasalEnergyBurned": 651.2753244444444
+    },
+    {
+        "Date": "2023-01-27",
+        "TotalBasalEnergyBurned": 1138.5002586111111
+    },
+    {
+        "Date": "2023-01-28",
+        "TotalBasalEnergyBurned": 1067.1885608333334
+    },
+    {
+        "Date": "2023-01-29",
+        "TotalBasalEnergyBurned": 1067.8903905555555
+    },
+    {
+        "Date": "2023-01-30",
+        "TotalBasalEnergyBurned": 1254.943773611111
+    },
+    {
+        "Date": "2023-01-31",
+        "TotalBasalEnergyBurned": 1039.5694405555555
+    },
+    {
+        "Date": "2023-02-01",
+        "TotalBasalEnergyBurned": 1077.095335
+    },
+    {
+        "Date": "2023-02-02",
+        "TotalBasalEnergyBurned": 965.6338894444444
+    },
+    {
+        "Date": "2023-02-03",
+        "TotalBasalEnergyBurned": 1066.0119461111112
+    },
+    {
+        "Date": "2023-02-04",
+        "TotalBasalEnergyBurned": 1022.6223497222222
+    },
+    {
+        "Date": "2023-02-05",
+        "TotalBasalEnergyBurned": 1108.3072369444444
+    },
+    {
+        "Date": "2023-02-06",
+        "TotalBasalEnergyBurned": 1226.83894
+    },
+    {
+        "Date": "2023-02-07",
+        "TotalBasalEnergyBurned": 1017.7567911111112
+    },
+    {
+        "Date": "2023-02-08",
+        "TotalBasalEnergyBurned": 1145.7019233333333
+    },
+    {
+        "Date": "2023-02-09",
+        "TotalBasalEnergyBurned": 999.0509969444445
+    },
+    {
+        "Date": "2023-02-10",
+        "TotalBasalEnergyBurned": 1008.5610397222222
+    },
+    {
+        "Date": "2023-02-11",
+        "TotalBasalEnergyBurned": 933.2429138888889
+    },
+    {
+        "Date": "2023-02-12",
+        "TotalBasalEnergyBurned": 1016.5454508333333
+    },
+    {
+        "Date": "2023-02-13",
+        "TotalBasalEnergyBurned": 996.7670975
+    },
+    {
+        "Date": "2023-02-14",
+        "TotalBasalEnergyBurned": 986.5779133333334
+    },
+    {
+        "Date": "2023-02-15",
+        "TotalBasalEnergyBurned": 1155.5810822222222
+    },
+    {
+        "Date": "2023-02-16",
+        "TotalBasalEnergyBurned": 1219.2987225
+    },
+    {
+        "Date": "2023-02-17",
+        "TotalBasalEnergyBurned": 962.5621625
+    },
+    {
+        "Date": "2023-02-18",
+        "TotalBasalEnergyBurned": 1067.8119036111111
+    },
+    {
+        "Date": "2023-02-19",
+        "TotalBasalEnergyBurned": 971.4334266666667
+    },
+    {
+        "Date": "2023-02-20",
+        "TotalBasalEnergyBurned": 924.5610355555556
+    },
+    {
+        "Date": "2023-02-21",
+        "TotalBasalEnergyBurned": 1005.7785233333333
+    },
+    {
+        "Date": "2023-02-22",
+        "TotalBasalEnergyBurned": 824.9074588888889
+    },
+    {
+        "Date": "2023-02-23",
+        "TotalBasalEnergyBurned": 1065.8594391666668
+    },
+    {
+        "Date": "2023-02-24",
+        "TotalBasalEnergyBurned": 1073.4870833333334
+    },
+    {
+        "Date": "2023-02-25",
+        "TotalBasalEnergyBurned": 909.9151027777777
+    },
+    {
+        "Date": "2023-02-26",
+        "TotalBasalEnergyBurned": 1068.6526497222223
+    },
+    {
+        "Date": "2023-02-27",
+        "TotalBasalEnergyBurned": 995.0320405555556
+    },
+    {
+        "Date": "2023-02-28",
+        "TotalBasalEnergyBurned": 957.1427691666667
+    },
+    {
+        "Date": "2023-03-01",
+        "TotalBasalEnergyBurned": 853.1910283333333
+    },
+    {
+        "Date": "2023-03-02",
+        "TotalBasalEnergyBurned": 1070.2168697222223
+    },
+    {
+        "Date": "2023-03-03",
+        "TotalBasalEnergyBurned": 970.256915
+    },
+    {
+        "Date": "2023-03-04",
+        "TotalBasalEnergyBurned": 1075.2108338888888
+    },
+    {
+        "Date": "2023-03-05",
+        "TotalBasalEnergyBurned": 1140.3229905555556
+    },
+    {
+        "Date": "2023-03-06",
+        "TotalBasalEnergyBurned": 1074.5533072222222
+    },
+    {
+        "Date": "2023-03-07",
+        "TotalBasalEnergyBurned": 894.2860394444444
+    },
+    {
+        "Date": "2023-03-08",
+        "TotalBasalEnergyBurned": 951.4384558333334
+    },
+    {
+        "Date": "2023-03-09",
+        "TotalBasalEnergyBurned": 908.6055283333334
+    },
+    {
+        "Date": "2023-03-10",
+        "TotalBasalEnergyBurned": 1055.366393888889
+    },
+    {
+        "Date": "2023-03-11",
+        "TotalBasalEnergyBurned": 1107.7632872222223
+    },
+    {
+        "Date": "2023-03-12",
+        "TotalBasalEnergyBurned": 970.3874386111112
+    },
+    {
+        "Date": "2023-03-13",
+        "TotalBasalEnergyBurned": 902.1116380555555
+    },
+    {
+        "Date": "2023-03-14",
+        "TotalBasalEnergyBurned": 935.5759494444445
+    },
+    {
+        "Date": "2023-03-15",
+        "TotalBasalEnergyBurned": 974.6090986111111
+    },
+    {
+        "Date": "2023-03-16",
+        "TotalBasalEnergyBurned": 1097.10852
+    },
+    {
+        "Date": "2023-03-17",
+        "TotalBasalEnergyBurned": 1061.3264258333334
+    },
+    {
+        "Date": "2023-03-18",
+        "TotalBasalEnergyBurned": 1177.333246388889
+    },
+    {
+        "Date": "2023-03-19",
+        "TotalBasalEnergyBurned": 938.6316491666666
+    },
+    {
+        "Date": "2023-03-20",
+        "TotalBasalEnergyBurned": 902.3311866666667
+    },
+    {
+        "Date": "2023-03-21",
+        "TotalBasalEnergyBurned": 971.3639983333334
+    },
+    {
+        "Date": "2023-03-22",
+        "TotalBasalEnergyBurned": 1010.3694611111111
+    },
+    {
+        "Date": "2023-03-23",
+        "TotalBasalEnergyBurned": 1059.2254180555556
+    },
+    {
+        "Date": "2023-03-24",
+        "TotalBasalEnergyBurned": 1014.3401666666667
+    },
+    {
+        "Date": "2023-03-25",
+        "TotalBasalEnergyBurned": 984.2698913888889
+    },
+    {
+        "Date": "2023-03-26",
+        "TotalBasalEnergyBurned": 1007.50258
+    },
+    {
+        "Date": "2023-03-27",
+        "TotalBasalEnergyBurned": 980.0029405555556
+    },
+    {
+        "Date": "2023-03-28",
+        "TotalBasalEnergyBurned": 1075.60302
+    },
+    {
+        "Date": "2023-03-29",
+        "TotalBasalEnergyBurned": 923.4709716666666
+    },
+    {
+        "Date": "2023-03-30",
+        "TotalBasalEnergyBurned": 1148.7040252777779
+    },
+    {
+        "Date": "2023-03-31",
+        "TotalBasalEnergyBurned": 1135.5330555555556
+    },
+    {
+        "Date": "2023-04-01",
+        "TotalBasalEnergyBurned": 944.6808788888889
+    },
+    {
+        "Date": "2023-04-02",
+        "TotalBasalEnergyBurned": 1045.575190277778
+    },
+    {
+        "Date": "2023-04-03",
+        "TotalBasalEnergyBurned": 937.6522488888888
+    },
+    {
+        "Date": "2023-04-04",
+        "TotalBasalEnergyBurned": 988.888445
+    },
+    {
+        "Date": "2023-04-05",
+        "TotalBasalEnergyBurned": 1042.7303347222223
+    },
+    {
+        "Date": "2023-04-06",
+        "TotalBasalEnergyBurned": 920.7509577777778
+    },
+    {
+        "Date": "2023-04-07",
+        "TotalBasalEnergyBurned": 1015.9477388888889
+    },
+    {
+        "Date": "2023-04-08",
+        "TotalBasalEnergyBurned": 1038.3595672222223
+    },
+    {
+        "Date": "2023-04-09",
+        "TotalBasalEnergyBurned": 1178.3683505555555
+    },
+    {
+        "Date": "2023-04-10",
+        "TotalBasalEnergyBurned": 1045.1496491666667
+    },
+    {
+        "Date": "2023-04-11",
+        "TotalBasalEnergyBurned": 914.3425
+    },
+    {
+        "Date": "2023-04-12",
+        "TotalBasalEnergyBurned": 964.7767105555556
+    },
+    {
+        "Date": "2023-04-13",
+        "TotalBasalEnergyBurned": 965.7288852777777
+    },
+    {
+        "Date": "2023-04-14",
+        "TotalBasalEnergyBurned": 1062.7669391666666
+    },
+    {
+        "Date": "2023-04-15",
+        "TotalBasalEnergyBurned": 998.90292
+    },
+    {
+        "Date": "2023-04-16",
+        "TotalBasalEnergyBurned": 944.9731138888889
+    },
+    {
+        "Date": "2023-04-17",
+        "TotalBasalEnergyBurned": 1066.432056111111
+    },
+    {
+        "Date": "2023-04-18",
+        "TotalBasalEnergyBurned": 1011.3502261111112
+    },
+    {
+        "Date": "2023-04-19",
+        "TotalBasalEnergyBurned": 999.9711866666667
+    },
+    {
+        "Date": "2023-04-20",
+        "TotalBasalEnergyBurned": 1057.4253144444444
+    },
+    {
+        "Date": "2023-04-21",
+        "TotalBasalEnergyBurned": 901.3286736111111
+    },
+    {
+        "Date": "2023-04-22",
+        "TotalBasalEnergyBurned": 1078.0778066666667
+    },
+    {
+        "Date": "2023-04-23",
+        "TotalBasalEnergyBurned": 881.0700319444444
+    },
+    {
+        "Date": "2023-04-24",
+        "TotalBasalEnergyBurned": 1040.2874775
+    },
+    {
+        "Date": "2023-04-25",
+        "TotalBasalEnergyBurned": 1029.8953013888888
+    },
+    {
+        "Date": "2023-04-26",
+        "TotalBasalEnergyBurned": 1074.6467347222222
+    },
+    {
+        "Date": "2023-04-27",
+        "TotalBasalEnergyBurned": 1094.4194383333333
+    },
+    {
+        "Date": "2023-04-28",
+        "TotalBasalEnergyBurned": 982.1975341666666
+    },
+    {
+        "Date": "2023-04-29",
+        "TotalBasalEnergyBurned": 1023.3793930555555
+    },
+    {
+        "Date": "2023-04-30",
+        "TotalBasalEnergyBurned": 911.7016152777778
+    },
+    {
+        "Date": "2023-05-01",
+        "TotalBasalEnergyBurned": 953.3617741666667
+    },
+    {
+        "Date": "2023-05-02",
+        "TotalBasalEnergyBurned": 1014.523515
+    },
+    {
+        "Date": "2023-05-03",
+        "TotalBasalEnergyBurned": 921.1856811111111
+    },
+    {
+        "Date": "2023-05-04",
+        "TotalBasalEnergyBurned": 1139.9518427777778
+    },
+    {
+        "Date": "2023-05-05",
+        "TotalBasalEnergyBurned": 1044.0405127777778
+    },
+    {
+        "Date": "2023-05-06",
+        "TotalBasalEnergyBurned": 993.9952455555556
+    },
+    {
+        "Date": "2023-05-07",
+        "TotalBasalEnergyBurned": 1022.8884669444445
+    },
+    {
+        "Date": "2023-05-08",
+        "TotalBasalEnergyBurned": 1091.0520652777777
+    },
+    {
+        "Date": "2023-05-09",
+        "TotalBasalEnergyBurned": 990.1223225
+    },
+    {
+        "Date": "2023-05-10",
+        "TotalBasalEnergyBurned": 1044.7635486111112
+    },
+    {
+        "Date": "2023-05-11",
+        "TotalBasalEnergyBurned": 951.7395836111111
+    },
+    {
+        "Date": "2023-05-12",
+        "TotalBasalEnergyBurned": 969.828785
+    },
+    {
+        "Date": "2023-05-13",
+        "TotalBasalEnergyBurned": 1183.9245266666667
+    },
+    {
+        "Date": "2023-05-14",
+        "TotalBasalEnergyBurned": 912.9872261111111
+    },
+    {
+        "Date": "2023-05-15",
+        "TotalBasalEnergyBurned": 974.2714525
+    },
+    {
+        "Date": "2023-05-16",
+        "TotalBasalEnergyBurned": 1134.6468325
+    },
+    {
+        "Date": "2023-05-17",
+        "TotalBasalEnergyBurned": 1030.7087186111112
+    },
+    {
+        "Date": "2023-05-18",
+        "TotalBasalEnergyBurned": 1192.0851686111112
+    },
+    {
+        "Date": "2023-05-19",
+        "TotalBasalEnergyBurned": 757.5575611111111
+    },
+    {
+        "Date": "2023-05-20",
+        "TotalBasalEnergyBurned": 967.4174025
+    },
+    {
+        "Date": "2023-05-21",
+        "TotalBasalEnergyBurned": 1007.8617030555556
+    },
+    {
+        "Date": "2023-05-22",
+        "TotalBasalEnergyBurned": 979.4790072222222
+    },
+    {
+        "Date": "2023-05-23",
+        "TotalBasalEnergyBurned": 1038.1180619444444
+    },
+    {
+        "Date": "2023-05-24",
+        "TotalBasalEnergyBurned": 1019.4458569444445
+    },
+    {
+        "Date": "2023-05-25",
+        "TotalBasalEnergyBurned": 986.4019680555556
+    },
+    {
+        "Date": "2023-05-26",
+        "TotalBasalEnergyBurned": 988.0905063888889
+    },
+    {
+        "Date": "2023-05-27",
+        "TotalBasalEnergyBurned": 1094.9836433333332
+    },
+    {
+        "Date": "2023-05-28",
+        "TotalBasalEnergyBurned": 1089.6375963888888
+    },
+    {
+        "Date": "2023-05-29",
+        "TotalBasalEnergyBurned": 1224.7721425
+    },
+    {
+        "Date": "2023-05-30",
+        "TotalBasalEnergyBurned": 1132.5879819444444
+    },
+    {
+        "Date": "2023-05-31",
+        "TotalBasalEnergyBurned": 1101.5728355555557
+    },
+    {
+        "Date": "2023-06-01",
+        "TotalBasalEnergyBurned": 1066.7237891666666
+    },
+    {
+        "Date": "2023-06-02",
+        "TotalBasalEnergyBurned": 1123.2460991666667
+    },
+    {
+        "Date": "2023-06-03",
+        "TotalBasalEnergyBurned": 1109.9191630555556
+    },
+    {
+        "Date": "2023-06-04",
+        "TotalBasalEnergyBurned": 1054.5970130555556
+    },
+    {
+        "Date": "2023-06-05",
+        "TotalBasalEnergyBurned": 1260.8488658333333
+    },
+    {
+        "Date": "2023-06-06",
+        "TotalBasalEnergyBurned": 979.408315
+    },
+    {
+        "Date": "2023-06-07",
+        "TotalBasalEnergyBurned": 1014.6189344444444
+    },
+    {
+        "Date": "2023-06-08",
+        "TotalBasalEnergyBurned": 1011.7867097222222
+    },
+    {
+        "Date": "2023-06-09",
+        "TotalBasalEnergyBurned": 1055.8274794444444
+    },
+    {
+        "Date": "2023-06-10",
+        "TotalBasalEnergyBurned": 1051.1387347222224
+    },
+    {
+        "Date": "2023-06-11",
+        "TotalBasalEnergyBurned": 1013.7140091666666
+    },
+    {
+        "Date": "2023-06-12",
+        "TotalBasalEnergyBurned": 947.9657322222222
+    },
+    {
+        "Date": "2023-06-13",
+        "TotalBasalEnergyBurned": 871.69924
+    },
+    {
+        "Date": "2023-06-14",
+        "TotalBasalEnergyBurned": 1002.572863888889
+    },
+    {
+        "Date": "2023-06-15",
+        "TotalBasalEnergyBurned": 1079.7455791666666
+    },
+    {
+        "Date": "2023-06-16",
+        "TotalBasalEnergyBurned": 860.2191077777778
+    },
+    {
+        "Date": "2023-06-17",
+        "TotalBasalEnergyBurned": 738.8394780555556
+    },
+    {
+        "Date": "2023-06-18",
+        "TotalBasalEnergyBurned": 925.0603230555556
+    },
+    {
+        "Date": "2023-06-19",
+        "TotalBasalEnergyBurned": 967.4219347222222
+    },
+    {
+        "Date": "2023-06-20",
+        "TotalBasalEnergyBurned": 1002.5691083333334
+    },
+    {
+        "Date": "2023-06-21",
+        "TotalBasalEnergyBurned": 840.0240947222222
+    },
+    {
+        "Date": "2023-06-22",
+        "TotalBasalEnergyBurned": 1075.2122133333335
+    },
+    {
+        "Date": "2023-06-23",
+        "TotalBasalEnergyBurned": 872.0204702777778
+    },
+    {
+        "Date": "2023-06-24",
+        "TotalBasalEnergyBurned": 932.3780647222222
+    },
+    {
+        "Date": "2023-06-25",
+        "TotalBasalEnergyBurned": 925.7969855555556
+    },
+    {
+        "Date": "2023-06-26",
+        "TotalBasalEnergyBurned": 878.0095102777777
+    },
+    {
+        "Date": "2023-06-27",
+        "TotalBasalEnergyBurned": 969.6571408333333
+    },
+    {
+        "Date": "2023-06-28",
+        "TotalBasalEnergyBurned": 837.5706872222222
+    },
+    {
+        "Date": "2023-06-29",
+        "TotalBasalEnergyBurned": 1077.346493611111
+    },
+    {
+        "Date": "2023-06-30",
+        "TotalBasalEnergyBurned": 940.1594277777778
+    },
+    {
+        "Date": "2023-07-01",
+        "TotalBasalEnergyBurned": 1022.3712716666666
+    },
+    {
+        "Date": "2023-07-02",
+        "TotalBasalEnergyBurned": 907.2598877777777
+    },
+    {
+        "Date": "2023-07-03",
+        "TotalBasalEnergyBurned": 1030.7560758333334
+    },
+    {
+        "Date": "2023-07-04",
+        "TotalBasalEnergyBurned": 939.5048155555555
+    },
+    {
+        "Date": "2023-07-05",
+        "TotalBasalEnergyBurned": 933.8396166666666
+    },
+    {
+        "Date": "2023-07-06",
+        "TotalBasalEnergyBurned": 934.1043227777778
+    },
+    {
+        "Date": "2023-07-07",
+        "TotalBasalEnergyBurned": 861.8481941666666
+    },
+    {
+        "Date": "2023-07-08",
+        "TotalBasalEnergyBurned": 1070.0558461111111
+    },
+    {
+        "Date": "2023-07-09",
+        "TotalBasalEnergyBurned": 915.5694083333334
+    },
+    {
+        "Date": "2023-07-10",
+        "TotalBasalEnergyBurned": 1043.2875505555555
+    },
+    {
+        "Date": "2023-07-11",
+        "TotalBasalEnergyBurned": 979.3881194444444
+    },
+    {
+        "Date": "2023-07-12",
+        "TotalBasalEnergyBurned": 746.5980011111111
+    },
+    {
+        "Date": "2023-07-13",
+        "TotalBasalEnergyBurned": 939.9828844444445
+    },
+    {
+        "Date": "2023-07-14",
+        "TotalBasalEnergyBurned": 890.478275
+    },
+    {
+        "Date": "2023-07-15",
+        "TotalBasalEnergyBurned": 954.0300111111111
+    },
+    {
+        "Date": "2023-07-16",
+        "TotalBasalEnergyBurned": 1021.0655711111111
+    },
+    {
+        "Date": "2023-07-17",
+        "TotalBasalEnergyBurned": 1157.300285
+    },
+    {
+        "Date": "2023-07-18",
+        "TotalBasalEnergyBurned": 1051.2865636111112
+    },
+    {
+        "Date": "2023-07-19",
+        "TotalBasalEnergyBurned": 911.9328355555556
+    },
+    {
+        "Date": "2023-07-20",
+        "TotalBasalEnergyBurned": 713.4324388888889
+    },
+    {
+        "Date": "2023-07-21",
+        "TotalBasalEnergyBurned": 1093.9815733333335
+    },
+    {
+        "Date": "2023-07-22",
+        "TotalBasalEnergyBurned": 1053.1656780555556
+    },
+    {
+        "Date": "2023-07-23",
+        "TotalBasalEnergyBurned": 978.5759736111112
+    },
+    {
+        "Date": "2023-07-24",
+        "TotalBasalEnergyBurned": 961.9530097222222
+    },
+    {
+        "Date": "2023-07-25",
+        "TotalBasalEnergyBurned": 989.7120122222223
+    },
+    {
+        "Date": "2023-07-26",
+        "TotalBasalEnergyBurned": 1010.6328855555556
+    },
+    {
+        "Date": "2023-07-27",
+        "TotalBasalEnergyBurned": 1052.5847752777777
+    },
+    {
+        "Date": "2023-07-28",
+        "TotalBasalEnergyBurned": 951.4378688888889
+    },
+    {
+        "Date": "2023-07-29",
+        "TotalBasalEnergyBurned": 1095.9882172222221
+    },
+    {
+        "Date": "2023-07-30",
+        "TotalBasalEnergyBurned": 1019.6541022222223
+    },
+    {
+        "Date": "2023-07-31",
+        "TotalBasalEnergyBurned": 844.2285791666667
+    },
+    {
+        "Date": "2023-08-01",
+        "TotalBasalEnergyBurned": 1007.0596113888889
+    },
+    {
+        "Date": "2023-08-02",
+        "TotalBasalEnergyBurned": 871.5653025
+    },
+    {
+        "Date": "2023-08-03",
+        "TotalBasalEnergyBurned": 1057.0911958333334
+    },
+    {
+        "Date": "2023-08-04",
+        "TotalBasalEnergyBurned": 959.3982041666667
+    },
+    {
+        "Date": "2023-08-05",
+        "TotalBasalEnergyBurned": 942.2277486111111
+    },
+    {
+        "Date": "2023-08-06",
+        "TotalBasalEnergyBurned": 1006.5717936111112
+    },
+    {
+        "Date": "2023-08-07",
+        "TotalBasalEnergyBurned": 1004.7662141666667
+    },
+    {
+        "Date": "2023-08-08",
+        "TotalBasalEnergyBurned": 1051.4943236111112
+    },
+    {
+        "Date": "2023-08-09",
+        "TotalBasalEnergyBurned": 1130.0788902777779
+    },
+    {
+        "Date": "2023-08-10",
+        "TotalBasalEnergyBurned": 887.1463086111111
+    },
+    {
+        "Date": "2023-08-11",
+        "TotalBasalEnergyBurned": 1041.7863486111112
+    },
+    {
+        "Date": "2023-08-12",
+        "TotalBasalEnergyBurned": 926.2833958333333
+    },
+    {
+        "Date": "2023-08-13",
+        "TotalBasalEnergyBurned": 1008.6775247222223
+    },
+    {
+        "Date": "2023-08-14",
+        "TotalBasalEnergyBurned": 962.234018888889
+    },
+    {
+        "Date": "2023-08-15",
+        "TotalBasalEnergyBurned": 1004.3359969444444
+    },
+    {
+        "Date": "2023-08-16",
+        "TotalBasalEnergyBurned": 1043.9935875
+    },
+    {
+        "Date": "2023-08-17",
+        "TotalBasalEnergyBurned": 843.65669
+    },
+    {
+        "Date": "2023-08-18",
+        "TotalBasalEnergyBurned": 1058.7037230555557
+    },
+    {
+        "Date": "2023-08-19",
+        "TotalBasalEnergyBurned": 887.8489736111111
+    },
+    {
+        "Date": "2023-08-20",
+        "TotalBasalEnergyBurned": 909.1905380555556
+    },
+    {
+        "Date": "2023-08-21",
+        "TotalBasalEnergyBurned": 1010.5265077777777
+    },
+    {
+        "Date": "2023-08-22",
+        "TotalBasalEnergyBurned": 1113.8828377777777
+    },
+    {
+        "Date": "2023-08-23",
+        "TotalBasalEnergyBurned": 1042.0378622222222
+    },
+    {
+        "Date": "2023-08-24",
+        "TotalBasalEnergyBurned": 950.9730666666667
+    },
+    {
+        "Date": "2023-08-25",
+        "TotalBasalEnergyBurned": 952.2446430555556
+    },
+    {
+        "Date": "2023-08-26",
+        "TotalBasalEnergyBurned": 1005.4457802777778
+    },
+    {
+        "Date": "2023-08-27",
+        "TotalBasalEnergyBurned": 976.0073338888889
+    },
+    {
+        "Date": "2023-08-28",
+        "TotalBasalEnergyBurned": 1151.0035572222223
+    },
+    {
+        "Date": "2023-08-29",
+        "TotalBasalEnergyBurned": 1087.5856280555556
+    },
+    {
+        "Date": "2023-08-30",
+        "TotalBasalEnergyBurned": 1245.4925097222222
+    },
+    {
+        "Date": "2023-08-31",
+        "TotalBasalEnergyBurned": 1019.3843008333333
+    },
+    {
+        "Date": "2023-09-01",
+        "TotalBasalEnergyBurned": 1084.965731388889
+    },
+    {
+        "Date": "2023-09-02",
+        "TotalBasalEnergyBurned": 1050.145451388889
+    },
+    {
+        "Date": "2023-09-03",
+        "TotalBasalEnergyBurned": 1035.0381908333334
+    },
+    {
+        "Date": "2023-09-04",
+        "TotalBasalEnergyBurned": 890.8530077777779
+    },
+    {
+        "Date": "2023-09-05",
+        "TotalBasalEnergyBurned": 866.6915208333334
+    },
+    {
+        "Date": "2023-09-06",
+        "TotalBasalEnergyBurned": 899.8241513888889
+    },
+    {
+        "Date": "2023-09-07",
+        "TotalBasalEnergyBurned": 942.4038091666666
+    },
+    {
+        "Date": "2023-09-08",
+        "TotalBasalEnergyBurned": 1280.2058708333334
+    },
+    {
+        "Date": "2023-09-09",
+        "TotalBasalEnergyBurned": 1110.2005111111112
+    },
+    {
+        "Date": "2023-09-10",
+        "TotalBasalEnergyBurned": 881.8058716666667
+    },
+    {
+        "Date": "2023-09-11",
+        "TotalBasalEnergyBurned": 1053.5823480555555
+    },
+    {
+        "Date": "2023-09-12",
+        "TotalBasalEnergyBurned": 973.3213275
+    },
+    {
+        "Date": "2023-09-13",
+        "TotalBasalEnergyBurned": 987.1858769444444
+    },
+    {
+        "Date": "2023-09-14",
+        "TotalBasalEnergyBurned": 1124.2236783333333
+    },
+    {
+        "Date": "2023-09-15",
+        "TotalBasalEnergyBurned": 931.2075136111112
+    },
+    {
+        "Date": "2023-09-16",
+        "TotalBasalEnergyBurned": 1282.3599608333334
+    },
+    {
+        "Date": "2023-09-17",
+        "TotalBasalEnergyBurned": 932.8647436111111
+    },
+    {
+        "Date": "2023-09-18",
+        "TotalBasalEnergyBurned": 923.8692444444445
+    },
+    {
+        "Date": "2023-09-19",
+        "TotalBasalEnergyBurned": 1054.4152916666667
+    },
+    {
+        "Date": "2023-09-20",
+        "TotalBasalEnergyBurned": 954.7598869444445
+    },
+    {
+        "Date": "2023-09-21",
+        "TotalBasalEnergyBurned": 920.7125719444444
+    },
+    {
+        "Date": "2023-09-22",
+        "TotalBasalEnergyBurned": 905.9391866666667
+    },
+    {
+        "Date": "2023-09-23",
+        "TotalBasalEnergyBurned": 998.3133752777778
+    },
+    {
+        "Date": "2023-09-24",
+        "TotalBasalEnergyBurned": 1007.7256508333334
+    },
+    {
+        "Date": "2023-09-25",
+        "TotalBasalEnergyBurned": 948.4911027777778
+    },
+    {
+        "Date": "2023-09-26",
+        "TotalBasalEnergyBurned": 963.0812222222222
+    },
+    {
+        "Date": "2023-09-27",
+        "TotalBasalEnergyBurned": 924.4941113888889
+    },
+    {
+        "Date": "2023-09-28",
+        "TotalBasalEnergyBurned": 909.9012688888889
+    },
+    {
+        "Date": "2023-09-29",
+        "TotalBasalEnergyBurned": 964.7152302777778
+    },
+    {
+        "Date": "2023-09-30",
+        "TotalBasalEnergyBurned": 1090.7895947222223
+    },
+    {
+        "Date": "2023-10-01",
+        "TotalBasalEnergyBurned": 962.5839205555556
+    },
+    {
+        "Date": "2023-10-02",
+        "TotalBasalEnergyBurned": 897.5817377777778
+    },
+    {
+        "Date": "2023-10-03",
+        "TotalBasalEnergyBurned": 850.1685813888889
+    },
+    {
+        "Date": "2023-10-04",
+        "TotalBasalEnergyBurned": 937.5385666666667
+    },
+    {
+        "Date": "2023-10-05",
+        "TotalBasalEnergyBurned": 1054.2599416666667
+    },
+    {
+        "Date": "2023-10-06",
+        "TotalBasalEnergyBurned": 897.0824283333334
+    },
+    {
+        "Date": "2023-10-07",
+        "TotalBasalEnergyBurned": 1028.0861122222223
+    },
+    {
+        "Date": "2023-10-08",
+        "TotalBasalEnergyBurned": 1036.2691125000001
+    },
+    {
+        "Date": "2023-10-09",
+        "TotalBasalEnergyBurned": 963.2802519444444
+    },
+    {
+        "Date": "2023-10-10",
+        "TotalBasalEnergyBurned": 955.1259327777778
+    },
+    {
+        "Date": "2023-10-11",
+        "TotalBasalEnergyBurned": 922.0210905555556
+    },
+    {
+        "Date": "2023-10-12",
+        "TotalBasalEnergyBurned": 988.6355152777778
+    },
+    {
+        "Date": "2023-10-13",
+        "TotalBasalEnergyBurned": 983.5768488888889
+    },
+    {
+        "Date": "2023-10-14",
+        "TotalBasalEnergyBurned": 993.0131341666666
+    },
+    {
+        "Date": "2023-10-15",
+        "TotalBasalEnergyBurned": 1079.8475241666667
+    },
+    {
+        "Date": "2023-10-16",
+        "TotalBasalEnergyBurned": 982.2155866666667
+    },
+    {
+        "Date": "2023-10-17",
+        "TotalBasalEnergyBurned": 763.5542094444445
+    },
+    {
+        "Date": "2023-10-18",
+        "TotalBasalEnergyBurned": 1036.9455241666667
+    },
+    {
+        "Date": "2023-10-19",
+        "TotalBasalEnergyBurned": 975.9522280555556
+    },
+    {
+        "Date": "2023-10-20",
+        "TotalBasalEnergyBurned": 1054.6450558333333
+    },
+    {
+        "Date": "2023-10-21",
+        "TotalBasalEnergyBurned": 769.7638666666667
+    },
+    {
+        "Date": "2023-10-22",
+        "TotalBasalEnergyBurned": 861.5170488888889
+    },
+    {
+        "Date": "2023-10-23",
+        "TotalBasalEnergyBurned": 799.7620397222222
+    },
+    {
+        "Date": "2023-10-24",
+        "TotalBasalEnergyBurned": 1148.9160730555557
+    },
+    {
+        "Date": "2023-10-25",
+        "TotalBasalEnergyBurned": 975.9785708333334
+    },
+    {
+        "Date": "2023-10-26",
+        "TotalBasalEnergyBurned": 886.4328763888889
+    },
+    {
+        "Date": "2023-10-27",
+        "TotalBasalEnergyBurned": 966.6185158333334
+    },
+    {
+        "Date": "2023-10-28",
+        "TotalBasalEnergyBurned": 1065.9800633333334
+    },
+    {
+        "Date": "2023-10-29",
+        "TotalBasalEnergyBurned": 1003.5064180555555
+    },
+    {
+        "Date": "2023-10-30",
+        "TotalBasalEnergyBurned": 964.9849480555556
+    },
+    {
+        "Date": "2023-10-31",
+        "TotalBasalEnergyBurned": 945.1569294444445
+    },
+    {
+        "Date": "2023-11-01",
+        "TotalBasalEnergyBurned": 1017.5482305555556
+    },
+    {
+        "Date": "2023-11-02",
+        "TotalBasalEnergyBurned": 960.154935
+    },
+    {
+        "Date": "2023-11-03",
+        "TotalBasalEnergyBurned": 1001.3788561111111
+    },
+    {
+        "Date": "2023-11-04",
+        "TotalBasalEnergyBurned": 1213.0015019444445
+    },
+    {
+        "Date": "2023-11-05",
+        "TotalBasalEnergyBurned": 1008.5165558333333
+    },
+    {
+        "Date": "2023-11-06",
+        "TotalBasalEnergyBurned": 1002.6846002777778
+    },
+    {
+        "Date": "2023-11-07",
+        "TotalBasalEnergyBurned": 965.8004872222223
+    },
+    {
+        "Date": "2023-11-08",
+        "TotalBasalEnergyBurned": 806.9640341666667
+    },
+    {
+        "Date": "2023-11-09",
+        "TotalBasalEnergyBurned": 941.9762736111111
+    },
+    {
+        "Date": "2023-11-10",
+        "TotalBasalEnergyBurned": 1112.1466675
+    },
+    {
+        "Date": "2023-11-11",
+        "TotalBasalEnergyBurned": 886.7749111111111
+    },
+    {
+        "Date": "2023-11-12",
+        "TotalBasalEnergyBurned": 831.0996391666666
+    },
+    {
+        "Date": "2023-11-13",
+        "TotalBasalEnergyBurned": 1028.2882569444444
+    },
+    {
+        "Date": "2023-11-14",
+        "TotalBasalEnergyBurned": 978.1580925
+    },
+    {
+        "Date": "2023-11-15",
+        "TotalBasalEnergyBurned": 924.3929183333333
+    },
+    {
+        "Date": "2023-11-16",
+        "TotalBasalEnergyBurned": 904.9477527777779
+    },
+    {
+        "Date": "2023-11-17",
+        "TotalBasalEnergyBurned": 926.3205661111111
+    },
+    {
+        "Date": "2023-11-18",
+        "TotalBasalEnergyBurned": 1117.49319
+    },
+    {
+        "Date": "2023-11-19",
+        "TotalBasalEnergyBurned": 1134.4571819444445
+    },
+    {
+        "Date": "2023-11-20",
+        "TotalBasalEnergyBurned": 983.6817994444444
+    },
+    {
+        "Date": "2023-11-21",
+        "TotalBasalEnergyBurned": 1060.826728888889
+    },
+    {
+        "Date": "2023-11-22",
+        "TotalBasalEnergyBurned": 991.4286011111111
+    },
+    {
+        "Date": "2023-11-23",
+        "TotalBasalEnergyBurned": 949.5484913888889
+    },
+    {
+        "Date": "2023-11-24",
+        "TotalBasalEnergyBurned": 1066.9385563888889
+    },
+    {
+        "Date": "2023-11-25",
+        "TotalBasalEnergyBurned": 1089.8140761111113
+    },
+    {
+        "Date": "2023-11-26",
+        "TotalBasalEnergyBurned": 1093.6066402777778
+    },
+    {
+        "Date": "2023-11-27",
+        "TotalBasalEnergyBurned": 1019.7780541666667
+    },
+    {
+        "Date": "2023-11-28",
+        "TotalBasalEnergyBurned": 745.189305
+    },
+    {
+        "Date": "2023-11-29",
+        "TotalBasalEnergyBurned": 1003.5177105555556
+    },
+    {
+        "Date": "2023-11-30",
+        "TotalBasalEnergyBurned": 1106.9058158333335
+    },
+    {
+        "Date": "2023-12-01",
+        "TotalBasalEnergyBurned": 1277.5416216666667
+    },
+    {
+        "Date": "2023-12-02",
+        "TotalBasalEnergyBurned": 1104.8887897222223
+    },
+    {
+        "Date": "2023-12-03",
+        "TotalBasalEnergyBurned": 1152.38624
+    },
+    {
+        "Date": "2023-12-04",
+        "TotalBasalEnergyBurned": 976.9947436111111
+    },
+    {
+        "Date": "2023-12-05",
+        "TotalBasalEnergyBurned": 1027.8144302777778
+    },
+    {
+        "Date": "2023-12-06",
+        "TotalBasalEnergyBurned": 1126.9037575
+    },
+    {
+        "Date": "2023-12-07",
+        "TotalBasalEnergyBurned": 991.6478233333333
+    },
+    {
+        "Date": "2023-12-08",
+        "TotalBasalEnergyBurned": 972.3979527777778
+    },
+    {
+        "Date": "2023-12-09",
+        "TotalBasalEnergyBurned": 1195.6161733333333
+    },
+    {
+        "Date": "2023-12-10",
+        "TotalBasalEnergyBurned": 979.8610747222223
+    },
+    {
+        "Date": "2023-12-11",
+        "TotalBasalEnergyBurned": 1098.8877691666667
+    },
+    {
+        "Date": "2023-12-12",
+        "TotalBasalEnergyBurned": 1073.1884763888888
+    },
+    {
+        "Date": "2023-12-13",
+        "TotalBasalEnergyBurned": 965.2017483333334
+    },
+    {
+        "Date": "2023-12-14",
+        "TotalBasalEnergyBurned": 957.4947227777778
+    },
+    {
+        "Date": "2023-12-15",
+        "TotalBasalEnergyBurned": 1048.1369277777778
+    },
+    {
+        "Date": "2023-12-16",
+        "TotalBasalEnergyBurned": 1000.9834147222223
+    },
+    {
+        "Date": "2023-12-17",
+        "TotalBasalEnergyBurned": 1199.6141061111111
+    },
+    {
+        "Date": "2023-12-18",
+        "TotalBasalEnergyBurned": 942.8906752777777
+    },
+    {
+        "Date": "2023-12-19",
+        "TotalBasalEnergyBurned": 1063.1276380555555
+    },
+    {
+        "Date": "2023-12-20",
+        "TotalBasalEnergyBurned": 1032.011895
+    },
+    {
+        "Date": "2023-12-21",
+        "TotalBasalEnergyBurned": 1051.2031077777779
+    },
+    {
+        "Date": "2023-12-22",
+        "TotalBasalEnergyBurned": 954.4639138888889
+    },
+    {
+        "Date": "2023-12-23",
+        "TotalBasalEnergyBurned": 1018.4449527777778
+    },
+    {
+        "Date": "2023-12-24",
+        "TotalBasalEnergyBurned": 933.5380213888889
+    },
+    {
+        "Date": "2023-12-25",
+        "TotalBasalEnergyBurned": 865.3710502777778
+    },
+    {
+        "Date": "2023-12-26",
+        "TotalBasalEnergyBurned": 924.5466913888889
+    },
+    {
+        "Date": "2023-12-27",
+        "TotalBasalEnergyBurned": 960.6830844444445
+    },
+    {
+        "Date": "2023-12-28",
+        "TotalBasalEnergyBurned": 975.4071044444445
+    },
+    {
+        "Date": "2023-12-29",
+        "TotalBasalEnergyBurned": 958.8004213888889
+    },
+    {
+        "Date": "2023-12-30",
+        "TotalBasalEnergyBurned": 820.8188277777778
+    },
+    {
+        "Date": "2023-12-31",
+        "TotalBasalEnergyBurned": 1202.0857308333334
+    },
+    {
+        "Date": "2024-01-01",
+        "TotalBasalEnergyBurned": 1046.8501505555555
+    },
+    {
+        "Date": "2024-01-02",
+        "TotalBasalEnergyBurned": 1094.0825194444444
+    },
+    {
+        "Date": "2024-01-03",
+        "TotalBasalEnergyBurned": 791.9426316666667
+    },
+    {
+        "Date": "2024-01-04",
+        "TotalBasalEnergyBurned": 976.9525441666667
+    },
+    {
+        "Date": "2024-01-05",
+        "TotalBasalEnergyBurned": 1000.8999827777778
+    },
+    {
+        "Date": "2024-01-06",
+        "TotalBasalEnergyBurned": 975.0862669444444
+    },
+    {
+        "Date": "2024-01-07",
+        "TotalBasalEnergyBurned": 905.9409905555556
+    },
+    {
+        "Date": "2024-01-08",
+        "TotalBasalEnergyBurned": 777.3337791666667
+    },
+    {
+        "Date": "2024-01-09",
+        "TotalBasalEnergyBurned": 952.6571002777778
+    },
+    {
+        "Date": "2024-01-10",
+        "TotalBasalEnergyBurned": 889.5217855555555
+    },
+    {
+        "Date": "2024-01-11",
+        "TotalBasalEnergyBurned": 916.9951252777778
+    },
+    {
+        "Date": "2024-01-12",
+        "TotalBasalEnergyBurned": 771.6876119444445
+    },
+    {
+        "Date": "2024-01-13",
+        "TotalBasalEnergyBurned": 1091.6657475
+    },
+    {
+        "Date": "2024-01-14",
+        "TotalBasalEnergyBurned": 978.6801994444445
+    },
+    {
+        "Date": "2024-01-15",
+        "TotalBasalEnergyBurned": 1006.6253788888889
+    },
+    {
+        "Date": "2024-01-16",
+        "TotalBasalEnergyBurned": 771.5162869444445
+    },
+    {
+        "Date": "2024-01-17",
+        "TotalBasalEnergyBurned": 918.9654186111111
+    },
+    {
+        "Date": "2024-01-18",
+        "TotalBasalEnergyBurned": 989.4132758333334
+    },
+    {
+        "Date": "2024-01-19",
+        "TotalBasalEnergyBurned": 1026.3743322222222
+    },
+    {
+        "Date": "2024-01-20",
+        "TotalBasalEnergyBurned": 1128.1371533333333
+    },
+    {
+        "Date": "2024-01-21",
+        "TotalBasalEnergyBurned": 934.9705572222223
+    },
+    {
+        "Date": "2024-01-22",
+        "TotalBasalEnergyBurned": 759.25518
+    },
+    {
+        "Date": "2024-01-23",
+        "TotalBasalEnergyBurned": 999.1027047222223
+    },
+    {
+        "Date": "2024-01-24",
+        "TotalBasalEnergyBurned": 1047.9665336111111
+    },
+    {
+        "Date": "2024-01-25",
+        "TotalBasalEnergyBurned": 954.768558888889
+    },
+    {
+        "Date": "2024-01-26",
+        "TotalBasalEnergyBurned": 1373.9559972222223
+    },
+    {
+        "Date": "2024-01-27",
+        "TotalBasalEnergyBurned": 1018.7497897222222
+    },
+    {
+        "Date": "2024-01-28",
+        "TotalBasalEnergyBurned": 1021.3104416666666
+    },
+    {
+        "Date": "2024-01-29",
+        "TotalBasalEnergyBurned": 1106.1294469444445
+    },
+    {
+        "Date": "2024-01-30",
+        "TotalBasalEnergyBurned": 1033.3670638888889
+    },
+    {
+        "Date": "2024-01-31",
+        "TotalBasalEnergyBurned": 1065.7450561111111
+    },
+    {
+        "Date": "2024-02-01",
+        "TotalBasalEnergyBurned": 1088.1994691666666
+    },
+    {
+        "Date": "2024-02-02",
+        "TotalBasalEnergyBurned": 1060.552798611111
+    },
+    {
+        "Date": "2024-02-03",
+        "TotalBasalEnergyBurned": 1232.7840875
+    },
+    {
+        "Date": "2024-02-04",
+        "TotalBasalEnergyBurned": 1228.0528972222223
+    },
+    {
+        "Date": "2024-02-05",
+        "TotalBasalEnergyBurned": 1019.5468355555556
+    },
+    {
+        "Date": "2024-02-06",
+        "TotalBasalEnergyBurned": 1250.8918733333335
+    },
+    {
+        "Date": "2024-02-07",
+        "TotalBasalEnergyBurned": 1159.4389325
+    },
+    {
+        "Date": "2024-02-08",
+        "TotalBasalEnergyBurned": 1068.6820294444444
+    },
+    {
+        "Date": "2024-02-09",
+        "TotalBasalEnergyBurned": 1251.8757166666667
+    },
+    {
+        "Date": "2024-02-10",
+        "TotalBasalEnergyBurned": 987.1928722222223
+    },
+    {
+        "Date": "2024-02-11",
+        "TotalBasalEnergyBurned": 1014.4335752777778
+    },
+    {
+        "Date": "2024-02-12",
+        "TotalBasalEnergyBurned": 1059.860398888889
+    },
+    {
+        "Date": "2024-02-13",
+        "TotalBasalEnergyBurned": 879.3097619444445
+    },
+    {
+        "Date": "2024-02-14",
+        "TotalBasalEnergyBurned": 886.9910933333333
+    },
+    {
+        "Date": "2024-02-15",
+        "TotalBasalEnergyBurned": 1033.077936388889
+    },
+    {
+        "Date": "2024-02-16",
+        "TotalBasalEnergyBurned": 951.2351577777778
+    },
+    {
+        "Date": "2024-02-17",
+        "TotalBasalEnergyBurned": 814.3687013888889
+    },
+    {
+        "Date": "2024-02-18",
+        "TotalBasalEnergyBurned": 1125.5018619444445
+    },
+    {
+        "Date": "2024-02-19",
+        "TotalBasalEnergyBurned": 881.1667766666667
+    },
+    {
+        "Date": "2024-02-20",
+        "TotalBasalEnergyBurned": 1071.401976111111
+    },
+    {
+        "Date": "2024-02-21",
+        "TotalBasalEnergyBurned": 867.9827913888889
+    },
+    {
+        "Date": "2024-02-22",
+        "TotalBasalEnergyBurned": 999.5958791666667
+    },
+    {
+        "Date": "2024-02-23",
+        "TotalBasalEnergyBurned": 915.8087008333333
+    },
+    {
+        "Date": "2024-02-24",
+        "TotalBasalEnergyBurned": 1015.3404655555556
+    },
+    {
+        "Date": "2024-02-25",
+        "TotalBasalEnergyBurned": 961.8572852777778
+    },
+    {
+        "Date": "2024-02-26",
+        "TotalBasalEnergyBurned": 1123.9928669444444
+    },
+    {
+        "Date": "2024-02-27",
+        "TotalBasalEnergyBurned": 1228.1735172222222
+    },
+    {
+        "Date": "2024-02-28",
+        "TotalBasalEnergyBurned": 1135.6129041666668
+    },
+    {
+        "Date": "2024-02-29",
+        "TotalBasalEnergyBurned": 1213.258900277778
+    },
+    {
+        "Date": "2024-03-01",
+        "TotalBasalEnergyBurned": 1005.3253016666666
+    },
+    {
+        "Date": "2024-03-02",
+        "TotalBasalEnergyBurned": 1409.8001694444445
+    },
+    {
+        "Date": "2024-03-03",
+        "TotalBasalEnergyBurned": 1171.3572544444444
+    },
+    {
+        "Date": "2024-03-04",
+        "TotalBasalEnergyBurned": 1235.3480591666666
+    },
+    {
+        "Date": "2024-03-05",
+        "TotalBasalEnergyBurned": 1074.0531175
+    },
+    {
+        "Date": "2024-03-06",
+        "TotalBasalEnergyBurned": 1239.3632447222221
+    },
+    {
+        "Date": "2024-03-07",
+        "TotalBasalEnergyBurned": 1152.2048033333333
+    },
+    {
+        "Date": "2024-03-08",
+        "TotalBasalEnergyBurned": 1107.1936916666666
+    },
+    {
+        "Date": "2024-03-09",
+        "TotalBasalEnergyBurned": 1038.2436833333334
+    },
+    {
+        "Date": "2024-03-10",
+        "TotalBasalEnergyBurned": 1023.3604461111112
+    },
+    {
+        "Date": "2024-03-11",
+        "TotalBasalEnergyBurned": 1212.9040505555556
+    },
+    {
+        "Date": "2024-03-12",
+        "TotalBasalEnergyBurned": 1096.1169183333334
+    },
+    {
+        "Date": "2024-03-13",
+        "TotalBasalEnergyBurned": 1155.3945805555556
+    },
+    {
+        "Date": "2024-03-14",
+        "TotalBasalEnergyBurned": 1236.1872905555556
+    },
+    {
+        "Date": "2024-03-15",
+        "TotalBasalEnergyBurned": 1192.0203141666666
+    },
+    {
+        "Date": "2024-03-16",
+        "TotalBasalEnergyBurned": 1274.6734202777777
+    },
+    {
+        "Date": "2024-03-17",
+        "TotalBasalEnergyBurned": 1221.4444788888889
+    },
+    {
+        "Date": "2024-03-18",
+        "TotalBasalEnergyBurned": 1260.7257266666668
+    },
+    {
+        "Date": "2024-03-19",
+        "TotalBasalEnergyBurned": 1332.57393
+    },
+    {
+        "Date": "2024-03-20",
+        "TotalBasalEnergyBurned": 1224.9721558333333
+    },
+    {
+        "Date": "2024-03-21",
+        "TotalBasalEnergyBurned": 1284.7303594444445
+    },
+    {
+        "Date": "2024-03-22",
+        "TotalBasalEnergyBurned": 1202.539053888889
+    },
+    {
+        "Date": "2024-03-23",
+        "TotalBasalEnergyBurned": 1153.2616355555556
+    },
+    {
+        "Date": "2024-03-24",
+        "TotalBasalEnergyBurned": 1198.8763736111111
+    },
+    {
+        "Date": "2024-03-25",
+        "TotalBasalEnergyBurned": 1214.3171311111112
+    },
+    {
+        "Date": "2024-03-26",
+        "TotalBasalEnergyBurned": 1302.716561111111
+    },
+    {
+        "Date": "2024-03-27",
+        "TotalBasalEnergyBurned": 1188.1939944444446
+    },
+    {
+        "Date": "2024-03-28",
+        "TotalBasalEnergyBurned": 1277.2368444444444
+    },
+    {
+        "Date": "2024-03-29",
+        "TotalBasalEnergyBurned": 1171.1970816666667
+    },
+    {
+        "Date": "2024-03-30",
+        "TotalBasalEnergyBurned": 1225.1267866666667
+    },
+    {
+        "Date": "2024-03-31",
+        "TotalBasalEnergyBurned": 1275.3767688888888
+    },
+    {
+        "Date": "2024-04-01",
+        "TotalBasalEnergyBurned": 1219.8051036111112
+    },
+    {
+        "Date": "2024-04-02",
+        "TotalBasalEnergyBurned": 1197.4464330555556
+    },
+    {
+        "Date": "2024-04-03",
+        "TotalBasalEnergyBurned": 1289.0950075
+    },
+    {
+        "Date": "2024-04-04",
+        "TotalBasalEnergyBurned": 1216.2858380555556
+    },
+    {
+        "Date": "2024-04-05",
+        "TotalBasalEnergyBurned": 1117.7169847222222
+    },
+    {
+        "Date": "2024-04-06",
+        "TotalBasalEnergyBurned": 1175.3430672222223
+    },
+    {
+        "Date": "2024-04-07",
+        "TotalBasalEnergyBurned": 1084.80618
+    },
+    {
+        "Date": "2024-04-08",
+        "TotalBasalEnergyBurned": 1148.8690822222222
+    },
+    {
+        "Date": "2024-04-09",
+        "TotalBasalEnergyBurned": 1375.4306172222223
+    },
+    {
+        "Date": "2024-04-10",
+        "TotalBasalEnergyBurned": 913.3231252777778
+    },
+    {
+        "Date": "2024-04-11",
+        "TotalBasalEnergyBurned": 1202.729981388889
+    },
+    {
+        "Date": "2024-04-12",
+        "TotalBasalEnergyBurned": 1165.7873366666668
+    },
+    {
+        "Date": "2024-04-13",
+        "TotalBasalEnergyBurned": 1250.050346388889
+    },
+    {
+        "Date": "2024-04-14",
+        "TotalBasalEnergyBurned": 1148.904195
+    },
+    {
+        "Date": "2024-04-15",
+        "TotalBasalEnergyBurned": 1074.5378077777777
+    },
+    {
+        "Date": "2024-04-16",
+        "TotalBasalEnergyBurned": 1061.938571111111
+    },
+    {
+        "Date": "2024-04-17",
+        "TotalBasalEnergyBurned": 991.2464891666667
+    },
+    {
+        "Date": "2024-04-18",
+        "TotalBasalEnergyBurned": 1069.9690208333334
+    },
+    {
+        "Date": "2024-04-19",
+        "TotalBasalEnergyBurned": 853.624195
+    },
+    {
+        "Date": "2024-04-20",
+        "TotalBasalEnergyBurned": 1200.4950363888888
+    },
+    {
+        "Date": "2024-04-21",
+        "TotalBasalEnergyBurned": 1104.3488469444444
+    },
+    {
+        "Date": "2024-04-22",
+        "TotalBasalEnergyBurned": 1214.6997666666666
+    },
+    {
+        "Date": "2024-04-23",
+        "TotalBasalEnergyBurned": 1022.5149725
+    },
+    {
+        "Date": "2024-04-24",
+        "TotalBasalEnergyBurned": 1139.2235291666666
+    },
+    {
+        "Date": "2024-04-25",
+        "TotalBasalEnergyBurned": 1374.47375
+    },
+    {
+        "Date": "2024-04-26",
+        "TotalBasalEnergyBurned": 1059.7907311111112
+    },
+    {
+        "Date": "2024-04-27",
+        "TotalBasalEnergyBurned": 999.6334791666667
+    },
+    {
+        "Date": "2024-04-28",
+        "TotalBasalEnergyBurned": 1115.9445527777777
+    },
+    {
+        "Date": "2024-04-29",
+        "TotalBasalEnergyBurned": 1173.0566647222222
+    },
+    {
+        "Date": "2024-04-30",
+        "TotalBasalEnergyBurned": 1009.3289550000001
+    },
+    {
+        "Date": "2024-05-01",
+        "TotalBasalEnergyBurned": 1188.5159252777778
+    },
+    {
+        "Date": "2024-05-02",
+        "TotalBasalEnergyBurned": 1178.8855652777777
+    },
+    {
+        "Date": "2024-05-03",
+        "TotalBasalEnergyBurned": 1101.4874777777777
+    },
+    {
+        "Date": "2024-05-04",
+        "TotalBasalEnergyBurned": 1314.823975
+    },
+    {
+        "Date": "2024-05-05",
+        "TotalBasalEnergyBurned": 1036.9604377777778
+    },
+    {
+        "Date": "2024-05-06",
+        "TotalBasalEnergyBurned": 1266.649825
+    },
+    {
+        "Date": "2024-05-07",
+        "TotalBasalEnergyBurned": 1154.0330897222223
+    },
+    {
+        "Date": "2024-05-08",
+        "TotalBasalEnergyBurned": 1208.1322205555555
+    },
+    {
+        "Date": "2024-05-09",
+        "TotalBasalEnergyBurned": 1152.142801111111
+    },
+    {
+        "Date": "2024-05-10",
+        "TotalBasalEnergyBurned": 1119.8758966666667
+    },
+    {
+        "Date": "2024-05-11",
+        "TotalBasalEnergyBurned": 1178.7118369444445
+    },
+    {
+        "Date": "2024-05-12",
+        "TotalBasalEnergyBurned": 1192.7408655555555
+    },
+    {
+        "Date": "2024-05-13",
+        "TotalBasalEnergyBurned": 1349.2008877777778
+    },
+    {
+        "Date": "2024-05-14",
+        "TotalBasalEnergyBurned": 1150.103595
+    },
+    {
+        "Date": "2024-05-15",
+        "TotalBasalEnergyBurned": 1101.9871355555556
+    },
+    {
+        "Date": "2024-05-16",
+        "TotalBasalEnergyBurned": 1219.7661138888889
+    },
+    {
+        "Date": "2024-05-17",
+        "TotalBasalEnergyBurned": 1099.1648941666667
+    },
+    {
+        "Date": "2024-05-18",
+        "TotalBasalEnergyBurned": 916.0840947222223
+    },
+    {
+        "Date": "2024-05-19",
+        "TotalBasalEnergyBurned": 1232.7510563888889
+    },
+    {
+        "Date": "2024-05-20",
+        "TotalBasalEnergyBurned": 1083.8156405555555
+    },
+    {
+        "Date": "2024-05-21",
+        "TotalBasalEnergyBurned": 1121.437356111111
+    },
+    {
+        "Date": "2024-05-22",
+        "TotalBasalEnergyBurned": 1178.1923211111111
+    },
+    {
+        "Date": "2024-05-23",
+        "TotalBasalEnergyBurned": 1305.4074786111112
+    },
+    {
+        "Date": "2024-05-24",
+        "TotalBasalEnergyBurned": 1114.3677905555555
+    },
+    {
+        "Date": "2024-05-25",
+        "TotalBasalEnergyBurned": 1084.371093611111
+    },
+    {
+        "Date": "2024-05-26",
+        "TotalBasalEnergyBurned": 1141.9550716666668
+    },
+    {
+        "Date": "2024-05-27",
+        "TotalBasalEnergyBurned": 1073.8200572222222
+    },
+    {
+        "Date": "2024-05-28",
+        "TotalBasalEnergyBurned": 1349.553273611111
+    },
+    {
+        "Date": "2024-05-29",
+        "TotalBasalEnergyBurned": 1086.6312980555556
+    },
+    {
+        "Date": "2024-05-30",
+        "TotalBasalEnergyBurned": 975.7123280555555
+    },
+    {
+        "Date": "2024-05-31",
+        "TotalBasalEnergyBurned": 1180.7867044444445
+    },
+    {
+        "Date": "2024-06-01",
+        "TotalBasalEnergyBurned": 1020.3669947222222
+    },
+    {
+        "Date": "2024-06-02",
+        "TotalBasalEnergyBurned": 1177.211798888889
+    },
+    {
+        "Date": "2024-06-03",
+        "TotalBasalEnergyBurned": 1047.5707961111111
+    },
+    {
+        "Date": "2024-06-04",
+        "TotalBasalEnergyBurned": 1167.6751130555556
+    },
+    {
+        "Date": "2024-06-05",
+        "TotalBasalEnergyBurned": 925.7698244444445
+    },
+    {
+        "Date": "2024-06-06",
+        "TotalBasalEnergyBurned": 1064.791705
+    },
+    {
+        "Date": "2024-06-07",
+        "TotalBasalEnergyBurned": 1099.344206388889
+    },
+    {
+        "Date": "2024-06-08",
+        "TotalBasalEnergyBurned": 1053.4129247222222
+    },
+    {
+        "Date": "2024-06-09",
+        "TotalBasalEnergyBurned": 1013.7835011111111
+    },
+    {
+        "Date": "2024-06-10",
+        "TotalBasalEnergyBurned": 1191.0844130555556
+    },
+    {
+        "Date": "2024-06-11",
+        "TotalBasalEnergyBurned": 1082.4678327777779
+    },
+    {
+        "Date": "2024-06-12",
+        "TotalBasalEnergyBurned": 996.9151391666667
+    },
+    {
+        "Date": "2024-06-13",
+        "TotalBasalEnergyBurned": 1133.5937491666666
+    },
+    {
+        "Date": "2024-06-14",
+        "TotalBasalEnergyBurned": 1200.5916741666667
+    },
+    {
+        "Date": "2024-06-15",
+        "TotalBasalEnergyBurned": 1131.6607
+    },
+    {
+        "Date": "2024-06-16",
+        "TotalBasalEnergyBurned": 1114.126818888889
+    },
+    {
+        "Date": "2024-06-17",
+        "TotalBasalEnergyBurned": 1132.0147494444445
+    },
+    {
+        "Date": "2024-06-18",
+        "TotalBasalEnergyBurned": 1308.7807588888888
+    },
+    {
+        "Date": "2024-06-19",
+        "TotalBasalEnergyBurned": 1197.9480800000001
+    },
+    {
+        "Date": "2024-06-20",
+        "TotalBasalEnergyBurned": 989.5192569444445
+    },
+    {
+        "Date": "2024-06-21",
+        "TotalBasalEnergyBurned": 1092.1267338888888
+    },
+    {
+        "Date": "2024-06-22",
+        "TotalBasalEnergyBurned": 1185.013075
+    },
+    {
+        "Date": "2024-06-23",
+        "TotalBasalEnergyBurned": 1185.1506030555556
+    },
+    {
+        "Date": "2024-06-24",
+        "TotalBasalEnergyBurned": 1083.0952194444444
+    },
+    {
+        "Date": "2024-06-25",
+        "TotalBasalEnergyBurned": 1036.1852041666666
+    },
+    {
+        "Date": "2024-06-26",
+        "TotalBasalEnergyBurned": 1114.689458888889
+    },
+    {
+        "Date": "2024-06-27",
+        "TotalBasalEnergyBurned": 990.9583652777778
+    },
+    {
+        "Date": "2024-06-28",
+        "TotalBasalEnergyBurned": 1017.1459436111111
+    },
+    {
+        "Date": "2024-06-29",
+        "TotalBasalEnergyBurned": 1171.5528366666667
+    },
+    {
+        "Date": "2024-06-30",
+        "TotalBasalEnergyBurned": 1081.8032197222224
+    },
+    {
+        "Date": "2024-07-01",
+        "TotalBasalEnergyBurned": 1205.9413330555556
+    },
+    {
+        "Date": "2024-07-02",
+        "TotalBasalEnergyBurned": 1049.7702808333333
+    },
+    {
+        "Date": "2024-07-03",
+        "TotalBasalEnergyBurned": 1035.6007641666667
+    },
+    {
+        "Date": "2024-07-04",
+        "TotalBasalEnergyBurned": 1081.0727277777778
+    },
+    {
+        "Date": "2024-07-05",
+        "TotalBasalEnergyBurned": 1129.7193816666668
+    },
+    {
+        "Date": "2024-07-06",
+        "TotalBasalEnergyBurned": 1105.3389602777777
+    },
+    {
+        "Date": "2024-07-07",
+        "TotalBasalEnergyBurned": 1250.2175277777778
+    },
+    {
+        "Date": "2024-07-08",
+        "TotalBasalEnergyBurned": 1237.832726388889
+    },
+    {
+        "Date": "2024-07-09",
+        "TotalBasalEnergyBurned": 1115.0074480555556
+    },
+    {
+        "Date": "2024-07-10",
+        "TotalBasalEnergyBurned": 1123.503230277778
+    },
+    {
+        "Date": "2024-07-11",
+        "TotalBasalEnergyBurned": 1281.0396525
+    },
+    {
+        "Date": "2024-07-12",
+        "TotalBasalEnergyBurned": 1210.3969480555556
+    },
+    {
+        "Date": "2024-07-13",
+        "TotalBasalEnergyBurned": 876.8531472222222
+    },
+    {
+        "Date": "2024-07-14",
+        "TotalBasalEnergyBurned": 1313.5044058333333
+    },
+    {
+        "Date": "2024-07-15",
+        "TotalBasalEnergyBurned": 953.5486555555556
+    },
+    {
+        "Date": "2024-07-16",
+        "TotalBasalEnergyBurned": 1376.7731830555556
+    },
+    {
+        "Date": "2024-07-17",
+        "TotalBasalEnergyBurned": 1309.236226388889
+    },
+    {
+        "Date": "2024-07-18",
+        "TotalBasalEnergyBurned": 1169.7372
+    },
+    {
+        "Date": "2024-07-19",
+        "TotalBasalEnergyBurned": 1086.6819336111112
+    },
+    {
+        "Date": "2024-07-20",
+        "TotalBasalEnergyBurned": 1153.3038319444445
+    },
+    {
+        "Date": "2024-07-21",
+        "TotalBasalEnergyBurned": 1243.2803188888888
+    },
+    {
+        "Date": "2024-07-22",
+        "TotalBasalEnergyBurned": 1116.0176927777777
+    },
+    {
+        "Date": "2024-07-23",
+        "TotalBasalEnergyBurned": 850.9851872222223
+    },
+    {
+        "Date": "2024-07-24",
+        "TotalBasalEnergyBurned": 1179.4611608333335
+    },
+    {
+        "Date": "2024-07-25",
+        "TotalBasalEnergyBurned": 1178.6531586111112
+    },
+    {
+        "Date": "2024-07-26",
+        "TotalBasalEnergyBurned": 985.6938752777778
+    },
+    {
+        "Date": "2024-07-27",
+        "TotalBasalEnergyBurned": 762.7149108333333
+    },
+    {
+        "Date": "2024-07-28",
+        "TotalBasalEnergyBurned": 1099.1101516666668
+    },
+    {
+        "Date": "2024-07-29",
+        "TotalBasalEnergyBurned": 1020.1568408333333
+    },
+    {
+        "Date": "2024-07-30",
+        "TotalBasalEnergyBurned": 1088.0331011111111
+    },
+    {
+        "Date": "2024-07-31",
+        "TotalBasalEnergyBurned": 1151.5696227777778
+    },
+    {
+        "Date": "2024-08-01",
+        "TotalBasalEnergyBurned": 1241.5317311111112
+    },
+    {
+        "Date": "2024-08-02",
+        "TotalBasalEnergyBurned": 1243.9627794444445
+    },
+    {
+        "Date": "2024-08-03",
+        "TotalBasalEnergyBurned": 1118.2557647222222
+    },
+    {
+        "Date": "2024-08-04",
+        "TotalBasalEnergyBurned": 1220.3428736111111
+    },
+    {
+        "Date": "2024-08-05",
+        "TotalBasalEnergyBurned": 1181.2877361111111
+    },
+    {
+        "Date": "2024-08-06",
+        "TotalBasalEnergyBurned": 1053.0243755555555
+    },
+    {
+        "Date": "2024-08-07",
+        "TotalBasalEnergyBurned": 1164.8889966666668
+    },
+    {
+        "Date": "2024-08-08",
+        "TotalBasalEnergyBurned": 1159.7548680555556
+    },
+    {
+        "Date": "2024-08-09",
+        "TotalBasalEnergyBurned": 1085.9691247222222
+    },
+    {
+        "Date": "2024-08-10",
+        "TotalBasalEnergyBurned": 1054.1306702777779
+    },
+    {
+        "Date": "2024-08-11",
+        "TotalBasalEnergyBurned": 1062.6165816666667
+    },
+    {
+        "Date": "2024-08-12",
+        "TotalBasalEnergyBurned": 1334.5989816666668
+    },
+    {
+        "Date": "2024-08-13",
+        "TotalBasalEnergyBurned": 1105.9837819444444
+    },
+    {
+        "Date": "2024-08-14",
+        "TotalBasalEnergyBurned": 1390.4390175
+    },
+    {
+        "Date": "2024-08-15",
+        "TotalBasalEnergyBurned": 1412.6781833333334
+    },
+    {
+        "Date": "2024-08-16",
+        "TotalBasalEnergyBurned": 1257.183161388889
+    },
+    {
+        "Date": "2024-08-17",
+        "TotalBasalEnergyBurned": 1072.6541916666667
+    },
+    {
+        "Date": "2024-08-18",
+        "TotalBasalEnergyBurned": 1146.0006319444444
+    },
+    {
+        "Date": "2024-08-19",
+        "TotalBasalEnergyBurned": 1132.1280977777778
+    },
+    {
+        "Date": "2024-08-20",
+        "TotalBasalEnergyBurned": 975.0563052777778
+    },
+    {
+        "Date": "2024-08-21",
+        "TotalBasalEnergyBurned": 1123.0455722222223
+    },
+    {
+        "Date": "2024-08-22",
+        "TotalBasalEnergyBurned": 1223.1063725000001
+    },
+    {
+        "Date": "2024-08-23",
+        "TotalBasalEnergyBurned": 1100.8203030555555
+    },
+    {
+        "Date": "2024-08-24",
+        "TotalBasalEnergyBurned": 1240.5562386111112
+    },
+    {
+        "Date": "2024-08-25",
+        "TotalBasalEnergyBurned": 1241.0858180555556
+    },
+    {
+        "Date": "2024-08-26",
+        "TotalBasalEnergyBurned": 1142.9464375
+    },
+    {
+        "Date": "2024-08-27",
+        "TotalBasalEnergyBurned": 1148.318531388889
+    },
+    {
+        "Date": "2024-08-28",
+        "TotalBasalEnergyBurned": 1225.8308122222222
+    },
+    {
+        "Date": "2024-08-29",
+        "TotalBasalEnergyBurned": 1126.5812950000002
+    },
+    {
+        "Date": "2024-08-30",
+        "TotalBasalEnergyBurned": 1194.2532441666667
+    },
+    {
+        "Date": "2024-08-31",
+        "TotalBasalEnergyBurned": 1116.9192280555555
+    },
+    {
+        "Date": "2024-09-01",
+        "TotalBasalEnergyBurned": 1165.2666655555556
+    },
+    {
+        "Date": "2024-09-02",
+        "TotalBasalEnergyBurned": 1156.1526952777779
+    },
+    {
+        "Date": "2024-09-03",
+        "TotalBasalEnergyBurned": 1195.4657375000002
+    },
+    {
+        "Date": "2024-09-04",
+        "TotalBasalEnergyBurned": 1059.6428161111112
+    },
+    {
+        "Date": "2024-09-05",
+        "TotalBasalEnergyBurned": 1217.6671030555556
+    },
+    {
+        "Date": "2024-09-06",
+        "TotalBasalEnergyBurned": 1111.7321408333335
+    },
+    {
+        "Date": "2024-09-07",
+        "TotalBasalEnergyBurned": 1035.3761491666667
+    },
+    {
+        "Date": "2024-09-08",
+        "TotalBasalEnergyBurned": 1010.751338888889
+    },
+    {
+        "Date": "2024-09-09",
+        "TotalBasalEnergyBurned": 1195.7707125000002
+    },
+    {
+        "Date": "2024-09-10",
+        "TotalBasalEnergyBurned": 1191.3082908333333
+    },
+    {
+        "Date": "2024-09-11",
+        "TotalBasalEnergyBurned": 1233.6179661111112
+    },
+    {
+        "Date": "2024-09-12",
+        "TotalBasalEnergyBurned": 904.2321102777778
+    },
+    {
+        "Date": "2024-09-13",
+        "TotalBasalEnergyBurned": 1042.2464166666666
+    },
+    {
+        "Date": "2024-09-14",
+        "TotalBasalEnergyBurned": 969.9485111111112
+    },
+    {
+        "Date": "2024-09-15",
+        "TotalBasalEnergyBurned": 1157.4325805555557
+    },
+    {
+        "Date": "2024-09-16",
+        "TotalBasalEnergyBurned": 1204.4548247222224
+    },
+    {
+        "Date": "2024-09-17",
+        "TotalBasalEnergyBurned": 1102.773068888889
+    },
+    {
+        "Date": "2024-09-18",
+        "TotalBasalEnergyBurned": 1072.7030297222223
+    },
+    {
+        "Date": "2024-09-19",
+        "TotalBasalEnergyBurned": 1085.5917611111113
+    },
+    {
+        "Date": "2024-09-20",
+        "TotalBasalEnergyBurned": 1191.5829433333333
+    },
+    {
+        "Date": "2024-09-21",
+        "TotalBasalEnergyBurned": 1128.081281388889
+    },
+    {
+        "Date": "2024-09-22",
+        "TotalBasalEnergyBurned": 1145.1360913888889
+    },
+    {
+        "Date": "2024-09-23",
+        "TotalBasalEnergyBurned": 1125.5496866666667
+    },
+    {
+        "Date": "2024-09-24",
+        "TotalBasalEnergyBurned": 967.5131955555556
+    },
+    {
+        "Date": "2024-09-25",
+        "TotalBasalEnergyBurned": 1175.5535019444446
+    },
+    {
+        "Date": "2024-09-26",
+        "TotalBasalEnergyBurned": 1022.9912147222223
+    },
+    {
+        "Date": "2024-09-27",
+        "TotalBasalEnergyBurned": 871.9718288888889
+    },
+    {
+        "Date": "2024-09-28",
+        "TotalBasalEnergyBurned": 1215.429173888889
+    },
+    {
+        "Date": "2024-09-29",
+        "TotalBasalEnergyBurned": 1130.25709
+    },
+    {
+        "Date": "2024-09-30",
+        "TotalBasalEnergyBurned": 1114.0755269444446
+    },
+    {
+        "Date": "2024-10-01",
+        "TotalBasalEnergyBurned": 1195.4090091666667
+    },
+    {
+        "Date": "2024-10-02",
+        "TotalBasalEnergyBurned": 1054.1461102777778
+    },
+    {
+        "Date": "2024-10-03",
+        "TotalBasalEnergyBurned": 1230.0784205555556
+    },
+    {
+        "Date": "2024-10-04",
+        "TotalBasalEnergyBurned": 962.3316269444445
+    },
+    {
+        "Date": "2024-10-05",
+        "TotalBasalEnergyBurned": 1170.4021850000001
+    },
+    {
+        "Date": "2024-10-06",
+        "TotalBasalEnergyBurned": 1089.8133205555557
+    },
+    {
+        "Date": "2024-10-07",
+        "TotalBasalEnergyBurned": 1125.1248808333335
+    },
+    {
+        "Date": "2024-10-08",
+        "TotalBasalEnergyBurned": 1107.1143202777778
+    },
+    {
+        "Date": "2024-10-09",
+        "TotalBasalEnergyBurned": 1089.918108888889
+    },
+    {
+        "Date": "2024-10-10",
+        "TotalBasalEnergyBurned": 1258.7034150000002
+    },
+    {
+        "Date": "2024-10-11",
+        "TotalBasalEnergyBurned": 1134.9138377777779
+    },
+    {
+        "Date": "2024-10-12",
+        "TotalBasalEnergyBurned": 933.0401955555556
+    },
+    {
+        "Date": "2024-10-13",
+        "TotalBasalEnergyBurned": 1229.276088888889
+    },
+    {
+        "Date": "2024-10-14",
+        "TotalBasalEnergyBurned": 1255.781096111111
+    },
+    {
+        "Date": "2024-10-15",
+        "TotalBasalEnergyBurned": 1001.8076611111112
+    },
+    {
+        "Date": "2024-10-16",
+        "TotalBasalEnergyBurned": 1228.5287411111112
+    },
+    {
+        "Date": "2024-10-17",
+        "TotalBasalEnergyBurned": 1080.9004061111111
+    },
+    {
+        "Date": "2024-10-18",
+        "TotalBasalEnergyBurned": 1244.838653611111
+    },
+    {
+        "Date": "2024-10-19",
+        "TotalBasalEnergyBurned": 1280.8082516666668
+    },
+    {
+        "Date": "2024-10-20",
+        "TotalBasalEnergyBurned": 1252.5950147222222
+    },
+    {
+        "Date": "2024-10-21",
+        "TotalBasalEnergyBurned": 955.3363883333334
+    },
+    {
+        "Date": "2024-10-22",
+        "TotalBasalEnergyBurned": 1111.7351625000001
+    },
+    {
+        "Date": "2024-10-23",
+        "TotalBasalEnergyBurned": 1140.3807872222224
+    },
+    {
+        "Date": "2024-10-24",
+        "TotalBasalEnergyBurned": 1174.499557777778
+    },
+    {
+        "Date": "2024-10-25",
+        "TotalBasalEnergyBurned": 1123.6874827777779
+    },
+    {
+        "Date": "2024-10-26",
+        "TotalBasalEnergyBurned": 1014.3463416666667
+    },
+    {
+        "Date": "2024-10-27",
+        "TotalBasalEnergyBurned": 1336.8007716666668
+    },
+    {
+        "Date": "2024-10-28",
+        "TotalBasalEnergyBurned": 969.0705194444445
+    },
+    {
+        "Date": "2024-10-29",
+        "TotalBasalEnergyBurned": 1200.3802227777778
+    },
+    {
+        "Date": "2024-10-30",
+        "TotalBasalEnergyBurned": 1201.4329347222224
+    },
+    {
+        "Date": "2024-10-31",
+        "TotalBasalEnergyBurned": 1063.8832775
+    },
+    {
+        "Date": "2024-11-01",
+        "TotalBasalEnergyBurned": 1132.0933847222223
+    },
+    {
+        "Date": "2024-11-02",
+        "TotalBasalEnergyBurned": 1027.1455427777778
+    },
+    {
+        "Date": "2024-11-03",
+        "TotalBasalEnergyBurned": 905.0657644444445
+    },
+    {
+        "Date": "2024-11-04",
+        "TotalBasalEnergyBurned": 1051.7286211111111
+    },
+    {
+        "Date": "2024-11-05",
+        "TotalBasalEnergyBurned": 1102.4892738888889
+    },
+    {
+        "Date": "2024-11-06",
+        "TotalBasalEnergyBurned": 1098.076206388889
+    },
+    {
+        "Date": "2024-11-07",
+        "TotalBasalEnergyBurned": 1176.8041347222222
+    },
+    {
+        "Date": "2024-11-08",
+        "TotalBasalEnergyBurned": 1143.1407891666668
+    },
+    {
+        "Date": "2024-11-09",
+        "TotalBasalEnergyBurned": 1005.2095930555556
+    },
+    {
+        "Date": "2024-11-10",
+        "TotalBasalEnergyBurned": 1057.7790672222222
+    },
+    {
+        "Date": "2024-11-11",
+        "TotalBasalEnergyBurned": 1183.1949188888889
+    },
+    {
+        "Date": "2024-11-12",
+        "TotalBasalEnergyBurned": 1196.1996883333334
+    },
+    {
+        "Date": "2024-11-13",
+        "TotalBasalEnergyBurned": 1115.0181169444445
+    },
+    {
+        "Date": "2024-11-14",
+        "TotalBasalEnergyBurned": 1167.7720900000002
+    },
+    {
+        "Date": "2024-11-15",
+        "TotalBasalEnergyBurned": 1121.622748888889
+    },
+    {
+        "Date": "2024-11-16",
+        "TotalBasalEnergyBurned": 1315.9901022222223
+    },
+    {
+        "Date": "2024-11-17",
+        "TotalBasalEnergyBurned": 1299.355941388889
+    },
+    {
+        "Date": "2024-11-18",
+        "TotalBasalEnergyBurned": 1129.9342025
+    },
+    {
+        "Date": "2024-11-19",
+        "TotalBasalEnergyBurned": 1126.1609247222223
+    },
+    {
+        "Date": "2024-11-20",
+        "TotalBasalEnergyBurned": 1083.2164033333333
+    },
+    {
+        "Date": "2024-11-21",
+        "TotalBasalEnergyBurned": 1099.677101388889
+    },
+    {
+        "Date": "2024-11-22",
+        "TotalBasalEnergyBurned": 1135.043156111111
+    },
+    {
+        "Date": "2024-11-23",
+        "TotalBasalEnergyBurned": 1213.8783025
+    },
+    {
+        "Date": "2024-11-24",
+        "TotalBasalEnergyBurned": 1061.2550458333335
+    },
+    {
+        "Date": "2024-11-25",
+        "TotalBasalEnergyBurned": 1157.778862777778
+    },
+    {
+        "Date": "2024-11-26",
+        "TotalBasalEnergyBurned": 1105.0984519444446
+    },
+    {
+        "Date": "2024-11-27",
+        "TotalBasalEnergyBurned": 1216.8067355555556
+    },
+    {
+        "Date": "2024-11-28",
+        "TotalBasalEnergyBurned": 1245.848015
+    },
+    {
+        "Date": "2024-11-29",
+        "TotalBasalEnergyBurned": 1300.7545294444444
+    },
+    {
+        "Date": "2024-11-30",
+        "TotalBasalEnergyBurned": 1318.4114858333335
+    },
+    {
+        "Date": "2024-12-01",
+        "TotalBasalEnergyBurned": 1119.8551805555555
+    },
+    {
+        "Date": "2024-12-02",
+        "TotalBasalEnergyBurned": 1264.5692533333333
+    },
+    {
+        "Date": "2024-12-03",
+        "TotalBasalEnergyBurned": 1167.3742161111113
+    },
+    {
+        "Date": "2024-12-04",
+        "TotalBasalEnergyBurned": 1176.38298
+    },
+    {
+        "Date": "2024-12-05",
+        "TotalBasalEnergyBurned": 1166.251113888889
+    },
+    {
+        "Date": "2024-12-06",
+        "TotalBasalEnergyBurned": 1066.9449475000001
+    },
+    {
+        "Date": "2024-12-07",
+        "TotalBasalEnergyBurned": 1112.9292761111112
+    },
+    {
+        "Date": "2024-12-08",
+        "TotalBasalEnergyBurned": 1041.1191805555557
+    },
+    {
+        "Date": "2024-12-09",
+        "TotalBasalEnergyBurned": 1046.6758508333335
+    },
+    {
+        "Date": "2024-12-10",
+        "TotalBasalEnergyBurned": 1168.6684552777779
+    },
+    {
+        "Date": "2024-12-11",
+        "TotalBasalEnergyBurned": 1219.3760772222224
+    },
+    {
+        "Date": "2024-12-12",
+        "TotalBasalEnergyBurned": 1242.1960747222222
+    },
+    {
+        "Date": "2024-12-13",
+        "TotalBasalEnergyBurned": 1095.1244986111112
+    },
+    {
+        "Date": "2024-12-14",
+        "TotalBasalEnergyBurned": 1247.1354858333334
+    },
+    {
+        "Date": "2024-12-15",
+        "TotalBasalEnergyBurned": 1167.6923558333335
+    },
+    {
+        "Date": "2024-12-16",
+        "TotalBasalEnergyBurned": 1063.5368597222223
+    },
+    {
+        "Date": "2024-12-17",
+        "TotalBasalEnergyBurned": 1151.8562266666668
+    },
+    {
+        "Date": "2024-12-18",
+        "TotalBasalEnergyBurned": 1207.796773888889
+    },
+    {
+        "Date": "2024-12-19",
+        "TotalBasalEnergyBurned": 1241.6073075000002
+    },
+    {
+        "Date": "2024-12-20",
+        "TotalBasalEnergyBurned": 1133.2096352777778
+    },
+    {
+        "Date": "2024-12-21",
+        "TotalBasalEnergyBurned": 1396.4335433333335
+    },
+    {
+        "Date": "2024-12-22",
+        "TotalBasalEnergyBurned": 1278.5893922222224
+    },
+    {
+        "Date": "2024-12-23",
+        "TotalBasalEnergyBurned": 1120.1249869444446
+    },
+    {
+        "Date": "2024-12-24",
+        "TotalBasalEnergyBurned": 1254.8376327777778
+    },
+    {
+        "Date": "2024-12-25",
+        "TotalBasalEnergyBurned": 1225.5564225
+    },
+    {
+        "Date": "2024-12-26",
+        "TotalBasalEnergyBurned": 1193.503025
+    },
+    {
+        "Date": "2024-12-27",
+        "TotalBasalEnergyBurned": 1176.716643888889
+    },
+    {
+        "Date": "2024-12-28",
+        "TotalBasalEnergyBurned": 1299.5676897222222
+    },
+    {
+        "Date": "2024-12-29",
+        "TotalBasalEnergyBurned": 1240.4255427777778
+    },
+    {
+        "Date": "2024-12-30",
+        "TotalBasalEnergyBurned": 1156.094081388889
+    },
+    {
+        "Date": "2024-12-31",
+        "TotalBasalEnergyBurned": 1213.8385961111112
+    },
+    {
+        "Date": "2025-01-01",
+        "TotalBasalEnergyBurned": 1173.3045216666667
+    },
+    {
+        "Date": "2025-01-02",
+        "TotalBasalEnergyBurned": 1084.643086388889
+    },
+    {
+        "Date": "2025-01-03",
+        "TotalBasalEnergyBurned": 1333.0304719444446
+    },
+    {
+        "Date": "2025-01-04",
+        "TotalBasalEnergyBurned": 1294.2736641666668
+    },
+    {
+        "Date": "2025-01-05",
+        "TotalBasalEnergyBurned": 1085.2401580555556
+    },
+    {
+        "Date": "2025-01-06",
+        "TotalBasalEnergyBurned": 1264.1893972222224
+    },
+    {
+        "Date": "2025-01-07",
+        "TotalBasalEnergyBurned": 1078.516358888889
+    },
+    {
+        "Date": "2025-01-08",
+        "TotalBasalEnergyBurned": 960.9015275
+    }
+]
