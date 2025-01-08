@@ -2,15 +2,14 @@
 
 ## Objective
 
-Investigate the impact of headphone audio exposure (e.g., duration and volume) on physical activity and walking dynamics. Explore whether specific exposure patterns correlate with changes in walking performance, energy expenditure, or step count.
+Investigate the impact of headphone audio exposure (volume) on physical activity and walking dynamics. Explore whether specific exposure patterns correlate with changes in walking performance, energy expenditure, or step count.
 
 ---
 
 ## Key Questions
 
-1. Does prolonged headphone usage or higher audio exposure correlate with changes in walking performance (e.g., step length, walking steadiness, walking speed)?
-2. Can headphone exposure predict variations in energy burned during physical activity?
-3. Are there optimal audio exposure patterns for maintaining steady physical activity and enhancing walking dynamics?
+1. Does higher audio exposure correlate with changes in walking performance?
+2. Are there optimal audio exposure patterns for maintaining steady physical activity and enhancing walking dynamics?
 
 ---
 
@@ -18,18 +17,12 @@ Investigate the impact of headphone audio exposure (e.g., duration and volume) o
 
 ### Apple Health Data
 
-- **Headphone Audio Exposure**:
-  - Metrics: Volume level, duration, and events.
-- **Walking Metrics**:
-  - Step length, walking speed, walking asymmetry percentage, walking steadiness.
-- **Energy Burned**:
-  - Active and basal energy burned.
-- **Step Count**:
-  - Daily step totals.
+The following data is used for this analysis
 
-### Spotify Data (Optional)
-
-- Track audio features (e.g., tempo, energy) to analyze relationships between music characteristics and walking dynamics.
+- Headphone Audio Exposure
+- Walking speed
+- Active and basal energy burned.
+- Daily step totals.
 
 ---
 
@@ -43,8 +36,8 @@ Investigate the impact of headphone audio exposure (e.g., duration and volume) o
 ### 2. Exploratory Analysis
 
 - **Visualize Trends**:
-  - Analyze walking performance (e.g., step length, walking steadiness) based on headphone usage duration and volume.
-  - Examine relationships between headphone exposure and energy burned.
+  - Analyze walking performance based on headphone usage.
+  - Examine relationships between headphone exposure energy burned, and walking parameters.
 - **Correlation Analysis**:
   - Investigate whether different exposure durations or volumes lead to noticeable changes in walking dynamics or energy metrics.
 
