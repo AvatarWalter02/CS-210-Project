@@ -1,4 +1,4 @@
-# Sound & Steps: Analyzing the Relationship Between Audio Exposure and Physical Activity Dynamics
+# Analyzing the Relationship Between Audio Exposure and Physical Activity Dynamics
 
 ## Objective
 
@@ -43,38 +43,28 @@ The following data is used for this analysis
 
 ### 3. Model Development
 
-- **Predictive Models**:
-  - Build a model to predict walking performance or energy burned using headphone exposure data as features.
-- **Threshold Analysis**:
-  - Identify thresholds for headphone exposure that might impact walking dynamics or energy expenditure.
+- **Predictive Model**:
+  - Build a model to predict exposure rate based on walking performance or energy burned.
 
-### 4. Behavioral Clustering
+### 4. Insights and Recommendations
 
-- **Cluster Analysis**:
-  - Cluster users based on headphone usage patterns and their effect on physical activity metrics (e.g., "high exposure, reduced walking steadiness").
-- **Cluster Insights**:
-  - Extract insights to categorize behaviors and tailor recommendations.
-
-### 5. Insights and Recommendations
-
-- Provide personalized recommendations for headphone usage to optimize walking efficiency and maintain steady physical activity.
+- Provide comments on the resulting data, and see if there is correlation between exposure rate and physical activeness.
 
 ---
 
 ## Deliverables
 
 1. Insights into the impact of audio exposure on walking dynamics and energy expenditure.
-2. A predictive model for walking performance or energy burned based on headphone exposure patterns.
-3. Personalized guidelines for healthier headphone usage.
+2. A predictive model for exposure rates.
+3. Ways to improve the model and the analysis method.
 
 ---
 
 ## Tools & Technologies
 
 - **Data Processing**: Python, Pandas, NumPy.
-- **Visualization**: Matplotlib, Seaborn, Plotly.
-- **Modeling**: Scikit-learn, XGBoost, TensorFlow.
-- **Spotify API**: (Optional) For supplementary analysis of audio features.
+- **Visualization**: Matplotlib, Seaborn.
+- **Modeling**: Scikit-learn.
 
 ---
 
@@ -84,5 +74,11 @@ The following data is used for this analysis
    - Ensure accurate interpretation of audio exposure data (e.g., thresholds for "high" exposure).
 2. **Causation vs. Correlation**:
    - Acknowledge that correlations do not imply causation between headphone exposure and activity metrics.
-3. **External Variables**:
-   - Account for confounding factors (e.g., workout settings, headphone types, environmental influences).
+
+## Presentation Video
+
+You can find the presentation from this link.
+
+## Report
+
+Make sure to read the report in order to understand the implementation of the code and the process behind it.
