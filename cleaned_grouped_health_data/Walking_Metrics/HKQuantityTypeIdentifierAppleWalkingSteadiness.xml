@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HealthData><Record unit="%" creationDate="2022-01-31 09:59:19 +0300" startDate="2022-01-24 03:00:00 +0300" endDate="2022-01-31 03:00:00 +0300" value="0.93205" />
+ <Record unit="%" creationDate="2022-02-07 09:31:35 +0300" startDate="2022-01-31 03:00:00 +0300" endDate="2022-02-07 03:00:00 +0300" value="0.883504" />
+ <Record unit="%" creationDate="2022-02-14 10:00:18 +0300" startDate="2022-02-07 03:00:00 +0300" endDate="2022-02-14 03:00:00 +0300" value="0.958044" />
+ <Record unit="%" creationDate="2022-02-21 06:02:11 +0300" startDate="2022-02-14 03:00:00 +0300" endDate="2022-02-21 03:00:00 +0300" value="0.881172" />
+ <Record unit="%" creationDate="2022-02-28 08:00:15 +0300" startDate="2022-02-21 03:00:00 +0300" endDate="2022-02-28 03:00:00 +0300" value="0.976359" />
+ <Record unit="%" creationDate="2022-03-07 08:40:20 +0300" startDate="2022-02-28 03:00:00 +0300" endDate="2022-03-07 03:00:00 +0300" value="0.998206" />
+ <Record unit="%" creationDate="2022-03-14 07:38:11 +0300" startDate="2022-03-07 03:00:00 +0300" endDate="2022-03-14 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-03-21 09:20:11 +0300" startDate="2022-03-14 03:00:00 +0300" endDate="2022-03-21 03:00:00 +0300" value="0.981561" />
+ <Record unit="%" creationDate="2022-03-28 08:18:45 +0300" startDate="2022-03-21 03:00:00 +0300" endDate="2022-03-28 03:00:00 +0300" value="0.999894" />
+ <Record unit="%" creationDate="2022-04-04 08:18:34 +0300" startDate="2022-03-28 03:00:00 +0300" endDate="2022-04-04 03:00:00 +0300" value="0.991379" />
+ <Record unit="%" creationDate="2022-04-11 07:58:23 +0300" startDate="2022-04-04 03:00:00 +0300" endDate="2022-04-11 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-04-18 09:08:54 +0300" startDate="2022-04-11 03:00:00 +0300" endDate="2022-04-18 03:00:00 +0300" value="0.997076" />
+ <Record unit="%" creationDate="2022-04-25 09:04:31 +0300" startDate="2022-04-18 03:00:00 +0300" endDate="2022-04-25 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-05-02 09:15:40 +0300" startDate="2022-04-25 03:00:00 +0300" endDate="2022-05-02 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-05-09 09:26:06 +0300" startDate="2022-05-02 03:00:00 +0300" endDate="2022-05-09 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-05-16 07:56:27 +0300" startDate="2022-05-09 03:00:00 +0300" endDate="2022-05-16 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-05-23 08:00:14 +0300" startDate="2022-05-16 03:00:00 +0300" endDate="2022-05-23 03:00:00 +0300" value="0.981669" />
+ <Record unit="%" creationDate="2022-05-30 07:39:24 +0300" startDate="2022-05-23 03:00:00 +0300" endDate="2022-05-30 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-06-06 06:54:07 +0300" startDate="2022-05-30 03:00:00 +0300" endDate="2022-06-06 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-06-13 08:00:16 +0300" startDate="2022-06-06 03:00:00 +0300" endDate="2022-06-13 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-06-20 10:27:42 +0300" startDate="2022-06-13 03:00:00 +0300" endDate="2022-06-20 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-06-27 09:17:33 +0300" startDate="2022-06-20 03:00:00 +0300" endDate="2022-06-27 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-07-04 08:59:25 +0300" startDate="2022-06-27 03:00:00 +0300" endDate="2022-07-04 03:00:00 +0300" value="0.973781" />
+ <Record unit="%" creationDate="2022-07-11 10:19:06 +0300" startDate="2022-07-04 03:00:00 +0300" endDate="2022-07-11 03:00:00 +0300" value="0.957235" />
+ <Record unit="%" creationDate="2022-07-18 05:24:37 +0300" startDate="2022-07-11 03:00:00 +0300" endDate="2022-07-18 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-07-25 07:39:38 +0300" startDate="2022-07-18 03:00:00 +0300" endDate="2022-07-25 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-08-01 07:51:11 +0300" startDate="2022-07-25 03:00:00 +0300" endDate="2022-08-01 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-08-08 06:26:02 +0300" startDate="2022-08-01 03:00:00 +0300" endDate="2022-08-08 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-08-15 09:05:43 +0300" startDate="2022-08-08 03:00:00 +0300" endDate="2022-08-15 03:00:00 +0300" value="0.986069" />
+ <Record unit="%" creationDate="2022-08-22 11:03:35 +0300" startDate="2022-08-15 03:00:00 +0300" endDate="2022-08-22 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-08-29 10:20:27 +0300" startDate="2022-08-22 03:00:00 +0300" endDate="2022-08-29 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-09-05 08:26:52 +0300" startDate="2022-08-29 03:00:00 +0300" endDate="2022-09-05 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-09-12 11:38:49 +0300" startDate="2022-09-05 03:00:00 +0300" endDate="2022-09-12 03:00:00 +0300" value="0.937161" />
+ <Record unit="%" creationDate="2022-09-19 09:04:21 +0300" startDate="2022-09-12 03:00:00 +0300" endDate="2022-09-19 03:00:00 +0300" value="0.985303" />
+ <Record unit="%" creationDate="2022-09-26 07:56:46 +0300" startDate="2022-09-19 03:00:00 +0300" endDate="2022-09-26 03:00:00 +0300" value="0.981659" />
+ <Record unit="%" creationDate="2022-10-03 07:52:11 +0300" startDate="2022-09-26 03:00:00 +0300" endDate="2022-10-03 03:00:00 +0300" value="0.979671" />
+ <Record unit="%" creationDate="2022-10-10 08:20:12 +0300" startDate="2022-10-03 03:00:00 +0300" endDate="2022-10-10 03:00:00 +0300" value="0.987848" />
+ <Record unit="%" creationDate="2022-10-17 04:09:31 +0300" startDate="2022-10-10 03:00:00 +0300" endDate="2022-10-17 03:00:00 +0300" value="0.997695" />
+ <Record unit="%" creationDate="2022-10-24 07:12:28 +0300" startDate="2022-10-17 03:00:00 +0300" endDate="2022-10-24 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-10-31 08:51:20 +0300" startDate="2022-10-24 03:00:00 +0300" endDate="2022-10-31 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-11-07 09:00:08 +0300" startDate="2022-10-31 03:00:00 +0300" endDate="2022-11-07 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-11-14 08:10:09 +0300" startDate="2022-11-07 03:00:00 +0300" endDate="2022-11-14 03:00:00 +0300" value="0.996748" />
+ <Record unit="%" creationDate="2022-11-21 08:15:12 +0300" startDate="2022-11-14 03:00:00 +0300" endDate="2022-11-21 03:00:00 +0300" value="0.999075" />
+ <Record unit="%" creationDate="2022-11-28 04:30:49 +0300" startDate="2022-11-21 03:00:00 +0300" endDate="2022-11-28 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-12-05 07:44:40 +0300" startDate="2022-11-28 03:00:00 +0300" endDate="2022-12-05 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-12-12 08:44:11 +0300" startDate="2022-12-05 03:00:00 +0300" endDate="2022-12-12 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-12-19 09:04:19 +0300" startDate="2022-12-12 03:00:00 +0300" endDate="2022-12-19 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2022-12-26 08:10:16 +0300" startDate="2022-12-19 03:00:00 +0300" endDate="2022-12-26 03:00:00 +0300" value="0.992873" />
+ <Record unit="%" creationDate="2023-01-02 13:08:53 +0300" startDate="2022-12-26 03:00:00 +0300" endDate="2023-01-02 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-01-09 09:30:20 +0300" startDate="2023-01-02 03:00:00 +0300" endDate="2023-01-09 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-01-16 08:20:28 +0300" startDate="2023-01-09 03:00:00 +0300" endDate="2023-01-16 03:00:00 +0300" value="0.974801" />
+ <Record unit="%" creationDate="2023-01-23 08:00:34 +0300" startDate="2023-01-16 03:00:00 +0300" endDate="2023-01-23 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-01-30 11:29:09 +0300" startDate="2023-01-23 03:00:00 +0300" endDate="2023-01-30 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-02-06 10:00:08 +0300" startDate="2023-01-30 03:00:00 +0300" endDate="2023-02-06 03:00:00 +0300" value="0.982189" />
+ <Record unit="%" creationDate="2023-02-13 10:31:21 +0300" startDate="2023-02-06 03:00:00 +0300" endDate="2023-02-13 03:00:00 +0300" value="0.987166" />
+ <Record unit="%" creationDate="2023-02-20 12:22:37 +0300" startDate="2023-02-13 03:00:00 +0300" endDate="2023-02-20 03:00:00 +0300" value="0.974121" />
+ <Record unit="%" creationDate="2023-02-27 08:24:46 +0300" startDate="2023-02-20 03:00:00 +0300" endDate="2023-02-27 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-03-06 08:03:24 +0300" startDate="2023-02-27 03:00:00 +0300" endDate="2023-03-06 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-03-13 08:23:33 +0300" startDate="2023-03-06 03:00:00 +0300" endDate="2023-03-13 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-03-20 08:10:11 +0300" startDate="2023-03-13 03:00:00 +0300" endDate="2023-03-20 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-03-27 07:39:23 +0300" startDate="2023-03-20 03:00:00 +0300" endDate="2023-03-27 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-04-03 15:02:55 +0300" startDate="2023-03-27 03:00:00 +0300" endDate="2023-04-03 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-04-10 09:33:46 +0300" startDate="2023-04-03 03:00:00 +0300" endDate="2023-04-10 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-04-17 08:40:19 +0300" startDate="2023-04-10 03:00:00 +0300" endDate="2023-04-17 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-04-24 08:34:05 +0300" startDate="2023-04-17 03:00:00 +0300" endDate="2023-04-24 03:00:00 +0300" value="0.998817" />
+ <Record unit="%" creationDate="2023-05-01 09:39:16 +0300" startDate="2023-04-24 03:00:00 +0300" endDate="2023-05-01 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-05-08 07:36:45 +0300" startDate="2023-05-01 03:00:00 +0300" endDate="2023-05-08 03:00:00 +0300" value="0.983164" />
+ <Record unit="%" creationDate="2023-05-15 08:00:12 +0300" startDate="2023-05-08 03:00:00 +0300" endDate="2023-05-15 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-05-22 08:00:18 +0300" startDate="2023-05-15 03:00:00 +0300" endDate="2023-05-22 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-05-29 08:00:16 +0300" startDate="2023-05-22 03:00:00 +0300" endDate="2023-05-29 03:00:00 +0300" value="0.984579" />
+ <Record unit="%" creationDate="2023-06-05 09:04:21 +0300" startDate="2023-05-29 03:00:00 +0300" endDate="2023-06-05 03:00:00 +0300" value="0.995372" />
+ <Record unit="%" creationDate="2023-06-12 09:58:41 +0300" startDate="2023-06-05 03:00:00 +0300" endDate="2023-06-12 03:00:00 +0300" value="0.99513" />
+ <Record unit="%" creationDate="2023-06-19 10:40:27 +0300" startDate="2023-06-12 03:00:00 +0300" endDate="2023-06-19 03:00:00 +0300" value="0.989999" />
+ <Record unit="%" creationDate="2023-06-26 09:55:43 +0300" startDate="2023-06-19 03:00:00 +0300" endDate="2023-06-26 03:00:00 +0300" value="0.970347" />
+ <Record unit="%" creationDate="2023-07-03 11:50:42 +0300" startDate="2023-06-26 03:00:00 +0300" endDate="2023-07-03 03:00:00 +0300" value="0.998789" />
+ <Record unit="%" creationDate="2023-07-10 09:54:45 +0300" startDate="2023-07-03 03:00:00 +0300" endDate="2023-07-10 03:00:00 +0300" value="0.970045" />
+ <Record unit="%" creationDate="2023-07-17 06:39:40 +0300" startDate="2023-07-10 03:00:00 +0300" endDate="2023-07-17 03:00:00 +0300" value="0.945072" />
+ <Record unit="%" creationDate="2023-07-24 10:59:54 +0300" startDate="2023-07-17 03:00:00 +0300" endDate="2023-07-24 03:00:00 +0300" value="0.944448" />
+ <Record unit="%" creationDate="2023-07-31 07:00:12 +0300" startDate="2023-07-24 03:00:00 +0300" endDate="2023-07-31 03:00:00 +0300" value="0.974344" />
+ <Record unit="%" creationDate="2023-08-07 08:29:26 +0300" startDate="2023-07-31 03:00:00 +0300" endDate="2023-08-07 03:00:00 +0300" value="0.93581" />
+ <Record unit="%" creationDate="2023-08-14 08:31:40 +0300" startDate="2023-08-07 03:00:00 +0300" endDate="2023-08-14 03:00:00 +0300" value="0.942763" />
+ <Record unit="%" creationDate="2023-08-21 08:39:15 +0300" startDate="2023-08-14 03:00:00 +0300" endDate="2023-08-21 03:00:00 +0300" value="0.957666" />
+ <Record unit="%" creationDate="2023-08-28 11:49:56 +0300" startDate="2023-08-21 03:00:00 +0300" endDate="2023-08-28 03:00:00 +0300" value="0.924797" />
+ <Record unit="%" creationDate="2023-09-04 09:33:28 +0300" startDate="2023-08-28 03:00:00 +0300" endDate="2023-09-04 03:00:00 +0300" value="0.899236" />
+ <Record unit="%" creationDate="2023-09-11 08:33:02 +0300" startDate="2023-09-04 03:00:00 +0300" endDate="2023-09-11 03:00:00 +0300" value="0.897785" />
+ <Record unit="%" creationDate="2023-09-18 07:15:53 +0300" startDate="2023-09-11 03:00:00 +0300" endDate="2023-09-18 03:00:00 +0300" value="0.882155" />
+ <Record unit="%" creationDate="2023-09-25 08:49:24 +0300" startDate="2023-09-18 03:00:00 +0300" endDate="2023-09-25 03:00:00 +0300" value="0.934863" />
+ <Record unit="%" creationDate="2023-10-02 05:41:10 +0300" startDate="2023-09-25 03:00:00 +0300" endDate="2023-10-02 03:00:00 +0300" value="0.936117" />
+ <Record unit="%" creationDate="2023-10-09 09:15:16 +0300" startDate="2023-10-02 03:00:00 +0300" endDate="2023-10-09 03:00:00 +0300" value="0.985032" />
+ <Record unit="%" creationDate="2023-10-16 08:10:18 +0300" startDate="2023-10-09 03:00:00 +0300" endDate="2023-10-16 03:00:00 +0300" value="0.994623" />
+ <Record unit="%" creationDate="2023-10-23 08:00:08 +0300" startDate="2023-10-16 03:00:00 +0300" endDate="2023-10-23 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-10-30 08:01:30 +0300" startDate="2023-10-23 03:00:00 +0300" endDate="2023-10-30 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-11-06 08:42:24 +0300" startDate="2023-10-30 03:00:00 +0300" endDate="2023-11-06 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-11-13 10:03:31 +0300" startDate="2023-11-06 03:00:00 +0300" endDate="2023-11-13 03:00:00 +0300" value="1" />
+ <Record unit="%" creationDate="2023-11-20 08:01:42 +0300" startDate="2023-11-13 03:00:00 +0300" endDate="2023-11-20 03:00:00 +0300" value="0.974138" />
+ <Record unit="%" creationDate="2023-11-27 09:45:44 +0300" startDate="2023-11-20 03:00:00 +0300" endDate="2023-11-27 03:00:00 +0300" value="0.967758">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2023-12-04 10:00:12 +0300" startDate="2023-11-27 03:00:00 +0300" endDate="2023-12-04 03:00:00 +0300" value="0.968333">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2023-12-11 10:00:14 +0300" startDate="2023-12-04 03:00:00 +0300" endDate="2023-12-11 03:00:00 +0300" value="0.961583">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2023-12-18 10:45:14 +0300" startDate="2023-12-11 03:00:00 +0300" endDate="2023-12-18 03:00:00 +0300" value="0.982725">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2023-12-25 10:00:40 +0300" startDate="2023-12-18 03:00:00 +0300" endDate="2023-12-25 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-01-01 11:02:09 +0300" startDate="2023-12-25 03:00:00 +0300" endDate="2024-01-01 03:00:00 +0300" value="0.938524">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-01-08 08:06:21 +0300" startDate="2024-01-01 03:00:00 +0300" endDate="2024-01-08 03:00:00 +0300" value="0.958401">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-01-15 09:31:03 +0300" startDate="2024-01-08 03:00:00 +0300" endDate="2024-01-15 03:00:00 +0300" value="0.918572">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-01-22 07:29:40 +0300" startDate="2024-01-15 03:00:00 +0300" endDate="2024-01-22 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-01-29 12:22:04 +0300" startDate="2024-01-22 03:00:00 +0300" endDate="2024-01-29 03:00:00 +0300" value="0.94006">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-02-05 09:06:03 +0300" startDate="2024-01-29 03:00:00 +0300" endDate="2024-02-05 03:00:00 +0300" value="0.93713">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-02-12 08:48:23 +0300" startDate="2024-02-05 03:00:00 +0300" endDate="2024-02-12 03:00:00 +0300" value="0.970657">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-02-19 03:51:16 +0300" startDate="2024-02-12 03:00:00 +0300" endDate="2024-02-19 03:00:00 +0300" value="0.965067">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-03-03 11:08:05 +0300" startDate="2024-02-25 03:00:00 +0300" endDate="2024-03-03 03:00:00 +0300" value="0.989368">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-03-10 06:50:34 +0300" startDate="2024-03-03 03:00:00 +0300" endDate="2024-03-10 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-03-17 04:12:45 +0300" startDate="2024-03-10 03:00:00 +0300" endDate="2024-03-17 03:00:00 +0300" value="0.99923">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-03-24 08:00:31 +0300" startDate="2024-03-17 03:00:00 +0300" endDate="2024-03-24 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-03-31 12:01:14 +0300" startDate="2024-03-24 03:00:00 +0300" endDate="2024-03-31 03:00:00 +0300" value="0.980474">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-04-07 11:30:38 +0300" startDate="2024-03-31 03:00:00 +0300" endDate="2024-04-07 03:00:00 +0300" value="0.981403">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-04-14 11:54:05 +0300" startDate="2024-04-07 03:00:00 +0300" endDate="2024-04-14 03:00:00 +0300" value="0.965029">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-04-21 08:00:19 +0300" startDate="2024-04-14 03:00:00 +0300" endDate="2024-04-21 03:00:00 +0300" value="0.953101">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-04-28 13:53:34 +0300" startDate="2024-04-21 03:00:00 +0300" endDate="2024-04-28 03:00:00 +0300" value="0.952438">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-05-05 11:47:54 +0300" startDate="2024-04-28 03:00:00 +0300" endDate="2024-05-05 03:00:00 +0300" value="0.957636">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-05-12 11:21:14 +0300" startDate="2024-05-05 03:00:00 +0300" endDate="2024-05-12 03:00:00 +0300" value="0.997301">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-05-19 14:06:56 +0300" startDate="2024-05-12 03:00:00 +0300" endDate="2024-05-19 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-05-26 11:00:20 +0300" startDate="2024-05-19 03:00:00 +0300" endDate="2024-05-26 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-06-02 10:55:50 +0300" startDate="2024-05-26 03:00:00 +0300" endDate="2024-06-02 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-06-09 08:12:20 +0300" startDate="2024-06-02 03:00:00 +0300" endDate="2024-06-09 03:00:00 +0300" value="0.957477">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-06-16 08:16:45 +0300" startDate="2024-06-09 03:00:00 +0300" endDate="2024-06-16 03:00:00 +0300" value="0.954021">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-06-23 04:43:48 +0300" startDate="2024-06-16 03:00:00 +0300" endDate="2024-06-23 03:00:00 +0300" value="0.911228">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-06-30 11:04:26 +0300" startDate="2024-06-23 03:00:00 +0300" endDate="2024-06-30 03:00:00 +0300" value="0.936787">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-07-07 10:56:40 +0300" startDate="2024-06-30 03:00:00 +0300" endDate="2024-07-07 03:00:00 +0300" value="0.944924">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-07-14 09:30:07 +0300" startDate="2024-07-07 03:00:00 +0300" endDate="2024-07-14 03:00:00 +0300" value="0.931299">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-07-21 08:51:10 +0300" startDate="2024-07-14 03:00:00 +0300" endDate="2024-07-21 03:00:00 +0300" value="0.907689">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-07-28 09:00:22 +0300" startDate="2024-07-21 03:00:00 +0300" endDate="2024-07-28 03:00:00 +0300" value="0.945314">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-08-04 10:56:04 +0300" startDate="2024-07-28 03:00:00 +0300" endDate="2024-08-04 03:00:00 +0300" value="0.903849">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-08-11 08:56:26 +0300" startDate="2024-08-04 03:00:00 +0300" endDate="2024-08-11 03:00:00 +0300" value="0.942457">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-08-18 09:40:13 +0300" startDate="2024-08-11 03:00:00 +0300" endDate="2024-08-18 03:00:00 +0300" value="0.931172">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-08-25 04:08:52 +0300" startDate="2024-08-18 03:00:00 +0300" endDate="2024-08-25 03:00:00 +0300" value="0.924065">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-09-01 11:37:45 +0300" startDate="2024-08-25 03:00:00 +0300" endDate="2024-09-01 03:00:00 +0300" value="0.882553">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-09-08 03:55:14 +0300" startDate="2024-09-01 03:00:00 +0300" endDate="2024-09-08 03:00:00 +0300" value="0.927276">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-09-15 05:08:21 +0300" startDate="2024-09-08 03:00:00 +0300" endDate="2024-09-15 03:00:00 +0300" value="0.954223">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-09-22 11:00:24 +0300" startDate="2024-09-15 03:00:00 +0300" endDate="2024-09-22 03:00:00 +0300" value="0.965765">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-09-29 08:32:26 +0300" startDate="2024-09-22 03:00:00 +0300" endDate="2024-09-29 03:00:00 +0300" value="0.976328">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-10-06 11:36:22 +0300" startDate="2024-09-29 03:00:00 +0300" endDate="2024-10-06 03:00:00 +0300" value="0.984074">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-10-13 09:18:34 +0300" startDate="2024-10-06 03:00:00 +0300" endDate="2024-10-13 03:00:00 +0300" value="0.952397">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-10-20 10:03:22 +0300" startDate="2024-10-13 03:00:00 +0300" endDate="2024-10-20 03:00:00 +0300" value="0.982032">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-10-27 08:42:09 +0300" startDate="2024-10-20 03:00:00 +0300" endDate="2024-10-27 03:00:00 +0300" value="0.999579">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-11-03 08:05:42 +0300" startDate="2024-10-27 03:00:00 +0300" endDate="2024-11-03 03:00:00 +0300" value="0.954926">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-11-10 07:01:18 +0300" startDate="2024-11-03 03:00:00 +0300" endDate="2024-11-10 03:00:00 +0300" value="0.973156">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-11-17 08:00:27 +0300" startDate="2024-11-10 03:00:00 +0300" endDate="2024-11-17 03:00:00 +0300" value="0.957733">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-11-24 10:00:04 +0300" startDate="2024-11-17 03:00:00 +0300" endDate="2024-11-24 03:00:00 +0300" value="1">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-12-01 11:33:31 +0300" startDate="2024-11-24 03:00:00 +0300" endDate="2024-12-01 03:00:00 +0300" value="0.94748">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-12-08 12:32:13 +0300" startDate="2024-12-01 03:00:00 +0300" endDate="2024-12-08 03:00:00 +0300" value="0.978812">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-12-15 04:16:02 +0300" startDate="2024-12-08 03:00:00 +0300" endDate="2024-12-15 03:00:00 +0300" value="0.923847">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-12-22 11:50:06 +0300" startDate="2024-12-15 03:00:00 +0300" endDate="2024-12-22 03:00:00 +0300" value="0.983099">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2024-12-29 12:34:32 +0300" startDate="2024-12-22 03:00:00 +0300" endDate="2024-12-29 03:00:00 +0300" value="0.950297">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ <Record unit="%" creationDate="2025-01-05 08:21:00 +0300" startDate="2024-12-29 03:00:00 +0300" endDate="2025-01-05 03:00:00 +0300" value="0.981983">
+  <MetadataEntry key="HKAlgorithmVersion" value="2" />
+ </Record>
+ </HealthData>

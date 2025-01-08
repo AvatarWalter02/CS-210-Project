@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HealthData><Record creationDate="2021-03-16 14:08:41 +0300" startDate="2021-03-09 13:50:01 +0300" endDate="2021-03-16 14:08:41 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.4013 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8292.57 s" />
+ </Record>
+ <Record creationDate="2021-03-18 11:28:39 +0300" startDate="2021-03-16 14:08:41 +0300" endDate="2021-03-18 11:28:39 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.8433 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7491.4 s" />
+ </Record>
+ <Record creationDate="2021-03-20 11:23:58 +0300" startDate="2021-03-18 11:28:39 +0300" endDate="2021-03-20 11:23:58 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.8635 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7450.53 s" />
+ </Record>
+ <Record creationDate="2021-04-19 10:38:19 +0300" startDate="2021-04-12 10:28:40 +0300" endDate="2021-04-19 10:38:19 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.7357 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7670.13 s" />
+ </Record>
+ <Record creationDate="2021-05-22 06:43:18 +0300" startDate="2021-05-15 06:36:43 +0300" endDate="2021-05-22 06:43:18 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.1497 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8779.23 s" />
+ </Record>
+ <Record creationDate="2021-05-25 20:43:09 +0300" startDate="2021-05-22 06:43:18 +0300" endDate="2021-05-25 20:43:09 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.1803 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6929.02 s" />
+ </Record>
+ <Record creationDate="2021-06-02 21:24:27 +0300" startDate="2021-05-26 21:24:27 +0300" endDate="2021-06-02 21:24:27 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.4239 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6974.65 s" />
+ </Record>
+ <Record creationDate="2021-06-07 18:00:56 +0300" startDate="2021-06-02 21:24:27 +0300" endDate="2021-06-07 18:00:56 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.2338 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6839.36 s" />
+ </Record>
+ <Record creationDate="2021-06-12 14:11:14 +0300" startDate="2021-06-07 18:00:56 +0300" endDate="2021-06-12 14:11:14 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.3615 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6641.25 s" />
+ </Record>
+ <Record creationDate="2021-06-17 17:06:34 +0300" startDate="2021-06-12 14:11:14 +0300" endDate="2021-06-17 17:06:34 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.6386 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7846.79 s" />
+ </Record>
+ <Record creationDate="2021-06-19 16:49:30 +0300" startDate="2021-06-17 17:06:34 +0300" endDate="2021-06-19 16:49:30 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.7898 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8049.15 s" />
+ </Record>
+ <Record creationDate="2021-06-22 16:44:51 +0300" startDate="2021-06-19 16:49:30 +0300" endDate="2021-06-22 16:44:51 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.1627 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6953.7 s" />
+ </Record>
+ <Record creationDate="2021-06-24 12:54:41 +0300" startDate="2021-06-22 16:44:51 +0300" endDate="2021-06-24 12:54:41 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.0553 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7130.39 s" />
+ </Record>
+ <Record creationDate="2021-06-27 18:37:09 +0300" startDate="2021-06-24 12:54:41 +0300" endDate="2021-06-27 18:37:09 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.4136 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6574.49 s" />
+ </Record>
+ <Record creationDate="2021-07-10 11:41:58 +0300" startDate="2021-07-03 11:34:48 +0300" endDate="2021-07-10 11:41:58 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.0593 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8967.02 s" />
+ </Record>
+ <Record creationDate="2021-07-13 20:23:36 +0300" startDate="2021-07-10 11:41:58 +0300" endDate="2021-07-13 20:23:36 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.9638 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="9162.9 s" />
+ </Record>
+ <Record creationDate="2021-07-14 11:51:38 +0300" startDate="2021-07-13 20:23:36 +0300" endDate="2021-07-14 11:51:38 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.5905 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7932.39 s" />
+ </Record>
+ <Record creationDate="2021-07-17 15:26:52 +0300" startDate="2021-07-14 11:51:38 +0300" endDate="2021-07-17 15:26:52 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.1398 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6989.08 s" />
+ </Record>
+ <Record creationDate="2021-07-20 21:08:06 +0300" startDate="2021-07-17 15:26:52 +0300" endDate="2021-07-20 21:08:06 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.1192 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="11134.1 s" />
+ </Record>
+ <Record creationDate="2021-07-31 14:50:34 +0300" startDate="2021-07-24 06:53:27 +0300" endDate="2021-07-31 14:50:34 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.9268 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7347.21 s" />
+ </Record>
+ <Record creationDate="2021-08-16 21:58:32 +0300" startDate="2021-08-09 21:07:31 +0300" endDate="2021-08-16 21:58:32 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.1907 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6908.37 s" />
+ </Record>
+ <Record creationDate="2021-08-19 10:37:07 +0300" startDate="2021-08-16 21:58:32 +0300" endDate="2021-08-19 10:37:06 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.9431 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7316.55 s" />
+ </Record>
+ <Record creationDate="2021-11-30 23:16:16 +0300" startDate="2021-11-23 23:13:09 +0300" endDate="2021-11-30 23:16:16 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.0517 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="11305.1 s" />
+ </Record>
+ <Record creationDate="2021-12-03 21:40:18 +0300" startDate="2021-11-30 23:16:16 +0300" endDate="2021-12-03 21:40:18 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.4847 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8130.02 s" />
+ </Record>
+ <Record creationDate="2021-12-06 22:47:33 +0300" startDate="2021-12-03 21:40:18 +0300" endDate="2021-12-06 22:47:33 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.2077 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="18158.9 s" />
+ </Record>
+ <Record creationDate="2021-12-09 20:27:14 +0300" startDate="2021-12-06 22:47:33 +0300" endDate="2021-12-09 20:27:13 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.3879 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8338.99 s" />
+ </Record>
+ <Record creationDate="2021-12-09 23:20:12 +0300" startDate="2021-12-09 20:27:13 +0300" endDate="2021-12-09 23:20:12 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.7442 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7657.36 s" />
+ </Record>
+ <Record creationDate="2021-12-11 22:22:36 +0300" startDate="2021-12-09 23:20:12 +0300" endDate="2021-12-11 22:22:36 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.6811 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7767.94 s" />
+ </Record>
+ <Record creationDate="2021-12-14 00:11:21 +0300" startDate="2021-12-11 22:22:36 +0300" endDate="2021-12-14 00:11:21 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.051 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8980.99 s" />
+ </Record>
+ <Record creationDate="2021-12-19 23:18:38 +0300" startDate="2021-12-14 00:11:21 +0300" endDate="2021-12-19 23:18:38 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.958 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="9911.87 s" />
+ </Record>
+ <Record creationDate="2021-12-23 15:38:21 +0300" startDate="2021-12-19 23:18:38 +0300" endDate="2021-12-23 15:38:21 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.9743 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="9142.72 s" />
+ </Record>
+ <Record creationDate="2021-12-27 20:18:19 +0300" startDate="2021-12-23 15:38:21 +0300" endDate="2021-12-27 20:18:19 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.4161 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="10394.6 s" />
+ </Record>
+ <Record creationDate="2022-01-19 17:44:43 +0300" startDate="2022-01-12 17:30:16 +0300" endDate="2022-01-19 17:44:43 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.3495 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8384.03 s" />
+ </Record>
+ <Record creationDate="2022-01-28 21:00:31 +0300" startDate="2022-01-21 20:50:21 +0300" endDate="2022-01-28 21:00:31 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.9649 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7288.19 s" />
+ </Record>
+ <Record creationDate="2022-02-02 20:09:47 +0300" startDate="2022-01-28 21:00:31 +0300" endDate="2022-02-02 20:09:47 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.8706 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7446.47 s" />
+ </Record>
+ <Record creationDate="2022-02-02 23:56:35 +0300" startDate="2022-02-02 20:09:47 +0300" endDate="2022-02-02 23:56:35 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.1482 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8789.37 s" />
+ </Record>
+ <Record creationDate="2022-02-03 02:02:48 +0300" startDate="2022-02-02 23:56:35 +0300" endDate="2022-02-03 02:02:48 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.9885 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5751.33 s" />
+ </Record>
+ <Record creationDate="2022-02-06 12:33:01 +0300" startDate="2022-02-03 02:02:48 +0300" endDate="2022-02-06 12:33:01 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.8777 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="9821.97 s" />
+ </Record>
+ <Record creationDate="2022-02-06 16:52:00 +0300" startDate="2022-02-06 12:33:01 +0300" endDate="2022-02-06 16:52:00 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="94.2253 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5442.95 s" />
+ </Record>
+ <Record creationDate="2022-02-09 18:24:05 +0300" startDate="2022-02-06 16:52:00 +0300" endDate="2022-02-09 18:24:05 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.0793 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7087.89 s" />
+ </Record>
+ <Record creationDate="2022-02-13 00:43:19 +0300" startDate="2022-02-09 18:24:05 +0300" endDate="2022-02-13 00:43:19 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.4406 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="8210.99 s" />
+ </Record>
+ <Record creationDate="2022-02-18 17:44:08 +0300" startDate="2022-02-13 00:43:19 +0300" endDate="2022-02-18 17:44:08 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.4355 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6530.38 s" />
+ </Record>
+ <Record creationDate="2022-02-24 14:55:58 +0300" startDate="2022-02-18 17:44:08 +0300" endDate="2022-02-24 14:55:58 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.0462 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="11335.5 s" />
+ </Record>
+ <Record creationDate="2022-03-06 18:29:35 +0300" startDate="2022-02-27 17:39:31 +0300" endDate="2022-03-06 18:29:35 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.8486 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7474.96 s" />
+ </Record>
+ <Record creationDate="2022-03-14 22:07:58 +0300" startDate="2022-03-07 22:00:12 +0300" endDate="2022-03-14 22:07:58 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="88.2211 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="21721.6 s" />
+ </Record>
+ <Record creationDate="2022-03-25 00:19:39 +0300" startDate="2022-03-18 00:13:11 +0300" endDate="2022-03-25 00:19:39 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="89.3407 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="16769.2 s" />
+ </Record>
+ <Record creationDate="2022-03-26 18:21:33 +0300" startDate="2022-03-25 00:19:39 +0300" endDate="2022-03-26 18:21:33 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.8801 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5893.91 s" />
+ </Record>
+ <Record creationDate="2022-03-29 19:35:02 +0300" startDate="2022-03-26 18:21:33 +0300" endDate="2022-03-29 19:35:01 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.6417 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7839.85 s" />
+ </Record>
+ <Record creationDate="2022-04-09 21:13:01 +0300" startDate="2022-04-02 20:26:18 +0300" endDate="2022-04-09 21:13:01 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.3776 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="10490.6 s" />
+ </Record>
+ <Record creationDate="2022-05-02 20:56:03 +0300" startDate="2022-04-25 20:53:24 +0300" endDate="2022-05-02 20:56:03 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.8804 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7428.63 s" />
+ </Record>
+ <Record creationDate="2022-05-06 22:22:48 +0300" startDate="2022-05-02 20:56:03 +0300" endDate="2022-05-06 22:22:47 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.6396 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6230.45 s" />
+ </Record>
+ <Record creationDate="2023-09-28 23:08:28 +0300" startDate="2023-09-21 23:07:33 +0300" endDate="2023-09-28 23:08:28 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.9765 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="9137.29 s" />
+ </Record>
+ <Record creationDate="2023-10-01 22:01:06 +0300" startDate="2023-09-28 23:08:28 +0300" endDate="2023-10-01 22:01:06 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.1536 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="11072.8 s" />
+ </Record>
+ <Record creationDate="2023-12-28 02:24:22 +0300" startDate="2023-12-21 01:53:20 +0300" endDate="2023-12-28 02:24:22 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="94.0115 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5723.14 s" />
+ </Record>
+ <Record creationDate="2023-12-28 04:11:03 +0300" startDate="2023-12-28 02:24:22 +0300" endDate="2023-12-28 04:11:03 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="94.357 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5280.88 s" />
+ </Record>
+ <Record creationDate="2024-02-19 13:59:58 +0300" startDate="2024-02-12 13:11:02 +0300" endDate="2024-02-19 13:59:58 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="87.2999 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="26895 s" />
+ </Record>
+ <Record creationDate="2024-03-14 19:42:28 +0300" startDate="2024-03-07 19:13:50 +0300" endDate="2024-03-14 19:42:28 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="89.5221 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="16080.7 s" />
+ </Record>
+ <Record creationDate="2024-03-21 17:01:24 +0300" startDate="2024-03-14 19:42:28 +0300" endDate="2024-03-21 17:01:24 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="88.2544 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="21527.4 s" />
+ </Record>
+ <Record creationDate="2024-04-13 20:17:02 +0300" startDate="2024-04-06 19:24:30 +0300" endDate="2024-04-13 20:17:02 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="95.2828 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="4289.07 s" />
+ </Record>
+ <Record creationDate="2024-04-17 00:40:07 +0300" startDate="2024-04-13 20:17:02 +0300" endDate="2024-04-17 00:40:07 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="97.8379 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="2373.25 s" />
+ </Record>
+ <Record creationDate="2024-04-17 16:26:03 +0300" startDate="2024-04-17 00:40:07 +0300" endDate="2024-04-17 16:26:03 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="94.5479 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5059.06 s" />
+ </Record>
+ <Record creationDate="2024-05-14 03:24:22 +0300" startDate="2024-05-07 03:24:20 +0300" endDate="2024-05-14 03:24:22 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="89.3412 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="16767.9 s" />
+ </Record>
+ <Record creationDate="2024-06-18 19:38:01 +0300" startDate="2024-06-11 19:34:29 +0300" endDate="2024-06-18 19:38:01 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="96.0344 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="3588.96 s" />
+ </Record>
+ <Record creationDate="2024-06-28 14:35:41 +0300" startDate="2024-06-21 14:24:13 +0300" endDate="2024-06-28 14:35:41 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.1617 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1747.74 s" />
+ </Record>
+ <Record creationDate="2024-06-28 15:08:47 +0300" startDate="2024-06-28 14:35:41 +0300" endDate="2024-06-28 15:08:47 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.3348 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1680.3 s" />
+ </Record>
+ <Record creationDate="2024-06-28 17:19:35 +0300" startDate="2024-06-28 15:08:47 +0300" endDate="2024-06-28 17:19:35 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.7672 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1575.64 s" />
+ </Record>
+ <Record creationDate="2024-06-28 22:11:36 +0300" startDate="2024-06-28 17:19:35 +0300" endDate="2024-06-28 22:11:36 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.0607 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1790.86 s" />
+ </Record>
+ <Record creationDate="2024-07-10 20:48:59 +0300" startDate="2024-07-03 20:48:59 +0300" endDate="2024-07-10 20:48:59 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="89.5778 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="15890.2 s" />
+ </Record>
+ <Record creationDate="2024-07-15 14:27:56 +0300" startDate="2024-07-10 20:48:59 +0300" endDate="2024-07-15 14:27:56 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="87.0657 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="28312.7 s" />
+ </Record>
+ <Record creationDate="2024-07-22 14:02:10 +0300" startDate="2024-07-15 14:27:56 +0300" endDate="2024-07-22 14:02:10 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="91.1516 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="11058.7 s" />
+ </Record>
+ <Record creationDate="2024-07-22 15:48:05 +0300" startDate="2024-07-22 14:02:10 +0300" endDate="2024-07-22 15:48:05 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.1253 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1761.34 s" />
+ </Record>
+ <Record creationDate="2024-07-22 16:24:18 +0300" startDate="2024-07-22 15:48:05 +0300" endDate="2024-07-22 16:24:18 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.5618 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1613.19 s" />
+ </Record>
+ <Record creationDate="2024-07-23 10:31:02 +0300" startDate="2024-07-22 16:24:18 +0300" endDate="2024-07-23 10:31:02 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.8993 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="5867.41 s" />
+ </Record>
+ <Record creationDate="2024-07-31 22:51:06 +0300" startDate="2024-07-24 22:34:52 +0300" endDate="2024-07-31 22:51:06 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="85.9933 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="36240.3 s" />
+ </Record>
+ <Record creationDate="2024-08-04 17:56:26 +0300" startDate="2024-07-31 22:51:06 +0300" endDate="2024-08-04 17:56:25 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.4851 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6455.51 s" />
+ </Record>
+ <Record creationDate="2024-08-06 10:28:29 +0300" startDate="2024-08-04 17:56:25 +0300" endDate="2024-08-06 10:28:29 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="95.2341 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="4622.5 s" />
+ </Record>
+ <Record creationDate="2024-08-29 14:43:37 +0300" startDate="2024-08-22 14:39:29 +0300" endDate="2024-08-29 14:43:37 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.6022 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7919.38 s" />
+ </Record>
+ <Record creationDate="2024-08-29 16:03:58 +0300" startDate="2024-08-29 14:43:37 +0300" endDate="2024-08-29 16:03:58 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.3474 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1674.15 s" />
+ </Record>
+ <Record creationDate="2024-08-31 18:52:21 +0300" startDate="2024-08-29 16:03:58 +0300" endDate="2024-08-31 18:52:21 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.5499 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1599.21 s" />
+ </Record>
+ <Record creationDate="2024-09-01 20:17:36 +0300" startDate="2024-08-31 18:52:21 +0300" endDate="2024-09-01 20:17:36 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="98.2594 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="2151.72 s" />
+ </Record>
+ <Record creationDate="2024-09-02 15:18:45 +0300" startDate="2024-09-01 20:17:36 +0300" endDate="2024-09-02 15:18:45 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="99.514 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1660.43 s" />
+ </Record>
+ <Record creationDate="2024-09-02 20:01:46 +0300" startDate="2024-09-02 15:18:45 +0300" endDate="2024-09-02 20:01:45 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="98.772 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="1911.99 s" />
+ </Record>
+ <Record creationDate="2024-09-04 17:17:03 +0300" startDate="2024-09-02 20:01:45 +0300" endDate="2024-09-04 17:17:03 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="97.209 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="2768.1 s" />
+ </Record>
+ <Record creationDate="2024-10-18 19:59:07 +0300" startDate="2024-10-11 19:48:02 +0300" endDate="2024-10-18 19:59:07 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="92.7609 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="7627.76 s" />
+ </Record>
+ <Record creationDate="2024-10-20 01:52:54 +0300" startDate="2024-10-18 19:59:07 +0300" endDate="2024-10-20 01:52:54 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="93.1639 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="6957.11 s" />
+ </Record>
+ <Record creationDate="2024-11-14 17:24:18 +0300" startDate="2024-11-07 17:22:23 +0300" endDate="2024-11-14 17:24:18 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="96.5645 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="3178.14 s" />
+ </Record>
+ <Record creationDate="2024-11-27 01:13:28 +0300" startDate="2024-11-20 01:12:09 +0300" endDate="2024-11-27 01:13:28 +0300" value="HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit">
+  <MetadataEntry key="HKMetadataKeyAudioExposureLevel" value="90.3294 dBASPL" />
+  <MetadataEntry key="HKMetadataKeyAudioExposureDuration" value="13361.4 s" />
+ </Record>
+ </HealthData>
