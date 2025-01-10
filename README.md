@@ -75,10 +75,6 @@ The following data is used for this analysis
 2. **Causation vs. Correlation**:
    - Acknowledge that correlations do not imply causation between headphone exposure and activity metrics.
 
-## Presentation Video
-
-You can find the presentation from this link.
-
 ## Report
 
 Make sure to read the report in order to understand the implementation of the code and the process behind it.
